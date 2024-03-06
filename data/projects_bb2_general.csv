@@ -1,0 +1,2901 @@
+date,slug,rank,id_project,name_project
+2023-09-30,okb,1.0,988,OKB
+2023-09-30,aragon,2.0,204,Aragon
+2023-09-30,aelf,3.0,114,aelf
+2023-09-30,mx-token,4.0,2696,MX Token
+2023-09-30,tomochain,5.0,1039,TomoChain
+2023-09-30,gains-network,6.0,12260,Gains Network
+2023-09-30,mask-network,7.0,7426,Mask Network
+2023-09-30,iexec-rlc,8.0,1059,iExec RLC
+2023-09-30,bone-shibaswap,9.0,11675,Bone ShibaSwap
+2023-09-30,xdce-crowd-sale,10.0,3213,XinFin
+2023-09-30,chia,11.0,8840,Chia
+2023-09-30,ripple,12.0,979,XRP
+2023-09-30,quant-network,13.0,1040,Quant
+2023-09-30,alchemy-pay,14.0,4829,Alchemy Pay
+2023-09-30,baby-doge-coin,15.0,10910,Baby Doge Coin
+2023-09-30,litecoin,16.0,981,Litecoin
+2023-09-30,safepal,17.0,7173,SafePal
+2023-09-30,energy-web-token,18.0,3945,Energy Web Token
+2023-09-30,tokenize-xchange,19.0,1115,Tokenize Xchange
+2023-09-30,trust-wallet-token,20.0,3844,Trust Wallet Token
+2023-09-30,tellor,21.0,1259,Tellor
+2023-09-30,gmx,22.0,10735,GMX
+2023-09-30,stp-network,23.0,1169,STP Network
+2023-09-30,injective-protocol,24.0,5920,Injective Protocol
+2023-09-30,leo-token,25.0,987,LEO Token
+2023-09-30,centrifuge,26.0,9427,Centrifuge
+2023-09-30,stargate-finance,27.0,16688,Stargate Finance
+2023-09-30,uniswap,28.0,5395,Uniswap
+2023-09-30,ssv-network,29.0,13100,SSV Network
+2023-09-30,tron,30.0,984,TRON
+2023-09-30,api3,31.0,6298,API3
+2023-09-30,usdd,32.0,16837,USDD
+2023-09-30,casper-network,33.0,9500,Casper Network
+2023-09-30,fetch-ai,34.0,1094,Fetch.ai
+2023-09-30,stellar,35.0,983,Stellar
+2023-09-30,numeraire,36.0,1054,Numeraire
+2023-09-30,liquity,37.0,8062,Liquity
+2023-09-30,metal,38.0,1097,Metal
+2023-09-30,magic,39.0,11258,Magic
+2023-09-30,staked-ether,40.0,6583,Staked Ether
+2023-09-30,binancecoin,41.0,345,Binance Coin
+2023-09-30,the-open-network,42.0,10418,The Open Network
+2023-09-30,woo-network,43.0,10321,WOO Network
+2023-09-30,render-token,44.0,4469,Render Token
+2023-09-30,dogecoin,45.0,998,Dogecoin
+2023-09-30,singularitynet,46.0,1101,SingularityNET
+2023-09-30,rocket-pool,47.0,3720,Rocket Pool
+2023-09-30,conflux-token,48.0,6035,Conflux Token
+2023-09-30,steem,49.0,1033,Steem
+2023-09-30,chainlink,50.0,659,ChainLink
+2023-09-30,ocean-protocol,51.0,1121,Ocean Protocol
+2023-09-30,bitcoin,52.0,376,Bitcoin
+2023-09-30,rocket-pool-eth,53.0,13879,Rocket Pool ETH
+2023-09-30,ronin,54.0,15732,Ronin
+2023-09-30,skale,55.0,6350,SKALE
+2023-09-30,elrond-erd-2,56.0,4691,Elrond
+2023-09-30,prometeus,57.0,1443,Prometeus
+2023-09-30,neo,58.0,990,NEO
+2023-09-30,blockstack,59.0,512,Blockstack
+2023-09-30,cosmos,60.0,769,Cosmos
+2023-09-30,huobi-token,61.0,989,Huobi Token
+2023-09-30,pundi-x-2,62.0,8224,Pundi X
+2023-09-30,dydx,63.0,10717,dYdX
+2023-09-30,monero,64.0,986,Monero
+2023-09-30,optimism,65.0,18126,Optimism
+2023-09-30,rollbit-coin,66.0,16660,Rollbit Coin
+2023-09-30,basic-attention-token,67.0,291,Basic Attention Token
+2023-09-30,golem,68.0,1052,Golem
+2023-09-30,cartesi,69.0,3752,Cartesi
+2023-09-30,bitcoin-cash,70.0,382,Bitcoin Cash
+2023-09-30,everscale,71.0,15831,Everscale
+2023-09-30,everipedia,72.0,3127,Everipedia
+2023-09-30,origintrail,73.0,1281,OriginTrail
+2023-09-30,dexe,74.0,5792,DeXe
+2023-09-30,radix,75.0,13193,Radix
+2023-09-30,insure,76.0,3457,inSure
+2023-09-30,just,77.0,3756,JUST
+2023-09-30,milk-alliance,78.0,8283,MiL.k Alliance
+2023-09-30,matic-network,79.0,1036,Polygon
+2023-09-30,digibyte,80.0,947,DigiByte
+2023-09-30,maker,81.0,996,Maker
+2023-09-30,bitcoin-cash-sv,82.0,408,Bitcoin SV
+2023-09-30,apenft,83.0,9195,APENFT
+2023-09-30,shiba-inu,84.0,5083,Shiba Inu
+2023-09-30,oec-token,85.0,13245,OEC Token
+2023-09-30,e-radix,86.0,6154,e-Radix
+2023-09-30,vechain,87.0,994,VeChain
+2023-09-30,band-protocol,88.0,282,Band Protocol
+2023-09-30,ethereum,89.0,978,Ethereum
+2023-09-30,swipe,90.0,1016,Swipe
+2023-09-30,nano,91.0,1010,Nano
+2023-09-30,osmosis,92.0,9792,Osmosis
+2023-09-30,immutable-x,93.0,12263,Immutable X
+2023-09-30,akash-network,94.0,5923,Akash Network
+2023-09-30,nervos-network,95.0,1007,Nervos Network
+2023-09-30,lido-dao,96.0,6723,Lido DAO
+2023-09-30,balancer,97.0,4341,Balancer
+2023-09-30,ecash,98.0,10703,eCash
+2023-09-30,beldex,99.0,309,Beldex
+2023-09-30,dock,100.0,1235,Dock
+2023-08-05,okb,1.0,988,OKB
+2023-08-05,mask-network,2.0,7426,Mask Network
+2023-08-05,bone-shibaswap,3.0,11675,Bone ShibaSwap
+2023-08-05,aelf,4.0,114,aelf
+2023-08-05,wrapped-nxm,5.0,4702,Wrapped NXM
+2023-08-05,trust-wallet-token,6.0,3844,Trust Wallet Token
+2023-08-05,aragon,7.0,204,Aragon
+2023-08-05,iexec-rlc,8.0,1059,iExec RLC
+2023-08-05,lukso-token,9.0,4557,LUKSO Token
+2023-08-05,gains-network,10.0,12260,Gains Network
+2023-08-05,ssv-network,11.0,13100,SSV Network
+2023-08-05,chia,12.0,8840,Chia
+2023-08-05,xdce-crowd-sale,13.0,3213,XinFin
+2023-08-05,gmx,14.0,10735,GMX
+2023-08-05,quant-network,15.0,1040,Quant
+2023-08-05,ripple,16.0,979,XRP
+2023-08-05,tokenize-xchange,17.0,1115,Tokenize Xchange
+2023-08-05,liquity,18.0,8062,Liquity
+2023-08-05,litecoin,19.0,981,Litecoin
+2023-08-05,baby-doge-coin,20.0,10910,Baby Doge Coin
+2023-08-05,mx-token,21.0,2696,MX Token
+2023-08-05,rocket-pool,22.0,3720,Rocket Pool
+2023-08-05,energy-web-token,23.0,3945,Energy Web Token
+2023-08-05,uniswap,24.0,5395,Uniswap
+2023-08-05,numeraire,25.0,1054,Numeraire
+2023-08-05,fetch-ai,26.0,1094,Fetch.ai
+2023-08-05,safepal,27.0,7173,SafePal
+2023-08-05,usdd,28.0,16837,USDD
+2023-08-05,leo-token,29.0,987,LEO Token
+2023-08-05,api3,30.0,6298,API3
+2023-08-05,singularitynet,31.0,1101,SingularityNET
+2023-08-05,tomochain,32.0,1039,TomoChain
+2023-08-05,stargate-finance,33.0,16688,Stargate Finance
+2023-08-05,binancecoin,34.0,345,Binance Coin
+2023-08-05,tokamak-network,35.0,4927,Tokamak Network
+2023-08-05,casper-network,36.0,9500,Casper Network
+2023-08-05,pendle,37.0,8668,Pendle
+2023-08-05,dexe,38.0,5792,DeXe
+2023-08-05,cosmos,39.0,769,Cosmos
+2023-08-05,telcoin,40.0,1105,Telcoin
+2023-08-05,tron,41.0,984,TRON
+2023-08-05,steem,42.0,1033,Steem
+2023-08-05,dogecoin,43.0,998,Dogecoin
+2023-08-05,staked-ether,44.0,6583,Staked Ether
+2023-08-05,pundi-x-2,45.0,8224,Pundi X
+2023-08-05,matic-network,46.0,1036,Polygon
+2023-08-05,chiliz,47.0,672,Chiliz
+2023-08-05,shiba-inu,48.0,5083,Shiba Inu
+2023-08-05,render-token,49.0,4469,Render Token
+2023-08-05,gala,50.0,5437,Gala
+2023-08-05,woo-network,51.0,10321,WOO Network
+2023-08-05,compound-governance-token,52.0,4340,Compound
+2023-08-05,injective-protocol,53.0,5920,Injective Protocol
+2023-08-05,metal,54.0,1097,Metal
+2023-08-05,btse-token,55.0,3748,BTSE Token
+2023-08-05,optimism,56.0,18126,Optimism
+2023-08-05,stp-network,57.0,1169,STP Network
+2023-08-05,magic,58.0,11258,Magic
+2023-08-05,storm,59.0,1147,Storm
+2023-08-05,golem,60.0,1052,Golem
+2023-08-05,digibyte,61.0,947,DigiByte
+2023-08-05,ronin,62.0,15732,Ronin
+2023-08-05,band-protocol,63.0,282,Band Protocol
+2023-08-05,coinex-token,64.0,715,CoinEx Token
+2023-08-05,chainlink,65.0,659,ChainLink
+2023-08-05,milk-alliance,66.0,8283,MiL.k Alliance
+2023-08-05,blockstack,67.0,512,Blockstack
+2023-08-05,dydx,68.0,10717,dYdX
+2023-08-05,stellar,69.0,983,Stellar
+2023-08-05,conflux-token,70.0,6035,Conflux Token
+2023-08-05,ocean-protocol,71.0,1121,Ocean Protocol
+2023-08-05,hedera-hashgraph,72.0,1069,Hedera Hashgraph
+2023-08-05,elrond-erd-2,73.0,4691,Elrond
+2023-08-05,linear,74.0,5425,Linear
+2023-08-05,filecoin,75.0,3288,Filecoin
+2023-08-05,rif-token,76.0,1046,RIF Token
+2023-08-05,omisego,77.0,1009,OMG Network
+2023-08-05,cartesi,78.0,3752,Cartesi
+2023-08-05,osmosis,79.0,9792,Osmosis
+2023-08-05,fx-coin,80.0,2792,f(x) Coin
+2023-08-05,celer-network,81.0,648,Celer Network
+2023-08-05,monero,82.0,986,Monero
+2023-08-05,dash,83.0,881,Dash
+2023-08-05,lido-staked-sol,84.0,10879,Lido Staked SOL
+2023-08-05,origintrail,85.0,1281,OriginTrail
+2023-08-05,convex-finance,86.0,8849,Convex Finance
+2023-08-05,siacoin,87.0,1025,Siacoin
+2023-08-05,alpha-finance,88.0,5719,Alpha Finance
+2023-08-05,theta-token,89.0,1011,Theta Network
+2023-08-05,vechain,90.0,994,VeChain
+2023-08-05,sushi,91.0,4692,Sushi
+2023-08-05,bitdao,92.0,10540,BitDAO
+2023-08-05,balancer,93.0,4341,Balancer
+2023-08-05,beldex,94.0,309,Beldex
+2023-08-05,status,95.0,1041,Status
+2023-08-05,basic-attention-token,96.0,291,Basic Attention Token
+2023-08-05,gatechain-token,97.0,1015,Gatechain Token
+2023-08-05,everipedia,98.0,3127,Everipedia
+2023-08-05,maker,99.0,996,Maker
+2023-08-05,just,100.0,3756,JUST
+2023-08-12,okb,1.0,988,OKB
+2023-08-12,mask-network,2.0,7426,Mask Network
+2023-08-12,bone-shibaswap,3.0,11675,Bone ShibaSwap
+2023-08-12,aelf,4.0,114,aelf
+2023-08-12,aragon,5.0,204,Aragon
+2023-08-12,wrapped-nxm,6.0,4702,Wrapped NXM
+2023-08-12,gains-network,7.0,12260,Gains Network
+2023-08-12,trust-wallet-token,8.0,3844,Trust Wallet Token
+2023-08-12,iexec-rlc,9.0,1059,iExec RLC
+2023-08-12,stargate-finance,10.0,16688,Stargate Finance
+2023-08-12,ssv-network,11.0,13100,SSV Network
+2023-08-12,gmx,12.0,10735,GMX
+2023-08-12,chia,13.0,8840,Chia
+2023-08-12,lukso-token,14.0,4557,LUKSO Token
+2023-08-12,ripple,15.0,979,XRP
+2023-08-12,energy-web-token,16.0,3945,Energy Web Token
+2023-08-12,xdce-crowd-sale,17.0,3213,XinFin
+2023-08-12,liquity,18.0,8062,Liquity
+2023-08-12,quant-network,19.0,1040,Quant
+2023-08-12,usdd,20.0,16837,USDD
+2023-08-12,fetch-ai,21.0,1094,Fetch.ai
+2023-08-12,numeraire,22.0,1054,Numeraire
+2023-08-12,baby-doge-coin,23.0,10910,Baby Doge Coin
+2023-08-12,rocket-pool,24.0,3720,Rocket Pool
+2023-08-12,leo-token,25.0,987,LEO Token
+2023-08-12,casper-network,26.0,9500,Casper Network
+2023-08-12,mx-token,27.0,2696,MX Token
+2023-08-12,litecoin,28.0,981,Litecoin
+2023-08-12,uniswap,29.0,5395,Uniswap
+2023-08-12,safepal,30.0,7173,SafePal
+2023-08-12,the-open-network,31.0,10418,The Open Network
+2023-08-12,biconomy,32.0,13226,Biconomy
+2023-08-12,escoin-token,33.0,6790,Escoin Token
+2023-08-12,render-token,34.0,4469,Render Token
+2023-08-12,tomochain,35.0,1039,TomoChain
+2023-08-12,tokenize-xchange,36.0,1115,Tokenize Xchange
+2023-08-12,singularitynet,37.0,1101,SingularityNET
+2023-08-12,api3,38.0,6298,API3
+2023-08-12,binancecoin,39.0,345,Binance Coin
+2023-08-12,dexe,40.0,5792,DeXe
+2023-08-12,shiba-inu,41.0,5083,Shiba Inu
+2023-08-12,telcoin,42.0,1105,Telcoin
+2023-08-12,woo-network,43.0,10321,WOO Network
+2023-08-12,tokamak-network,44.0,4927,Tokamak Network
+2023-08-12,convex-finance,45.0,8849,Convex Finance
+2023-08-12,centrifuge,46.0,9427,Centrifuge
+2023-08-12,btse-token,47.0,3748,BTSE Token
+2023-08-12,cosmos,48.0,769,Cosmos
+2023-08-12,tron,49.0,984,TRON
+2023-08-12,pendle,50.0,8668,Pendle
+2023-08-12,metal,51.0,1097,Metal
+2023-08-12,steem,52.0,1033,Steem
+2023-08-12,dogecoin,53.0,998,Dogecoin
+2023-08-12,injective-protocol,54.0,5920,Injective Protocol
+2023-08-12,staked-ether,55.0,6583,Staked Ether
+2023-08-12,fx-coin,56.0,2792,f(x) Coin
+2023-08-12,pundi-x-2,57.0,8224,Pundi X
+2023-08-12,gala,58.0,5437,Gala
+2023-08-12,matic-network,59.0,1036,Polygon
+2023-08-12,magic,60.0,11258,Magic
+2023-08-12,golem,61.0,1052,Golem
+2023-08-12,band-protocol,62.0,282,Band Protocol
+2023-08-12,linear,63.0,5425,Linear
+2023-08-12,optimism,64.0,18126,Optimism
+2023-08-12,chiliz,65.0,672,Chiliz
+2023-08-12,rif-token,66.0,1046,RIF Token
+2023-08-12,bitdao,67.0,10540,BitDAO
+2023-08-12,digibyte,68.0,947,DigiByte
+2023-08-12,ronin,69.0,15732,Ronin
+2023-08-12,ocean-protocol,70.0,1121,Ocean Protocol
+2023-08-12,cartesi,71.0,3752,Cartesi
+2023-08-12,stellar,72.0,983,Stellar
+2023-08-12,chainlink,73.0,659,ChainLink
+2023-08-12,holotoken,74.0,1004,Holo
+2023-08-12,dydx,75.0,10717,dYdX
+2023-08-12,conflux-token,76.0,6035,Conflux Token
+2023-08-12,kadena,77.0,3753,Kadena
+2023-08-12,origintrail,78.0,1281,OriginTrail
+2023-08-12,just,79.0,3756,JUST
+2023-08-12,coinex-token,80.0,715,CoinEx Token
+2023-08-12,stp-network,81.0,1169,STP Network
+2023-08-12,celer-network,82.0,648,Celer Network
+2023-08-12,monero,83.0,986,Monero
+2023-08-12,joe,84.0,10035,JOE
+2023-08-12,blockstack,85.0,512,Blockstack
+2023-08-12,alpha-finance,86.0,5719,Alpha Finance
+2023-08-12,frax-share,87.0,6597,Frax Share
+2023-08-12,everipedia,88.0,3127,Everipedia
+2023-08-12,apenft,89.0,9195,APENFT
+2023-08-12,balancer,90.0,4341,Balancer
+2023-08-12,basic-attention-token,91.0,291,Basic Attention Token
+2023-08-12,compound-governance-token,92.0,4340,Compound
+2023-08-12,elrond-erd-2,93.0,4691,Elrond
+2023-08-12,fantom,94.0,1062,Fantom
+2023-08-12,siacoin,95.0,1025,Siacoin
+2023-08-12,gatechain-token,96.0,1015,Gatechain Token
+2023-08-12,sushi,97.0,4692,Sushi
+2023-08-12,vechain,98.0,994,VeChain
+2023-08-12,everscale,99.0,15831,Everscale
+2023-08-12,omisego,100.0,1009,OMG Network
+2023-08-19,okb,1.0,988,OKB
+2023-08-19,bone-shibaswap,2.0,11675,Bone ShibaSwap
+2023-08-19,aelf,3.0,114,aelf
+2023-08-19,wrapped-nxm,4.0,4702,Wrapped NXM
+2023-08-19,aragon,5.0,204,Aragon
+2023-08-19,stargate-finance,6.0,16688,Stargate Finance
+2023-08-19,iexec-rlc,7.0,1059,iExec RLC
+2023-08-19,mask-network,8.0,7426,Mask Network
+2023-08-19,trust-wallet-token,9.0,3844,Trust Wallet Token
+2023-08-19,gains-network,10.0,12260,Gains Network
+2023-08-19,tomochain,11.0,1039,TomoChain
+2023-08-19,lukso-token,12.0,4557,LUKSO Token
+2023-08-19,mx-token,13.0,2696,MX Token
+2023-08-19,chia,14.0,8840,Chia
+2023-08-19,ssv-network,15.0,13100,SSV Network
+2023-08-19,gmx,16.0,10735,GMX
+2023-08-19,ripple,17.0,979,XRP
+2023-08-19,quant-network,18.0,1040,Quant
+2023-08-19,api3,19.0,6298,API3
+2023-08-19,xdce-crowd-sale,20.0,3213,XinFin
+2023-08-19,energy-web-token,21.0,3945,Energy Web Token
+2023-08-19,usdd,22.0,16837,USDD
+2023-08-19,litecoin,23.0,981,Litecoin
+2023-08-19,liquity,24.0,8062,Liquity
+2023-08-19,baby-doge-coin,25.0,10910,Baby Doge Coin
+2023-08-19,numeraire,26.0,1054,Numeraire
+2023-08-19,safepal,27.0,7173,SafePal
+2023-08-19,uniswap,28.0,5395,Uniswap
+2023-08-19,dexe,29.0,5792,DeXe
+2023-08-19,rocket-pool,30.0,3720,Rocket Pool
+2023-08-19,linear,31.0,5425,Linear
+2023-08-19,singularitynet,32.0,1101,SingularityNET
+2023-08-19,binancecoin,33.0,345,Binance Coin
+2023-08-19,tokenize-xchange,34.0,1115,Tokenize Xchange
+2023-08-19,leo-token,35.0,987,LEO Token
+2023-08-19,cosmos,36.0,769,Cosmos
+2023-08-19,the-open-network,37.0,10418,The Open Network
+2023-08-19,shiba-inu,38.0,5083,Shiba Inu
+2023-08-19,dydx,39.0,10717,dYdX
+2023-08-19,tron,40.0,984,TRON
+2023-08-19,casper-network,41.0,9500,Casper Network
+2023-08-19,fetch-ai,42.0,1094,Fetch.ai
+2023-08-19,btse-token,43.0,3748,BTSE Token
+2023-08-19,rocket-pool-eth,44.0,13879,Rocket Pool ETH
+2023-08-19,refereum,45.0,1373,Refereum
+2023-08-19,steem,46.0,1033,Steem
+2023-08-19,dogecoin,47.0,998,Dogecoin
+2023-08-19,staked-ether,48.0,6583,Staked Ether
+2023-08-19,fx-coin,49.0,2792,f(x) Coin
+2023-08-19,tokamak-network,50.0,4927,Tokamak Network
+2023-08-19,injective-protocol,51.0,5920,Injective Protocol
+2023-08-19,centrifuge,52.0,9427,Centrifuge
+2023-08-19,metal,53.0,1097,Metal
+2023-08-19,gala,54.0,5437,Gala
+2023-08-19,telcoin,55.0,1105,Telcoin
+2023-08-19,ronin,56.0,15732,Ronin
+2023-08-19,render-token,57.0,4469,Render Token
+2023-08-19,optimism,58.0,18126,Optimism
+2023-08-19,pundi-x-2,59.0,8224,Pundi X
+2023-08-19,matic-network,60.0,1036,Polygon
+2023-08-19,magic,61.0,11258,Magic
+2023-08-19,golem,62.0,1052,Golem
+2023-08-19,chainlink,63.0,659,ChainLink
+2023-08-19,ocean-protocol,64.0,1121,Ocean Protocol
+2023-08-19,band-protocol,65.0,282,Band Protocol
+2023-08-19,akash-network,66.0,5923,Akash Network
+2023-08-19,stp-network,67.0,1169,STP Network
+2023-08-19,cartesi,68.0,3752,Cartesi
+2023-08-19,coinex-token,69.0,715,CoinEx Token
+2023-08-19,woo-network,70.0,10321,WOO Network
+2023-08-19,immutable-x,71.0,12263,Immutable X
+2023-08-19,stellar,72.0,983,Stellar
+2023-08-19,conflux-token,73.0,6035,Conflux Token
+2023-08-19,sushi,74.0,4692,Sushi
+2023-08-19,chiliz,75.0,672,Chiliz
+2023-08-19,origintrail,76.0,1281,OriginTrail
+2023-08-19,monero,77.0,986,Monero
+2023-08-19,elrond-erd-2,78.0,4691,Elrond
+2023-08-19,just,79.0,3756,JUST
+2023-08-19,apenft,80.0,9195,APENFT
+2023-08-19,nervos-network,81.0,1007,Nervos Network
+2023-08-19,blockstack,82.0,512,Blockstack
+2023-08-19,everscale,83.0,15831,Everscale
+2023-08-19,digibyte,84.0,947,DigiByte
+2023-08-19,everipedia,85.0,3127,Everipedia
+2023-08-19,livepeer,86.0,1137,Livepeer
+2023-08-19,alpha-finance,87.0,5719,Alpha Finance
+2023-08-19,bitcoin,88.0,376,Bitcoin
+2023-08-19,basic-attention-token,89.0,291,Basic Attention Token
+2023-08-19,milk-alliance,90.0,8283,MiL.k Alliance
+2023-08-19,hedera-hashgraph,91.0,1069,Hedera Hashgraph
+2023-08-19,swipe,92.0,1016,Swipe
+2023-08-19,celer-network,93.0,648,Celer Network
+2023-08-19,nym,94.0,16758,Nym
+2023-08-19,balancer,95.0,4341,Balancer
+2023-08-19,radix,96.0,13193,Radix
+2023-08-19,wemix-token,97.0,6098,Wemix Token
+2023-08-19,swissborg,98.0,3273,SwissBorg
+2023-08-19,dash,99.0,881,Dash
+2023-08-19,kadena,100.0,3753,Kadena
+2023-08-26,okb,1.0,988,OKB
+2023-08-26,wrapped-nxm,2.0,4702,Wrapped NXM
+2023-08-26,mask-network,3.0,7426,Mask Network
+2023-08-26,aelf,4.0,114,aelf
+2023-08-26,aragon,5.0,204,Aragon
+2023-08-26,bone-shibaswap,6.0,11675,Bone ShibaSwap
+2023-08-26,gains-network,7.0,12260,Gains Network
+2023-08-26,iexec-rlc,8.0,1059,iExec RLC
+2023-08-26,tomochain,9.0,1039,TomoChain
+2023-08-26,stargate-finance,10.0,16688,Stargate Finance
+2023-08-26,ripple,11.0,979,XRP
+2023-08-26,chia,12.0,8840,Chia
+2023-08-26,injective-protocol,13.0,5920,Injective Protocol
+2023-08-26,xdce-crowd-sale,14.0,3213,XinFin
+2023-08-26,energy-web-token,15.0,3945,Energy Web Token
+2023-08-26,quant-network,16.0,1040,Quant
+2023-08-26,gmx,17.0,10735,GMX
+2023-08-26,baby-doge-coin,18.0,10910,Baby Doge Coin
+2023-08-26,trust-wallet-token,19.0,3844,Trust Wallet Token
+2023-08-26,fetch-ai,20.0,1094,Fetch.ai
+2023-08-26,usdd,21.0,16837,USDD
+2023-08-26,api3,22.0,6298,API3
+2023-08-26,ssv-network,23.0,13100,SSV Network
+2023-08-26,linear,24.0,5425,Linear
+2023-08-26,litecoin,25.0,981,Litecoin
+2023-08-26,liquity,26.0,8062,Liquity
+2023-08-26,the-open-network,27.0,10418,The Open Network
+2023-08-26,safepal,28.0,7173,SafePal
+2023-08-26,tokenize-xchange,29.0,1115,Tokenize Xchange
+2023-08-26,numeraire,30.0,1054,Numeraire
+2023-08-26,leo-token,31.0,987,LEO Token
+2023-08-26,fx-coin,32.0,2792,f(x) Coin
+2023-08-26,casper-network,33.0,9500,Casper Network
+2023-08-26,woo-network,34.0,10321,WOO Network
+2023-08-26,dexe,35.0,5792,DeXe
+2023-08-26,rocket-pool,36.0,3720,Rocket Pool
+2023-08-26,singularitynet,37.0,1101,SingularityNET
+2023-08-26,cosmos,38.0,769,Cosmos
+2023-08-26,staked-ether,39.0,6583,Staked Ether
+2023-08-26,uniswap,40.0,5395,Uniswap
+2023-08-26,render-token,41.0,4469,Render Token
+2023-08-26,shiba-inu,42.0,5083,Shiba Inu
+2023-08-26,magic,43.0,11258,Magic
+2023-08-26,binancecoin,44.0,345,Binance Coin
+2023-08-26,rocket-pool-eth,45.0,13879,Rocket Pool ETH
+2023-08-26,dogecoin,46.0,998,Dogecoin
+2023-08-26,elrond-erd-2,47.0,4691,Elrond
+2023-08-26,tron,48.0,984,TRON
+2023-08-26,gala,49.0,5437,Gala
+2023-08-26,matic-network,50.0,1036,Polygon
+2023-08-26,pundi-x-2,51.0,8224,Pundi X
+2023-08-26,hedera-hashgraph,52.0,1069,Hedera Hashgraph
+2023-08-26,metal,53.0,1097,Metal
+2023-08-26,steem,54.0,1033,Steem
+2023-08-26,apenft,55.0,9195,APENFT
+2023-08-26,conflux-token,56.0,6035,Conflux Token
+2023-08-26,centrifuge,57.0,9427,Centrifuge
+2023-08-26,stp-network,58.0,1169,STP Network
+2023-08-26,blockstack,59.0,512,Blockstack
+2023-08-26,ronin,60.0,15732,Ronin
+2023-08-26,golem,61.0,1052,Golem
+2023-08-26,nervos-network,62.0,1007,Nervos Network
+2023-08-26,kadena,63.0,3753,Kadena
+2023-08-26,chiliz,64.0,672,Chiliz
+2023-08-26,just,65.0,3756,JUST
+2023-08-26,akash-network,66.0,5923,Akash Network
+2023-08-26,stellar,67.0,983,Stellar
+2023-08-26,ocean-protocol,68.0,1121,Ocean Protocol
+2023-08-26,radicle,69.0,7555,Radicle
+2023-08-26,bitcoin-cash-sv,70.0,408,Bitcoin SV
+2023-08-26,filecoin,71.0,3288,Filecoin
+2023-08-26,e-radix,72.0,6154,e-Radix
+2023-08-26,maker,73.0,996,Maker
+2023-08-26,digibyte,74.0,947,DigiByte
+2023-08-26,chainlink,75.0,659,ChainLink
+2023-08-26,monero,76.0,986,Monero
+2023-08-26,oec-token,77.0,13245,OEC Token
+2023-08-26,vulcan-forged,78.0,9735,Vulcan Forged
+2023-08-26,alchemy-pay,79.0,4829,Alchemy Pay
+2023-08-26,coinex-token,80.0,715,CoinEx Token
+2023-08-26,basic-attention-token,81.0,291,Basic Attention Token
+2023-08-26,milk-alliance,82.0,8283,MiL.k Alliance
+2023-08-26,everscale,83.0,15831,Everscale
+2023-08-26,immutable-x,84.0,12263,Immutable X
+2023-08-26,origintrail,85.0,1281,OriginTrail
+2023-08-26,prometeus,86.0,1443,Prometeus
+2023-08-26,thorchain,87.0,1150,Thorchain
+2023-08-26,gatechain-token,88.0,1015,Gatechain Token
+2023-08-26,band-protocol,89.0,282,Band Protocol
+2023-08-26,fantom,90.0,1062,Fantom
+2023-08-26,swipe,91.0,1016,Swipe
+2023-08-26,vechain,92.0,994,VeChain
+2023-08-26,jasmycoin,93.0,7234,JasmyCoin
+2023-08-26,alpha-finance,94.0,5719,Alpha Finance
+2023-08-26,zelcash,95.0,1270,ZelCash
+2023-08-26,bitcoin,96.0,376,Bitcoin
+2023-08-26,iota,97.0,993,IOTA
+2023-08-26,beldex,98.0,309,Beldex
+2023-08-26,optimism,99.0,18126,Optimism
+2023-08-26,dogelon-mars,100.0,8844,Dogelon Mars
+2023-09-02,okb,1.0,988,OKB
+2023-09-02,bone-shibaswap,2.0,11675,Bone ShibaSwap
+2023-09-02,wrapped-nxm,3.0,4702,Wrapped NXM
+2023-09-02,aragon,4.0,204,Aragon
+2023-09-02,aelf,5.0,114,aelf
+2023-09-02,tomochain,6.0,1039,TomoChain
+2023-09-02,mask-network,7.0,7426,Mask Network
+2023-09-02,trust-wallet-token,8.0,3844,Trust Wallet Token
+2023-09-02,gains-network,9.0,12260,Gains Network
+2023-09-02,energy-web-token,10.0,3945,Energy Web Token
+2023-09-02,ripple,11.0,979,XRP
+2023-09-02,iexec-rlc,12.0,1059,iExec RLC
+2023-09-02,chia,13.0,8840,Chia
+2023-09-02,xdce-crowd-sale,14.0,3213,XinFin
+2023-09-02,quant-network,15.0,1040,Quant
+2023-09-02,baby-doge-coin,16.0,10910,Baby Doge Coin
+2023-09-02,ssv-network,17.0,13100,SSV Network
+2023-09-02,usdd,18.0,16837,USDD
+2023-09-02,litecoin,19.0,981,Litecoin
+2023-09-02,safepal,20.0,7173,SafePal
+2023-09-02,gmx,21.0,10735,GMX
+2023-09-02,fx-coin,22.0,2792,f(x) Coin
+2023-09-02,tokenize-xchange,23.0,1115,Tokenize Xchange
+2023-09-02,api3,24.0,6298,API3
+2023-09-02,stargate-finance,25.0,16688,Stargate Finance
+2023-09-02,fetch-ai,26.0,1094,Fetch.ai
+2023-09-02,uniswap,27.0,5395,Uniswap
+2023-09-02,injective-protocol,28.0,5920,Injective Protocol
+2023-09-02,numeraire,29.0,1054,Numeraire
+2023-09-02,leo-token,30.0,987,LEO Token
+2023-09-02,rocket-pool-eth,31.0,13879,Rocket Pool ETH
+2023-09-02,dydx,32.0,10717,dYdX
+2023-09-02,casper-network,33.0,9500,Casper Network
+2023-09-02,shiba-inu,34.0,5083,Shiba Inu
+2023-09-02,elrond-erd-2,35.0,4691,Elrond
+2023-09-02,tron,36.0,984,TRON
+2023-09-02,rollbit-coin,37.0,16660,Rollbit Coin
+2023-09-02,binancecoin,38.0,345,Binance Coin
+2023-09-02,kadena,39.0,3753,Kadena
+2023-09-02,rocket-pool,40.0,3720,Rocket Pool
+2023-09-02,singularitynet,41.0,1101,SingularityNET
+2023-09-02,staked-ether,42.0,6583,Staked Ether
+2023-09-02,magic,43.0,11258,Magic
+2023-09-02,dogecoin,44.0,998,Dogecoin
+2023-09-02,radicle,45.0,7555,Radicle
+2023-09-02,matic-network,46.0,1036,Polygon
+2023-09-02,chainlink,47.0,659,ChainLink
+2023-09-02,dexe,48.0,5792,DeXe
+2023-09-02,alchemy-pay,49.0,4829,Alchemy Pay
+2023-09-02,the-open-network,50.0,10418,The Open Network
+2023-09-02,cosmos,51.0,769,Cosmos
+2023-09-02,steem,52.0,1033,Steem
+2023-09-02,render-token,53.0,4469,Render Token
+2023-09-02,ronin,54.0,15732,Ronin
+2023-09-02,stp-network,55.0,1169,STP Network
+2023-09-02,woo-network,56.0,10321,WOO Network
+2023-09-02,liquity,57.0,8062,Liquity
+2023-09-02,prometeus,58.0,1443,Prometeus
+2023-09-02,metal,59.0,1097,Metal
+2023-09-02,basic-attention-token,60.0,291,Basic Attention Token
+2023-09-02,stellar,61.0,983,Stellar
+2023-09-02,conflux-token,62.0,6035,Conflux Token
+2023-09-02,coinex-token,63.0,715,CoinEx Token
+2023-09-02,filecoin,64.0,3288,Filecoin
+2023-09-02,hedera-hashgraph,65.0,1069,Hedera Hashgraph
+2023-09-02,apenft,66.0,9195,APENFT
+2023-09-02,just,67.0,3756,JUST
+2023-09-02,ocean-protocol,68.0,1121,Ocean Protocol
+2023-09-02,pundi-x-2,69.0,8224,Pundi X
+2023-09-02,milk-alliance,70.0,8283,MiL.k Alliance
+2023-09-02,origintrail,71.0,1281,OriginTrail
+2023-09-02,chiliz,72.0,672,Chiliz
+2023-09-02,blockstack,73.0,512,Blockstack
+2023-09-02,cartesi,74.0,3752,Cartesi
+2023-09-02,centrifuge,75.0,9427,Centrifuge
+2023-09-02,golem,76.0,1052,Golem
+2023-09-02,akash-network,77.0,5923,Akash Network
+2023-09-02,digibyte,78.0,947,DigiByte
+2023-09-02,balancer,79.0,4341,Balancer
+2023-09-02,ethereum-name-service,80.0,12264,Ethereum Name Service
+2023-09-02,jasmycoin,81.0,7234,JasmyCoin
+2023-09-02,monero,82.0,986,Monero
+2023-09-02,oec-token,83.0,13245,OEC Token
+2023-09-02,band-protocol,84.0,282,Band Protocol
+2023-09-02,radix,85.0,13193,Radix
+2023-09-02,gatechain-token,86.0,1015,Gatechain Token
+2023-09-02,bitcoin-cash-sv,87.0,408,Bitcoin SV
+2023-09-02,apecoin,88.0,5649,APEcoin
+2023-09-02,optimism,89.0,18126,Optimism
+2023-09-02,fantom,90.0,1062,Fantom
+2023-09-02,nano,91.0,1010,Nano
+2023-09-02,ecomi,92.0,3159,ECOMI
+2023-09-02,nym,93.0,16758,Nym
+2023-09-02,ravencoin,94.0,1003,Ravencoin
+2023-09-02,eos,95.0,982,EOS
+2023-09-02,maker,96.0,996,Maker
+2023-09-02,swipe,97.0,1016,Swipe
+2023-09-02,dash,98.0,881,Dash
+2023-09-02,everipedia,99.0,3127,Everipedia
+2023-09-02,nervos-network,100.0,1007,Nervos Network
+2023-09-09,okb,1.0,988,OKB
+2023-09-09,aragon,2.0,204,Aragon
+2023-09-09,aelf,3.0,114,aelf
+2023-09-09,mask-network,4.0,7426,Mask Network
+2023-09-09,tomochain,5.0,1039,TomoChain
+2023-09-09,bone-shibaswap,6.0,11675,Bone ShibaSwap
+2023-09-09,iexec-rlc,7.0,1059,iExec RLC
+2023-09-09,trust-wallet-token,8.0,3844,Trust Wallet Token
+2023-09-09,chia,9.0,8840,Chia
+2023-09-09,energy-web-token,10.0,3945,Energy Web Token
+2023-09-09,ripple,11.0,979,XRP
+2023-09-09,stargate-finance,12.0,16688,Stargate Finance
+2023-09-09,quant-network,13.0,1040,Quant
+2023-09-09,xdce-crowd-sale,14.0,3213,XinFin
+2023-09-09,api3,15.0,6298,API3
+2023-09-09,numeraire,16.0,1054,Numeraire
+2023-09-09,baby-doge-coin,17.0,10910,Baby Doge Coin
+2023-09-09,injective-protocol,18.0,5920,Injective Protocol
+2023-09-09,tokenize-xchange,19.0,1115,Tokenize Xchange
+2023-09-09,mx-token,20.0,2696,MX Token
+2023-09-09,litecoin,21.0,981,Litecoin
+2023-09-09,ssv-network,22.0,13100,SSV Network
+2023-09-09,usdd,23.0,16837,USDD
+2023-09-09,safepal,24.0,7173,SafePal
+2023-09-09,gmx,25.0,10735,GMX
+2023-09-09,fetch-ai,26.0,1094,Fetch.ai
+2023-09-09,leo-token,27.0,987,LEO Token
+2023-09-09,uniswap,28.0,5395,Uniswap
+2023-09-09,casper-network,29.0,9500,Casper Network
+2023-09-09,gains-network,30.0,12260,Gains Network
+2023-09-09,the-open-network,31.0,10418,The Open Network
+2023-09-09,tron,32.0,984,TRON
+2023-09-09,fx-coin,33.0,2792,f(x) Coin
+2023-09-09,singularitynet,34.0,1101,SingularityNET
+2023-09-09,rocket-pool-eth,35.0,13879,Rocket Pool ETH
+2023-09-09,cosmos,36.0,769,Cosmos
+2023-09-09,magic,37.0,11258,Magic
+2023-09-09,staked-ether,38.0,6583,Staked Ether
+2023-09-09,woo-network,39.0,10321,WOO Network
+2023-09-09,rocket-pool,40.0,3720,Rocket Pool
+2023-09-09,liquity,41.0,8062,Liquity
+2023-09-09,matic-network,42.0,1036,Polygon
+2023-09-09,centrifuge,43.0,9427,Centrifuge
+2023-09-09,binancecoin,44.0,345,Binance Coin
+2023-09-09,dogecoin,45.0,998,Dogecoin
+2023-09-09,shiba-inu,46.0,5083,Shiba Inu
+2023-09-09,metal,47.0,1097,Metal
+2023-09-09,render-token,48.0,4469,Render Token
+2023-09-09,apenft,49.0,9195,APENFT
+2023-09-09,steem,50.0,1033,Steem
+2023-09-09,dexe,51.0,5792,DeXe
+2023-09-09,bitcoin,52.0,376,Bitcoin
+2023-09-09,basic-attention-token,53.0,291,Basic Attention Token
+2023-09-09,rollbit-coin,54.0,16660,Rollbit Coin
+2023-09-09,conflux-token,55.0,6035,Conflux Token
+2023-09-09,stp-network,56.0,1169,STP Network
+2023-09-09,blockstack,57.0,512,Blockstack
+2023-09-09,elrond-erd-2,58.0,4691,Elrond
+2023-09-09,ocean-protocol,59.0,1121,Ocean Protocol
+2023-09-09,just,60.0,3756,JUST
+2023-09-09,chainlink,61.0,659,ChainLink
+2023-09-09,dydx,62.0,10717,dYdX
+2023-09-09,coinex-token,63.0,715,CoinEx Token
+2023-09-09,golem,64.0,1052,Golem
+2023-09-09,pundi-x-2,65.0,8224,Pundi X
+2023-09-09,optimism,66.0,18126,Optimism
+2023-09-09,stellar,67.0,983,Stellar
+2023-09-09,origintrail,68.0,1281,OriginTrail
+2023-09-09,maker,69.0,996,Maker
+2023-09-09,monero,70.0,986,Monero
+2023-09-09,prometeus,71.0,1443,Prometeus
+2023-09-09,band-protocol,72.0,282,Band Protocol
+2023-09-09,gala,73.0,5437,Gala
+2023-09-09,everipedia,74.0,3127,Everipedia
+2023-09-09,cartesi,75.0,3752,Cartesi
+2023-09-09,nym,76.0,16758,Nym
+2023-09-09,radix,77.0,13193,Radix
+2023-09-09,swipe,78.0,1016,Swipe
+2023-09-09,eos,79.0,982,EOS
+2023-09-09,milk-alliance,80.0,8283,MiL.k Alliance
+2023-09-09,gatechain-token,81.0,1015,Gatechain Token
+2023-09-09,balancer,82.0,4341,Balancer
+2023-09-09,fantom,83.0,1062,Fantom
+2023-09-09,ravencoin,84.0,1003,Ravencoin
+2023-09-09,huobi-token,85.0,989,Huobi Token
+2023-09-09,digibyte,86.0,947,DigiByte
+2023-09-09,ronin,87.0,15732,Ronin
+2023-09-09,beldex,88.0,309,Beldex
+2023-09-09,bitcoin-cash-sv,89.0,408,Bitcoin SV
+2023-09-09,ontology,90.0,995,Ontology
+2023-09-09,iota,91.0,993,IOTA
+2023-09-09,nano,92.0,1010,Nano
+2023-09-09,ethereum,93.0,978,Ethereum
+2023-09-09,oec-token,94.0,13245,OEC Token
+2023-09-09,immutable-x,95.0,12263,Immutable X
+2023-09-09,e-radix,96.0,6154,e-Radix
+2023-09-09,status,97.0,1041,Status
+2023-09-09,apecoin,98.0,5649,APEcoin
+2023-09-09,akash-network,99.0,5923,Akash Network
+2023-09-09,bitrise-token,100.0,10102,Bitrise Token
+2023-09-16,okb,1.0,988,OKB
+2023-09-16,aragon,2.0,204,Aragon
+2023-09-16,aelf,3.0,114,aelf
+2023-09-16,mx-token,4.0,2696,MX Token
+2023-09-16,iexec-rlc,5.0,1059,iExec RLC
+2023-09-16,tomochain,6.0,1039,TomoChain
+2023-09-16,bone-shibaswap,7.0,11675,Bone ShibaSwap
+2023-09-16,gains-network,8.0,12260,Gains Network
+2023-09-16,ripple,9.0,979,XRP
+2023-09-16,energy-web-token,10.0,3945,Energy Web Token
+2023-09-16,chia,11.0,8840,Chia
+2023-09-16,xdce-crowd-sale,12.0,3213,XinFin
+2023-09-16,mask-network,13.0,7426,Mask Network
+2023-09-16,tokenize-xchange,14.0,1115,Tokenize Xchange
+2023-09-16,ssv-network,15.0,13100,SSV Network
+2023-09-16,quant-network,16.0,1040,Quant
+2023-09-16,injective-protocol,17.0,5920,Injective Protocol
+2023-09-16,baby-doge-coin,18.0,10910,Baby Doge Coin
+2023-09-16,trust-wallet-token,19.0,3844,Trust Wallet Token
+2023-09-16,usdd,20.0,16837,USDD
+2023-09-16,safepal,21.0,7173,SafePal
+2023-09-16,litecoin,22.0,981,Litecoin
+2023-09-16,leo-token,23.0,987,LEO Token
+2023-09-16,numeraire,24.0,1054,Numeraire
+2023-09-16,gmx,25.0,10735,GMX
+2023-09-16,uniswap,26.0,5395,Uniswap
+2023-09-16,stargate-finance,27.0,16688,Stargate Finance
+2023-09-16,api3,28.0,6298,API3
+2023-09-16,fetch-ai,29.0,1094,Fetch.ai
+2023-09-16,casper-network,30.0,9500,Casper Network
+2023-09-16,prometeus,31.0,1443,Prometeus
+2023-09-16,the-open-network,32.0,10418,The Open Network
+2023-09-16,tron,33.0,984,TRON
+2023-09-16,centrifuge,34.0,9427,Centrifuge
+2023-09-16,cosmos,35.0,769,Cosmos
+2023-09-16,dogecoin,36.0,998,Dogecoin
+2023-09-16,chainlink,37.0,659,ChainLink
+2023-09-16,rocket-pool,38.0,3720,Rocket Pool
+2023-09-16,singularitynet,39.0,1101,SingularityNET
+2023-09-16,metal,40.0,1097,Metal
+2023-09-16,liquity,41.0,8062,Liquity
+2023-09-16,staked-ether,42.0,6583,Staked Ether
+2023-09-16,binancecoin,43.0,345,Binance Coin
+2023-09-16,elrond-erd-2,44.0,4691,Elrond
+2023-09-16,render-token,45.0,4469,Render Token
+2023-09-16,magic,46.0,11258,Magic
+2023-09-16,stellar,47.0,983,Stellar
+2023-09-16,conflux-token,48.0,6035,Conflux Token
+2023-09-16,bitcoin,49.0,376,Bitcoin
+2023-09-16,steem,50.0,1033,Steem
+2023-09-16,dexe,51.0,5792,DeXe
+2023-09-16,blockstack,52.0,512,Blockstack
+2023-09-16,stp-network,53.0,1169,STP Network
+2023-09-16,ocean-protocol,54.0,1121,Ocean Protocol
+2023-09-16,basic-attention-token,55.0,291,Basic Attention Token
+2023-09-16,fx-coin,56.0,2792,f(x) Coin
+2023-09-16,rollbit-coin,57.0,16660,Rollbit Coin
+2023-09-16,rocket-pool-eth,58.0,13879,Rocket Pool ETH
+2023-09-16,pundi-x-2,59.0,8224,Pundi X
+2023-09-16,woo-network,60.0,10321,WOO Network
+2023-09-16,monero,61.0,986,Monero
+2023-09-16,dydx,62.0,10717,dYdX
+2023-09-16,skale,63.0,6350,SKALE
+2023-09-16,cartesi,64.0,3752,Cartesi
+2023-09-16,origintrail,65.0,1281,OriginTrail
+2023-09-16,golem,66.0,1052,Golem
+2023-09-16,beldex,67.0,309,Beldex
+2023-09-16,shiba-inu,68.0,5083,Shiba Inu
+2023-09-16,bitcoin-cash,69.0,382,Bitcoin Cash
+2023-09-16,neo,70.0,990,NEO
+2023-09-16,coinex-token,71.0,715,CoinEx Token
+2023-09-16,oec-token,72.0,13245,OEC Token
+2023-09-16,apenft,73.0,9195,APENFT
+2023-09-16,maker,74.0,996,Maker
+2023-09-16,huobi-token,75.0,989,Huobi Token
+2023-09-16,matic-network,76.0,1036,Polygon
+2023-09-16,radix,77.0,13193,Radix
+2023-09-16,optimism,78.0,18126,Optimism
+2023-09-16,swipe,79.0,1016,Swipe
+2023-09-16,filecoin,80.0,3288,Filecoin
+2023-09-16,band-protocol,81.0,282,Band Protocol
+2023-09-16,balancer,82.0,4341,Balancer
+2023-09-16,digibyte,83.0,947,DigiByte
+2023-09-16,bitcoin-cash-sv,84.0,408,Bitcoin SV
+2023-09-16,ethereum,85.0,978,Ethereum
+2023-09-16,holotoken,86.0,1004,Holo
+2023-09-16,bitrise-token,87.0,10102,Bitrise Token
+2023-09-16,akash-network,88.0,5923,Akash Network
+2023-09-16,milk-alliance,89.0,8283,MiL.k Alliance
+2023-09-16,vechain,90.0,994,VeChain
+2023-09-16,vulcan-forged,91.0,9735,Vulcan Forged
+2023-09-16,ronin,92.0,15732,Ronin
+2023-09-16,status,93.0,1041,Status
+2023-09-16,just,94.0,3756,JUST
+2023-09-16,eos,95.0,982,EOS
+2023-09-16,everipedia,96.0,3127,Everipedia
+2023-09-16,e-radix,97.0,6154,e-Radix
+2023-09-16,nano,98.0,1010,Nano
+2023-09-16,nervos-network,99.0,1007,Nervos Network
+2023-09-16,convex-finance,100.0,8849,Convex Finance
+2023-09-23,okb,1.0,988,OKB
+2023-09-23,aragon,2.0,204,Aragon
+2023-09-23,aelf,3.0,114,aelf
+2023-09-23,mask-network,4.0,7426,Mask Network
+2023-09-23,tomochain,5.0,1039,TomoChain
+2023-09-23,mx-token,6.0,2696,MX Token
+2023-09-23,gains-network,7.0,12260,Gains Network
+2023-09-23,iexec-rlc,8.0,1059,iExec RLC
+2023-09-23,ripple,9.0,979,XRP
+2023-09-23,chia,10.0,8840,Chia
+2023-09-23,xdce-crowd-sale,11.0,3213,XinFin
+2023-09-23,bone-shibaswap,12.0,11675,Bone ShibaSwap
+2023-09-23,quant-network,13.0,1040,Quant
+2023-09-23,litecoin,14.0,981,Litecoin
+2023-09-23,energy-web-token,15.0,3945,Energy Web Token
+2023-09-23,baby-doge-coin,16.0,10910,Baby Doge Coin
+2023-09-23,trust-wallet-token,17.0,3844,Trust Wallet Token
+2023-09-23,injective-protocol,18.0,5920,Injective Protocol
+2023-09-23,safepal,19.0,7173,SafePal
+2023-09-23,ssv-network,20.0,13100,SSV Network
+2023-09-23,gmx,21.0,10735,GMX
+2023-09-23,tokenize-xchange,22.0,1115,Tokenize Xchange
+2023-09-23,usdd,23.0,16837,USDD
+2023-09-23,stargate-finance,24.0,16688,Stargate Finance
+2023-09-23,alchemy-pay,25.0,4829,Alchemy Pay
+2023-09-23,fetch-ai,26.0,1094,Fetch.ai
+2023-09-23,api3,27.0,6298,API3
+2023-09-23,uniswap,28.0,5395,Uniswap
+2023-09-23,centrifuge,29.0,9427,Centrifuge
+2023-09-23,leo-token,30.0,987,LEO Token
+2023-09-23,tron,31.0,984,TRON
+2023-09-23,skale,32.0,6350,SKALE
+2023-09-23,render-token,33.0,4469,Render Token
+2023-09-23,woo-network,34.0,10321,WOO Network
+2023-09-23,casper-network,35.0,9500,Casper Network
+2023-09-23,numeraire,36.0,1054,Numeraire
+2023-09-23,metal,37.0,1097,Metal
+2023-09-23,rocket-pool,38.0,3720,Rocket Pool
+2023-09-23,the-open-network,39.0,10418,The Open Network
+2023-09-23,prometeus,40.0,1443,Prometeus
+2023-09-23,magic,41.0,11258,Magic
+2023-09-23,singularitynet,42.0,1101,SingularityNET
+2023-09-23,dydx,43.0,10717,dYdX
+2023-09-23,convex-finance,44.0,8849,Convex Finance
+2023-09-23,stp-network,45.0,1169,STP Network
+2023-09-23,staked-ether,46.0,6583,Staked Ether
+2023-09-23,dogecoin,47.0,998,Dogecoin
+2023-09-23,liquity,48.0,8062,Liquity
+2023-09-23,ronin,49.0,15732,Ronin
+2023-09-23,stellar,50.0,983,Stellar
+2023-09-23,blockstack,51.0,512,Blockstack
+2023-09-23,bitcoin,52.0,376,Bitcoin
+2023-09-23,ocean-protocol,53.0,1121,Ocean Protocol
+2023-09-23,steem,54.0,1033,Steem
+2023-09-23,binancecoin,55.0,345,Binance Coin
+2023-09-23,rocket-pool-eth,56.0,13879,Rocket Pool ETH
+2023-09-23,thorchain,57.0,1150,Thorchain
+2023-09-23,conflux-token,58.0,6035,Conflux Token
+2023-09-23,bitcoin-cash,59.0,382,Bitcoin Cash
+2023-09-23,cosmos,60.0,769,Cosmos
+2023-09-23,apenft,61.0,9195,APENFT
+2023-09-23,dexe,62.0,5792,DeXe
+2023-09-23,chainlink,63.0,659,ChainLink
+2023-09-23,pundi-x-2,64.0,8224,Pundi X
+2023-09-23,rollbit-coin,65.0,16660,Rollbit Coin
+2023-09-23,huobi-token,66.0,989,Huobi Token
+2023-09-23,milk-alliance,67.0,8283,MiL.k Alliance
+2023-09-23,cartesi,68.0,3752,Cartesi
+2023-09-23,monero,69.0,986,Monero
+2023-09-23,fx-coin,70.0,2792,f(x) Coin
+2023-09-23,golem,71.0,1052,Golem
+2023-09-23,elrond-erd-2,72.0,4691,Elrond
+2023-09-23,optimism,73.0,18126,Optimism
+2023-09-23,just,74.0,3756,JUST
+2023-09-23,maker,75.0,996,Maker
+2023-09-23,beldex,76.0,309,Beldex
+2023-09-23,basic-attention-token,77.0,291,Basic Attention Token
+2023-09-23,coinex-token,78.0,715,CoinEx Token
+2023-09-23,swipe,79.0,1016,Swipe
+2023-09-23,jasmycoin,80.0,7234,JasmyCoin
+2023-09-23,gala,81.0,5437,Gala
+2023-09-23,digibyte,82.0,947,DigiByte
+2023-09-23,matic-network,83.0,1036,Polygon
+2023-09-23,shiba-inu,84.0,5083,Shiba Inu
+2023-09-23,e-radix,85.0,6154,e-Radix
+2023-09-23,origintrail,86.0,1281,OriginTrail
+2023-09-23,everipedia,87.0,3127,Everipedia
+2023-09-23,oec-token,88.0,13245,OEC Token
+2023-09-23,ethereum,89.0,978,Ethereum
+2023-09-23,vechain,90.0,994,VeChain
+2023-09-23,ontology,91.0,995,Ontology
+2023-09-23,fantom,92.0,1062,Fantom
+2023-09-23,radix,93.0,13193,Radix
+2023-09-23,neo,94.0,990,NEO
+2023-09-23,immutable-x,95.0,12263,Immutable X
+2023-09-23,decentraland,96.0,907,Decentraland
+2023-09-23,holotoken,97.0,1004,Holo
+2023-09-23,bitrise-token,98.0,10102,Bitrise Token
+2023-09-23,apecoin,99.0,5649,APEcoin
+2023-09-23,iostoken,100.0,1020,IOST
+2023-10-07,okb,1.0,988,OKB
+2023-10-07,aragon,2.0,204,Aragon
+2023-10-07,wrapped-nxm,3.0,4702,Wrapped NXM
+2023-10-07,aelf,4.0,114,aelf
+2023-10-07,mask-network,5.0,7426,Mask Network
+2023-10-07,mx-token,6.0,2696,MX Token
+2023-10-07,tomochain,7.0,1039,TomoChain
+2023-10-07,bone-shibaswap,8.0,11675,Bone ShibaSwap
+2023-10-07,gains-network,9.0,12260,Gains Network
+2023-10-07,xdce-crowd-sale,10.0,3213,XinFin
+2023-10-07,tokenize-xchange,11.0,1115,Tokenize Xchange
+2023-10-07,chia,12.0,8840,Chia
+2023-10-07,ripple,13.0,979,XRP
+2023-10-07,iexec-rlc,14.0,1059,iExec RLC
+2023-10-07,tellor,15.0,1259,Tellor
+2023-10-07,gmx,16.0,10735,GMX
+2023-10-07,baby-doge-coin,17.0,10910,Baby Doge Coin
+2023-10-07,trust-wallet-token,18.0,3844,Trust Wallet Token
+2023-10-07,injective-protocol,19.0,5920,Injective Protocol
+2023-10-07,quant-network,20.0,1040,Quant
+2023-10-07,safepal,21.0,7173,SafePal
+2023-10-07,litecoin,22.0,981,Litecoin
+2023-10-07,uniswap,23.0,5395,Uniswap
+2023-10-07,usdd,24.0,16837,USDD
+2023-10-07,tron,25.0,984,TRON
+2023-10-07,centrifuge,26.0,9427,Centrifuge
+2023-10-07,ssv-network,27.0,13100,SSV Network
+2023-10-07,energy-web-token,28.0,3945,Energy Web Token
+2023-10-07,stellar,29.0,983,Stellar
+2023-10-07,leo-token,30.0,987,LEO Token
+2023-10-07,liquity,31.0,8062,Liquity
+2023-10-07,api3,32.0,6298,API3
+2023-10-07,the-open-network,33.0,10418,The Open Network
+2023-10-07,metal,34.0,1097,Metal
+2023-10-07,casper-network,35.0,9500,Casper Network
+2023-10-07,rollbit-coin,36.0,16660,Rollbit Coin
+2023-10-07,numeraire,37.0,1054,Numeraire
+2023-10-07,venus,38.0,5718,Venus
+2023-10-07,stargate-finance,39.0,16688,Stargate Finance
+2023-10-07,skale,40.0,6350,SKALE
+2023-10-07,stp-network,41.0,1169,STP Network
+2023-10-07,render-token,42.0,4469,Render Token
+2023-10-07,fetch-ai,43.0,1094,Fetch.ai
+2023-10-07,staked-ether,44.0,6583,Staked Ether
+2023-10-07,insure,45.0,3457,inSure
+2023-10-07,chainlink,46.0,659,ChainLink
+2023-10-07,conflux-token,47.0,6035,Conflux Token
+2023-10-07,singularitynet,48.0,1101,SingularityNET
+2023-10-07,binancecoin,49.0,345,Binance Coin
+2023-10-07,dydx,50.0,10717,dYdX
+2023-10-07,steem,51.0,1033,Steem
+2023-10-07,elrond-erd-2,52.0,4691,Elrond
+2023-10-07,blockstack,53.0,512,Blockstack
+2023-10-07,basic-attention-token,54.0,291,Basic Attention Token
+2023-10-07,rocket-pool,55.0,3720,Rocket Pool
+2023-10-07,dogecoin,56.0,998,Dogecoin
+2023-10-07,woo-network,57.0,10321,WOO Network
+2023-10-07,ocean-protocol,58.0,1121,Ocean Protocol
+2023-10-07,magic,59.0,11258,Magic
+2023-10-07,huobi-token,60.0,989,Huobi Token
+2023-10-07,bitcoin,61.0,376,Bitcoin
+2023-10-07,ronin,62.0,15732,Ronin
+2023-10-07,optimism,63.0,18126,Optimism
+2023-10-07,just,64.0,3756,JUST
+2023-10-07,pundi-x-2,65.0,8224,Pundi X
+2023-10-07,alchemy-pay,66.0,4829,Alchemy Pay
+2023-10-07,rocket-pool-eth,67.0,13879,Rocket Pool ETH
+2023-10-07,dexe,68.0,5792,DeXe
+2023-10-07,biconomy,69.0,13226,Biconomy
+2023-10-07,golem,70.0,1052,Golem
+2023-10-07,cosmos,71.0,769,Cosmos
+2023-10-07,monero,72.0,986,Monero
+2023-10-07,maker,73.0,996,Maker
+2023-10-07,prometeus,74.0,1443,Prometeus
+2023-10-07,compound-governance-token,75.0,4340,Compound
+2023-10-07,vechain,76.0,994,VeChain
+2023-10-07,apenft,77.0,9195,APENFT
+2023-10-07,matic-network,78.0,1036,Polygon
+2023-10-07,thorchain,79.0,1150,Thorchain
+2023-10-07,ravencoin,80.0,1003,Ravencoin
+2023-10-07,fantom,81.0,1062,Fantom
+2023-10-07,ethereum,82.0,978,Ethereum
+2023-10-07,neo,83.0,990,NEO
+2023-10-07,digibyte,84.0,947,DigiByte
+2023-10-07,milk-alliance,85.0,8283,MiL.k Alliance
+2023-10-07,origintrail,86.0,1281,OriginTrail
+2023-10-07,radix,87.0,13193,Radix
+2023-10-07,everscale,88.0,15831,Everscale
+2023-10-07,oec-token,89.0,13245,OEC Token
+2023-10-07,akash-network,90.0,5923,Akash Network
+2023-10-07,stratis,91.0,1038,Stratis
+2023-10-07,chiliz,92.0,672,Chiliz
+2023-10-07,audius,93.0,5921,Audius
+2023-10-07,vulcan-forged,94.0,9735,Vulcan Forged
+2023-10-07,fx-coin,95.0,2792,f(x) Coin
+2023-10-07,swipe,96.0,1016,Swipe
+2023-10-07,everipedia,97.0,3127,Everipedia
+2023-10-07,cartesi,98.0,3752,Cartesi
+2023-10-07,osmosis,99.0,9792,Osmosis
+2023-10-07,nano,100.0,1010,Nano
+2023-10-14,okb,1.0,988,OKB
+2023-10-14,aragon,2.0,204,Aragon
+2023-10-14,wrapped-nxm,3.0,4702,Wrapped NXM
+2023-10-14,aelf,4.0,114,aelf
+2023-10-14,tomochain,5.0,1039,TomoChain
+2023-10-14,xdce-crowd-sale,6.0,3213,XinFin
+2023-10-14,mx-token,7.0,2696,MX Token
+2023-10-14,trust-wallet-token,8.0,3844,Trust Wallet Token
+2023-10-14,bone-shibaswap,9.0,11675,Bone ShibaSwap
+2023-10-14,gains-network,10.0,12260,Gains Network
+2023-10-14,ripple,11.0,979,XRP
+2023-10-14,chia,12.0,8840,Chia
+2023-10-14,quant-network,13.0,1040,Quant
+2023-10-14,tellor,14.0,1259,Tellor
+2023-10-14,iexec-rlc,15.0,1059,iExec RLC
+2023-10-14,baby-doge-coin,16.0,10910,Baby Doge Coin
+2023-10-14,render-token,17.0,4469,Render Token
+2023-10-14,mask-network,18.0,7426,Mask Network
+2023-10-14,litecoin,19.0,981,Litecoin
+2023-10-14,uniswap,20.0,5395,Uniswap
+2023-10-14,ssv-network,21.0,13100,SSV Network
+2023-10-14,safepal,22.0,7173,SafePal
+2023-10-14,usdd,23.0,16837,USDD
+2023-10-14,skale,24.0,6350,SKALE
+2023-10-14,liquity,25.0,8062,Liquity
+2023-10-14,escoin-token,26.0,6790,Escoin Token
+2023-10-14,injective-protocol,27.0,5920,Injective Protocol
+2023-10-14,energy-web-token,28.0,3945,Energy Web Token
+2023-10-14,tron,29.0,984,TRON
+2023-10-14,centrifuge,30.0,9427,Centrifuge
+2023-10-14,tokenize-xchange,31.0,1115,Tokenize Xchange
+2023-10-14,dydx,32.0,10717,dYdX
+2023-10-14,casper-network,33.0,9500,Casper Network
+2023-10-14,stellar,34.0,983,Stellar
+2023-10-14,filecoin,35.0,3288,Filecoin
+2023-10-14,stargate-finance,36.0,16688,Stargate Finance
+2023-10-14,gmx,37.0,10735,GMX
+2023-10-14,the-open-network,38.0,10418,The Open Network
+2023-10-14,conflux-token,39.0,6035,Conflux Token
+2023-10-14,numeraire,40.0,1054,Numeraire
+2023-10-14,chainlink,41.0,659,ChainLink
+2023-10-14,fetch-ai,42.0,1094,Fetch.ai
+2023-10-14,api3,43.0,6298,API3
+2023-10-14,huobi-token,44.0,989,Huobi Token
+2023-10-14,ocean-protocol,45.0,1121,Ocean Protocol
+2023-10-14,magic,46.0,11258,Magic
+2023-10-14,staked-ether,47.0,6583,Staked Ether
+2023-10-14,beldex,48.0,309,Beldex
+2023-10-14,venus,49.0,5718,Venus
+2023-10-14,rocket-pool-eth,50.0,13879,Rocket Pool ETH
+2023-10-14,stp-network,51.0,1169,STP Network
+2023-10-14,stratis,52.0,1038,Stratis
+2023-10-14,rocket-pool,53.0,3720,Rocket Pool
+2023-10-14,metal,54.0,1097,Metal
+2023-10-14,dogecoin,55.0,998,Dogecoin
+2023-10-14,binancecoin,56.0,345,Binance Coin
+2023-10-14,blockstack,57.0,512,Blockstack
+2023-10-14,steem,58.0,1033,Steem
+2023-10-14,rollbit-coin,59.0,16660,Rollbit Coin
+2023-10-14,ronin,60.0,15732,Ronin
+2023-10-14,woo-network,61.0,10321,WOO Network
+2023-10-14,elrond-erd-2,62.0,4691,Elrond
+2023-10-14,insure,63.0,3457,inSure
+2023-10-14,bitcoin,64.0,376,Bitcoin
+2023-10-14,maker,65.0,996,Maker
+2023-10-14,just,66.0,3756,JUST
+2023-10-14,optimism,67.0,18126,Optimism
+2023-10-14,singularitynet,68.0,1101,SingularityNET
+2023-10-14,alchemy-pay,69.0,4829,Alchemy Pay
+2023-10-14,pundi-x-2,70.0,8224,Pundi X
+2023-10-14,golem,71.0,1052,Golem
+2023-10-14,swipe,72.0,1016,Swipe
+2023-10-14,monero,73.0,986,Monero
+2023-10-14,apenft,74.0,9195,APENFT
+2023-10-14,thorchain,75.0,1150,Thorchain
+2023-10-14,cosmos,76.0,769,Cosmos
+2023-10-14,prometeus,77.0,1443,Prometeus
+2023-10-14,immutable-x,78.0,12263,Immutable X
+2023-10-14,shiba-inu,79.0,5083,Shiba Inu
+2023-10-14,origintrail,80.0,1281,OriginTrail
+2023-10-14,audius,81.0,5921,Audius
+2023-10-14,basic-attention-token,82.0,291,Basic Attention Token
+2023-10-14,milk-alliance,83.0,8283,MiL.k Alliance
+2023-10-14,akash-network,84.0,5923,Akash Network
+2023-10-14,vulcan-forged,85.0,9735,Vulcan Forged
+2023-10-14,matic-network,86.0,1036,Polygon
+2023-10-14,ethereum,87.0,978,Ethereum
+2023-10-14,digibyte,88.0,947,DigiByte
+2023-10-14,nano,89.0,1010,Nano
+2023-10-14,ethereum-name-service,90.0,12264,Ethereum Name Service
+2023-10-14,neo,91.0,990,NEO
+2023-10-14,storm,92.0,1147,Storm
+2023-10-14,everipedia,93.0,3127,Everipedia
+2023-10-14,balancer,94.0,4341,Balancer
+2023-10-14,osmosis,95.0,9792,Osmosis
+2023-10-14,bitcoin-cash-sv,96.0,408,Bitcoin SV
+2023-10-14,cartesi,97.0,3752,Cartesi
+2023-10-14,lido-dao,98.0,6723,Lido DAO
+2023-10-14,astar,99.0,15776,Astar
+2023-10-14,status,100.0,1041,Status
+2023-10-21,okb,1.0,988,OKB
+2023-10-21,aragon,2.0,204,Aragon
+2023-10-21,wrapped-nxm,3.0,4702,Wrapped NXM
+2023-10-21,tomochain,4.0,1039,TomoChain
+2023-10-21,aelf,5.0,114,aelf
+2023-10-21,xdce-crowd-sale,6.0,3213,XinFin
+2023-10-21,mx-token,7.0,2696,MX Token
+2023-10-21,ripple,8.0,979,XRP
+2023-10-21,bone-shibaswap,9.0,11675,Bone ShibaSwap
+2023-10-21,gains-network,10.0,12260,Gains Network
+2023-10-21,mask-network,11.0,7426,Mask Network
+2023-10-21,chia,12.0,8840,Chia
+2023-10-21,quant-network,13.0,1040,Quant
+2023-10-21,tellor,14.0,1259,Tellor
+2023-10-21,liquity,15.0,8062,Liquity
+2023-10-21,iexec-rlc,16.0,1059,iExec RLC
+2023-10-21,trust-wallet-token,17.0,3844,Trust Wallet Token
+2023-10-21,baby-doge-coin,18.0,10910,Baby Doge Coin
+2023-10-21,tokenize-xchange,19.0,1115,Tokenize Xchange
+2023-10-21,injective-protocol,20.0,5920,Injective Protocol
+2023-10-21,uniswap,21.0,5395,Uniswap
+2023-10-21,escoin-token,22.0,6790,Escoin Token
+2023-10-21,safepal,23.0,7173,SafePal
+2023-10-21,usdd,24.0,16837,USDD
+2023-10-21,fetch-ai,25.0,1094,Fetch.ai
+2023-10-21,tron,26.0,984,TRON
+2023-10-21,energy-web-token,27.0,3945,Energy Web Token
+2023-10-21,render-token,28.0,4469,Render Token
+2023-10-21,litecoin,29.0,981,Litecoin
+2023-10-21,conflux-token,30.0,6035,Conflux Token
+2023-10-21,ssv-network,31.0,13100,SSV Network
+2023-10-21,casper-network,32.0,9500,Casper Network
+2023-10-21,gmx,33.0,10735,GMX
+2023-10-21,the-open-network,34.0,10418,The Open Network
+2023-10-21,numeraire,35.0,1054,Numeraire
+2023-10-21,huobi-token,36.0,989,Huobi Token
+2023-10-21,stellar,37.0,983,Stellar
+2023-10-21,stargate-finance,38.0,16688,Stargate Finance
+2023-10-21,elrond-erd-2,39.0,4691,Elrond
+2023-10-21,stp-network,40.0,1169,STP Network
+2023-10-21,optimism,41.0,18126,Optimism
+2023-10-21,metal,42.0,1097,Metal
+2023-10-21,api3,43.0,6298,API3
+2023-10-21,venus,44.0,5718,Venus
+2023-10-21,rocket-pool,45.0,3720,Rocket Pool
+2023-10-21,dogecoin,46.0,998,Dogecoin
+2023-10-21,chainlink,47.0,659,ChainLink
+2023-10-21,stratis,48.0,1038,Stratis
+2023-10-21,magic,49.0,11258,Magic
+2023-10-21,ronin,50.0,15732,Ronin
+2023-10-21,ocean-protocol,51.0,1121,Ocean Protocol
+2023-10-21,steem,52.0,1033,Steem
+2023-10-21,maker,53.0,996,Maker
+2023-10-21,rollbit-coin,54.0,16660,Rollbit Coin
+2023-10-21,pundi-x-2,55.0,8224,Pundi X
+2023-10-21,blockstack,56.0,512,Blockstack
+2023-10-21,staked-ether,57.0,6583,Staked Ether
+2023-10-21,binancecoin,58.0,345,Binance Coin
+2023-10-21,thorchain,59.0,1150,Thorchain
+2023-10-21,bitcoin,60.0,376,Bitcoin
+2023-10-21,dydx,61.0,10717,dYdX
+2023-10-21,beldex,62.0,309,Beldex
+2023-10-21,skale,63.0,6350,SKALE
+2023-10-21,alchemy-pay,64.0,4829,Alchemy Pay
+2023-10-21,ravencoin,65.0,1003,Ravencoin
+2023-10-21,golem,66.0,1052,Golem
+2023-10-21,rocket-pool-eth,67.0,13879,Rocket Pool ETH
+2023-10-21,monero,68.0,986,Monero
+2023-10-21,woo-network,69.0,10321,WOO Network
+2023-10-21,singularitynet,70.0,1101,SingularityNET
+2023-10-21,vega-protocol,71.0,14418,Vega Protocol
+2023-10-21,vulcan-forged,72.0,9735,Vulcan Forged
+2023-10-21,fx-coin,73.0,2792,f(x) Coin
+2023-10-21,cosmos,74.0,769,Cosmos
+2023-10-21,basic-attention-token,75.0,291,Basic Attention Token
+2023-10-21,ethereum,76.0,978,Ethereum
+2023-10-21,prometeus,77.0,1443,Prometeus
+2023-10-21,origintrail,78.0,1281,OriginTrail
+2023-10-21,just,79.0,3756,JUST
+2023-10-21,osmosis,80.0,9792,Osmosis
+2023-10-21,orbs,81.0,3144,Orbs
+2023-10-21,apenft,82.0,9195,APENFT
+2023-10-21,dexe,83.0,5792,DeXe
+2023-10-21,vechain,84.0,994,VeChain
+2023-10-21,digibyte,85.0,947,DigiByte
+2023-10-21,oec-token,86.0,13245,OEC Token
+2023-10-21,immutable-x,87.0,12263,Immutable X
+2023-10-21,audius,88.0,5921,Audius
+2023-10-21,astar,89.0,15776,Astar
+2023-10-21,akash-network,90.0,5923,Akash Network
+2023-10-21,ethereum-name-service,91.0,12264,Ethereum Name Service
+2023-10-21,everipedia,92.0,3127,Everipedia
+2023-10-21,cartesi,93.0,3752,Cartesi
+2023-10-21,neo,94.0,990,NEO
+2023-10-21,milk-alliance,95.0,8283,MiL.k Alliance
+2023-10-21,insure,96.0,3457,inSure
+2023-10-21,lido-dao,97.0,6723,Lido DAO
+2023-10-21,nano,98.0,1010,Nano
+2023-10-21,swipe,99.0,1016,Swipe
+2023-10-21,dao-maker,100.0,7176,DAO Maker
+2023-10-28,okb,1.0,988,OKB
+2023-10-28,aragon,2.0,204,Aragon
+2023-10-28,wrapped-nxm,3.0,4702,Wrapped NXM
+2023-10-28,aelf,4.0,114,aelf
+2023-10-28,tomochain,5.0,1039,TomoChain
+2023-10-28,mask-network,6.0,7426,Mask Network
+2023-10-28,xdce-crowd-sale,7.0,3213,XinFin
+2023-10-28,mx-token,8.0,2696,MX Token
+2023-10-28,conflux-token,9.0,6035,Conflux Token
+2023-10-28,gains-network,10.0,12260,Gains Network
+2023-10-28,bone-shibaswap,11.0,11675,Bone ShibaSwap
+2023-10-28,tellor,12.0,1259,Tellor
+2023-10-28,injective-protocol,13.0,5920,Injective Protocol
+2023-10-28,iexec-rlc,14.0,1059,iExec RLC
+2023-10-28,ripple,15.0,979,XRP
+2023-10-28,quant-network,16.0,1040,Quant
+2023-10-28,baby-doge-coin,17.0,10910,Baby Doge Coin
+2023-10-28,chia,18.0,8840,Chia
+2023-10-28,bitcoin-cash-sv,19.0,408,Bitcoin SV
+2023-10-28,litecoin,20.0,981,Litecoin
+2023-10-28,trust-wallet-token,21.0,3844,Trust Wallet Token
+2023-10-28,uniswap,22.0,5395,Uniswap
+2023-10-28,liquity,23.0,8062,Liquity
+2023-10-28,tokenize-xchange,24.0,1115,Tokenize Xchange
+2023-10-28,usdd,25.0,16837,USDD
+2023-10-28,render-token,26.0,4469,Render Token
+2023-10-28,centrifuge,27.0,9427,Centrifuge
+2023-10-28,fetch-ai,28.0,1094,Fetch.ai
+2023-10-28,tron,29.0,984,TRON
+2023-10-28,energy-web-token,30.0,3945,Energy Web Token
+2023-10-28,safepal,31.0,7173,SafePal
+2023-10-28,stellar,32.0,983,Stellar
+2023-10-28,ssv-network,33.0,13100,SSV Network
+2023-10-28,stargate-finance,34.0,16688,Stargate Finance
+2023-10-28,rollbit-coin,35.0,16660,Rollbit Coin
+2023-10-28,casper-network,36.0,9500,Casper Network
+2023-10-28,chainlink,37.0,659,ChainLink
+2023-10-28,blockstack,38.0,512,Blockstack
+2023-10-28,numeraire,39.0,1054,Numeraire
+2023-10-28,bitkub-coin,40.0,9133,Bitkub Coin
+2023-10-28,gmx,41.0,10735,GMX
+2023-10-28,steem,42.0,1033,Steem
+2023-10-28,metal,43.0,1097,Metal
+2023-10-28,magic,44.0,11258,Magic
+2023-10-28,api3,45.0,6298,API3
+2023-10-28,the-open-network,46.0,10418,The Open Network
+2023-10-28,dogecoin,47.0,998,Dogecoin
+2023-10-28,stratis,48.0,1038,Stratis
+2023-10-28,stp-network,49.0,1169,STP Network
+2023-10-28,optimism,50.0,18126,Optimism
+2023-10-28,convex-finance,51.0,8849,Convex Finance
+2023-10-28,elrond-erd-2,52.0,4691,Elrond
+2023-10-28,beldex,53.0,309,Beldex
+2023-10-28,rif-token,54.0,1046,RIF Token
+2023-10-28,escoin-token,55.0,6790,Escoin Token
+2023-10-28,maker,56.0,996,Maker
+2023-10-28,venus,57.0,5718,Venus
+2023-10-28,huobi-token,58.0,989,Huobi Token
+2023-10-28,ocean-protocol,59.0,1121,Ocean Protocol
+2023-10-28,staked-ether,60.0,6583,Staked Ether
+2023-10-28,thorchain,61.0,1150,Thorchain
+2023-10-28,rocket-pool,62.0,3720,Rocket Pool
+2023-10-28,pundi-x-2,63.0,8224,Pundi X
+2023-10-28,ronin,64.0,15732,Ronin
+2023-10-28,woo-network,65.0,10321,WOO Network
+2023-10-28,binancecoin,66.0,345,Binance Coin
+2023-10-28,golem,67.0,1052,Golem
+2023-10-28,skale,68.0,6350,SKALE
+2023-10-28,basic-attention-token,69.0,291,Basic Attention Token
+2023-10-28,bitcoin,70.0,376,Bitcoin
+2023-10-28,singularitynet,71.0,1101,SingularityNET
+2023-10-28,akash-network,72.0,5923,Akash Network
+2023-10-28,monero,73.0,986,Monero
+2023-10-28,vega-protocol,74.0,14418,Vega Protocol
+2023-10-28,rocket-pool-eth,75.0,13879,Rocket Pool ETH
+2023-10-28,fx-coin,76.0,2792,f(x) Coin
+2023-10-28,covalent,77.0,776,Covalent
+2023-10-28,prometeus,78.0,1443,Prometeus
+2023-10-28,just,79.0,3756,JUST
+2023-10-28,dydx,80.0,10717,dYdX
+2023-10-28,power-ledger,81.0,1088,Power Ledger
+2023-10-28,astar,82.0,15776,Astar
+2023-10-28,ardor,83.0,211,Ardor
+2023-10-28,wemix-token,84.0,6098,Wemix Token
+2023-10-28,milk-alliance,85.0,8283,MiL.k Alliance
+2023-10-28,cosmos,86.0,769,Cosmos
+2023-10-28,immutable-x,87.0,12263,Immutable X
+2023-10-28,audius,88.0,5921,Audius
+2023-10-28,nervos-network,89.0,1007,Nervos Network
+2023-10-28,digibyte,90.0,947,DigiByte
+2023-10-28,ethereum,91.0,978,Ethereum
+2023-10-28,ecash,92.0,10703,eCash
+2023-10-28,origintrail,93.0,1281,OriginTrail
+2023-10-28,everipedia,94.0,3127,Everipedia
+2023-10-28,vechain,95.0,994,VeChain
+2023-10-28,dexe,96.0,5792,DeXe
+2023-10-28,merit-circle,97.0,12265,Merit Circle
+2023-10-28,lido-dao,98.0,6723,Lido DAO
+2023-10-28,swipe,99.0,1016,Swipe
+2023-10-28,osmosis,100.0,9792,Osmosis
+2023-11-04,vega-protocol,1.0,14418,Vega Protocol
+2023-11-04,wrapped-nxm,2.0,4702,Wrapped NXM
+2023-11-04,fx-coin,3.0,2792,f(x) Coin
+2023-11-04,okb,4.0,988,OKB
+2023-11-04,injective-protocol,5.0,5920,Injective Protocol
+2023-11-04,aragon,6.0,204,Aragon
+2023-11-04,mask-network,7.0,7426,Mask Network
+2023-11-04,render-token,8.0,4469,Render Token
+2023-11-04,gains-network,9.0,12260,Gains Network
+2023-11-04,aelf,10.0,114,aelf
+2023-11-04,conflux-token,11.0,6035,Conflux Token
+2023-11-04,tokenize-xchange,12.0,1115,Tokenize Xchange
+2023-11-04,orbs,13.0,3144,Orbs
+2023-11-04,tomochain,14.0,1039,TomoChain
+2023-11-04,fetch-ai,15.0,1094,Fetch.ai
+2023-11-04,mx-token,16.0,2696,MX Token
+2023-11-04,xdce-crowd-sale,17.0,3213,XinFin
+2023-11-04,dydx,18.0,10717,dYdX
+2023-11-04,insure,19.0,3457,inSure
+2023-11-04,akash-network,20.0,5923,Akash Network
+2023-11-04,rollbit-coin,21.0,16660,Rollbit Coin
+2023-11-04,gmx,22.0,10735,GMX
+2023-11-04,tellor,23.0,1259,Tellor
+2023-11-04,huobi-token,24.0,989,Huobi Token
+2023-11-04,ripple,25.0,979,XRP
+2023-11-04,litecoin,26.0,981,Litecoin
+2023-11-04,staked-ether,27.0,6583,Staked Ether
+2023-11-04,rocket-pool,28.0,3720,Rocket Pool
+2023-11-04,quant-network,29.0,1040,Quant
+2023-11-04,iexec-rlc,30.0,1059,iExec RLC
+2023-11-04,thorchain,31.0,1150,Thorchain
+2023-11-04,prometeus,32.0,1443,Prometeus
+2023-11-04,maker,33.0,996,Maker
+2023-11-04,uniswap,34.0,5395,Uniswap
+2023-11-04,mass-vehicle-ledger,35.0,3192,MVL
+2023-11-04,casper-network,36.0,9500,Casper Network
+2023-11-04,usdd,37.0,16837,USDD
+2023-11-04,blockstack,38.0,512,Blockstack
+2023-11-04,chia,39.0,8840,Chia
+2023-11-04,magic,40.0,11258,Magic
+2023-11-04,the-open-network,41.0,10418,The Open Network
+2023-11-04,stp-network,42.0,1169,STP Network
+2023-11-04,rocket-pool-eth,43.0,13879,Rocket Pool ETH
+2023-11-04,ssv-network,44.0,13100,SSV Network
+2023-11-04,stargate-finance,45.0,16688,Stargate Finance
+2023-11-04,liquity,46.0,8062,Liquity
+2023-11-04,monero,47.0,986,Monero
+2023-11-04,bone-shibaswap,48.0,11675,Bone ShibaSwap
+2023-11-04,numeraire,49.0,1054,Numeraire
+2023-11-04,swipe,50.0,1016,Swipe
+2023-11-04,alchemy-pay,51.0,4829,Alchemy Pay
+2023-11-04,ronin,52.0,15732,Ronin
+2023-11-04,safepal,53.0,7173,SafePal
+2023-11-04,dogecoin,54.0,998,Dogecoin
+2023-11-04,pendle,55.0,8668,Pendle
+2023-11-04,tron,56.0,984,TRON
+2023-11-04,binancecoin,57.0,345,Binance Coin
+2023-11-04,ethereum,58.0,978,Ethereum
+2023-11-04,pundi-x-2,59.0,8224,Pundi X
+2023-11-04,bitcoin,60.0,376,Bitcoin
+2023-11-04,dexe,61.0,5792,DeXe
+2023-11-04,stellar,62.0,983,Stellar
+2023-11-04,ocean-protocol,63.0,1121,Ocean Protocol
+2023-11-04,energy-web-token,64.0,3945,Energy Web Token
+2023-11-04,steem,65.0,1033,Steem
+2023-11-04,centrifuge,66.0,9427,Centrifuge
+2023-11-04,stratis,67.0,1038,Stratis
+2023-11-04,just,68.0,3756,JUST
+2023-11-04,vechain,69.0,994,VeChain
+2023-11-04,baby-doge-coin,70.0,10910,Baby Doge Coin
+2023-11-04,golem,71.0,1052,Golem
+2023-11-04,aave,72.0,5613,Aave
+2023-11-04,escoin-token,73.0,6790,Escoin Token
+2023-11-04,woo-network,74.0,10321,WOO Network
+2023-11-04,kujira,75.0,13198,Kujira
+2023-11-04,milk-alliance,76.0,8283,MiL.k Alliance
+2023-11-04,lido-dao,77.0,6723,Lido DAO
+2023-11-04,origintrail,78.0,1281,OriginTrail
+2023-11-04,audius,79.0,5921,Audius
+2023-11-04,cosmos,80.0,769,Cosmos
+2023-11-04,singularitynet,81.0,1101,SingularityNET
+2023-11-04,playdapp,82.0,7864,PlayDapp
+2023-11-04,chainlink,83.0,659,ChainLink
+2023-11-04,swissborg,84.0,3273,SwissBorg
+2023-11-04,matic-network,85.0,1036,Polygon
+2023-11-04,bitcoin-cash,86.0,382,Bitcoin Cash
+2023-11-04,skale,87.0,6350,SKALE
+2023-11-04,neo,88.0,990,NEO
+2023-11-04,astar,89.0,15776,Astar
+2023-11-04,venus,90.0,5718,Venus
+2023-11-04,convex-finance,91.0,8849,Convex Finance
+2023-11-04,bluzelle,92.0,528,Bluzelle
+2023-11-04,covalent,93.0,776,Covalent
+2023-11-04,power-ledger,94.0,1088,Power Ledger
+2023-11-04,mina-protocol,95.0,8477,Mina Protocol (IOU)
+2023-11-04,compound-governance-token,96.0,4340,Compound
+2023-11-04,metal,97.0,1097,Metal
+2023-11-04,status,98.0,1041,Status
+2023-11-04,rif-token,99.0,1046,RIF Token
+2023-11-04,api3,100.0,6298,API3
+2023-11-11,kaspa,1.0,18408,Kaspa
+2023-11-11,vega-protocol,2.0,14418,Vega Protocol
+2023-11-11,wrapped-nxm,3.0,4702,Wrapped NXM
+2023-11-11,akash-network,4.0,5923,Akash Network
+2023-11-11,mx-token,5.0,2696,MX Token
+2023-11-11,tomochain,6.0,1039,TomoChain
+2023-11-11,pendle,7.0,8668,Pendle
+2023-11-11,conflux-token,8.0,6035,Conflux Token
+2023-11-11,rollbit-coin,9.0,16660,Rollbit Coin
+2023-11-11,bitget-token,10.0,18811,Bitget Token
+2023-11-11,liquity,11.0,8062,Liquity
+2023-11-11,xdce-crowd-sale,12.0,3213,XinFin
+2023-11-11,dydx,13.0,10717,dYdX
+2023-11-11,whitebit,14.0,18795,WhiteBIT Token
+2023-11-11,alchemy-pay,15.0,4829,Alchemy Pay
+2023-11-11,render-token,16.0,4469,Render Token
+2023-11-11,blockstack,17.0,512,Blockstack
+2023-11-11,maker,18.0,996,Maker
+2023-11-11,insure,19.0,3457,inSure
+2023-11-11,rif-token,20.0,1046,RIF Token
+2023-11-11,usdd,21.0,16837,USDD
+2023-11-11,aelf,22.0,114,aelf
+2023-11-11,tellor,23.0,1259,Tellor
+2023-11-11,swipe,24.0,1016,Swipe
+2023-11-11,mask-network,25.0,7426,Mask Network
+2023-11-11,radicle,26.0,7555,Radicle
+2023-11-11,stargate-finance,27.0,16688,Stargate Finance
+2023-11-11,just,28.0,3756,JUST
+2023-11-11,woo-network,29.0,10321,WOO Network
+2023-11-11,wemix-token,30.0,6098,Wemix Token
+2023-11-11,aragon,31.0,204,Aragon
+2023-11-11,stellar,32.0,983,Stellar
+2023-11-11,tokamak-network,33.0,4927,Tokamak Network
+2023-11-11,ronin,34.0,15732,Ronin
+2023-11-11,bitcoin-avalanche-bridged-btc-b,35.0,18226,Bitcoin Avalanche Bridged (BTC.b)
+2023-11-11,radix,36.0,13193,Radix
+2023-11-11,stp-network,37.0,1169,STP Network
+2023-11-11,okb,38.0,988,OKB
+2023-11-11,tron,39.0,984,TRON
+2023-11-11,bitcoin,40.0,376,Bitcoin
+2023-11-11,stratis,41.0,1038,Stratis
+2023-11-11,status,42.0,1041,Status
+2023-11-11,immutable-x,43.0,12263,Immutable X
+2023-11-11,milk-alliance,44.0,8283,MiL.k Alliance
+2023-11-11,fx-coin,45.0,2792,f(x) Coin
+2023-11-11,bluzelle,46.0,528,Bluzelle
+2023-11-11,the-graph,47.0,6569,The Graph
+2023-11-11,metal,48.0,1097,Metal
+2023-11-11,joe,49.0,10035,JOE
+2023-11-11,safepal,50.0,7173,SafePal
+2023-11-11,injective-protocol,51.0,5920,Injective Protocol
+2023-11-11,rocket-pool-eth,52.0,13879,Rocket Pool ETH
+2023-11-11,casper-network,53.0,9500,Casper Network
+2023-11-11,gmx,54.0,10735,GMX
+2023-11-11,frax-ether,55.0,18838,Frax Ether
+2023-11-11,neo,56.0,990,NEO
+2023-11-11,orbs,57.0,3144,Orbs
+2023-11-11,ripple,58.0,979,XRP
+2023-11-11,dkargo,59.0,5112,dKargo
+2023-11-11,staked-ether,60.0,6583,Staked Ether
+2023-11-11,ethereum,61.0,978,Ethereum
+2023-11-11,oasis-network,62.0,6150,Oasis Network
+2023-11-11,ark,63.0,215,Ark
+2023-11-11,skale,64.0,6350,SKALE
+2023-11-11,origintrail,65.0,1281,OriginTrail
+2023-11-11,filecoin,66.0,3288,Filecoin
+2023-11-11,solana,67.0,3747,Solana
+2023-11-11,escoin-token,68.0,6790,Escoin Token
+2023-11-11,ankr,69.0,188,Ankr
+2023-11-11,coin98,70.0,9795,Coin98
+2023-11-11,qtum,71.0,1001,Qtum
+2023-11-11,beldex,72.0,309,Beldex
+2023-11-11,radiant-capital,73.0,18696,Radiant Capital
+2023-11-11,baby-doge-coin,74.0,10910,Baby Doge Coin
+2023-11-11,pundi-x-2,75.0,8224,Pundi X
+2023-11-11,huobi-token,76.0,989,Huobi Token
+2023-11-11,prometeus,77.0,1443,Prometeus
+2023-11-11,axelar,78.0,18821,Axelar
+2023-11-11,astar,79.0,15776,Astar
+2023-11-11,lido-staked-sol,80.0,10879,Lido Staked SOL
+2023-11-11,storm,81.0,1147,Storm
+2023-11-11,compound-governance-token,82.0,4340,Compound
+2023-11-11,chainlink,83.0,659,ChainLink
+2023-11-11,floki,84.0,18797,FLOKI
+2023-11-11,thorchain,85.0,1150,Thorchain
+2023-11-11,bancor,86.0,281,Bancor Network Token
+2023-11-11,power-ledger,87.0,1088,Power Ledger
+2023-11-11,dexe,88.0,5792,DeXe
+2023-11-11,cartesi,89.0,3752,Cartesi
+2023-11-11,bitcoin-cash-sv,90.0,408,Bitcoin SV
+2023-11-11,steem,91.0,1033,Steem
+2023-11-11,mass-vehicle-ledger,92.0,3192,MVL
+2023-11-11,vulcan-forged,93.0,9735,Vulcan Forged
+2023-11-11,reserve-rights-token,94.0,1132,Reserve Rights Token
+2023-11-11,telcoin,95.0,1105,Telcoin
+2023-11-11,quark-chain,96.0,1114,QuarkChain
+2023-11-11,venus,97.0,5718,Venus
+2023-11-11,msol,98.0,10911,Marinade staked SOL
+2023-11-11,centrifuge,99.0,9427,Centrifuge
+2023-11-11,lisk,100.0,1012,Lisk
+2023-11-18,kaspa,1.0,18408,Kaspa
+2023-11-18,vega-protocol,2.0,14418,Vega Protocol
+2023-11-18,synapse-2,3.0,10909,Synapse
+2023-11-18,conflux-token,4.0,6035,Conflux Token
+2023-11-18,rollbit-coin,5.0,16660,Rollbit Coin
+2023-11-18,wrapped-nxm,6.0,4702,Wrapped NXM
+2023-11-18,tomochain,7.0,1039,TomoChain
+2023-11-18,akash-network,8.0,5923,Akash Network
+2023-11-18,mx-token,9.0,2696,MX Token
+2023-11-18,render-token,10.0,4469,Render Token
+2023-11-18,bitget-token,11.0,18811,Bitget Token
+2023-11-18,xdce-crowd-sale,12.0,3213,XinFin
+2023-11-18,dydx,13.0,10717,dYdX
+2023-11-18,blockstack,14.0,512,Blockstack
+2023-11-18,dodo,15.0,5619,DODO
+2023-11-18,whitebit,16.0,18795,WhiteBIT Token
+2023-11-18,mask-network,17.0,7426,Mask Network
+2023-11-18,liquity,18.0,8062,Liquity
+2023-11-18,alchemy-pay,19.0,4829,Alchemy Pay
+2023-11-18,usdd,20.0,16837,USDD
+2023-11-18,yield-guild-games,21.0,9791,Yield Guild Games
+2023-11-18,maker,22.0,996,Maker
+2023-11-18,insure,23.0,3457,inSure
+2023-11-18,aelf,24.0,114,aelf
+2023-11-18,metal,25.0,1097,Metal
+2023-11-18,chia,26.0,8840,Chia
+2023-11-18,woo-network,27.0,10321,WOO Network
+2023-11-18,aragon,28.0,204,Aragon
+2023-11-18,unifi-protocol-dao,29.0,6184,Unifi Protocol DAO
+2023-11-18,swipe,30.0,1016,Swipe
+2023-11-18,injective-protocol,31.0,5920,Injective Protocol
+2023-11-18,ankr,32.0,188,Ankr
+2023-11-18,stellar,33.0,983,Stellar
+2023-11-18,gmx,34.0,10735,GMX
+2023-11-18,wemix-token,35.0,6098,Wemix Token
+2023-11-18,escoin-token,36.0,6790,Escoin Token
+2023-11-18,bluzelle,37.0,528,Bluzelle
+2023-11-18,moviebloc,38.0,1187,MovieBloc
+2023-11-18,bitcoin-avalanche-bridged-btc-b,39.0,18226,Bitcoin Avalanche Bridged (BTC.b)
+2023-11-18,immutable-x,40.0,12263,Immutable X
+2023-11-18,vulcan-forged,41.0,9735,Vulcan Forged
+2023-11-18,tron,42.0,984,TRON
+2023-11-18,ronin,43.0,15732,Ronin
+2023-11-18,ethereum-pow-iou,44.0,18773,EthereumPoW
+2023-11-18,bitcoin,45.0,376,Bitcoin
+2023-11-18,skale,46.0,6350,SKALE
+2023-11-18,okb,47.0,988,OKB
+2023-11-18,merit-circle,48.0,12265,Merit Circle
+2023-11-18,playdapp,49.0,7864,PlayDapp
+2023-11-18,stargate-finance,50.0,16688,Stargate Finance
+2023-11-18,radix,51.0,13193,Radix
+2023-11-18,tominet,52.0,19102,tomiNet
+2023-11-18,tokamak-network,53.0,4927,Tokamak Network
+2023-11-18,huobi-token,54.0,989,Huobi Token
+2023-11-18,joe,55.0,10035,JOE
+2023-11-18,fx-coin,56.0,2792,f(x) Coin
+2023-11-18,safepal,57.0,7173,SafePal
+2023-11-18,radicle,58.0,7555,Radicle
+2023-11-18,project-galaxy,59.0,17971,Project Galaxy
+2023-11-18,thorchain,60.0,1150,Thorchain
+2023-11-18,staked-ether,61.0,6583,Staked Ether
+2023-11-18,radiant-capital,62.0,18696,Radiant Capital
+2023-11-18,msol,63.0,10911,Marinade staked SOL
+2023-11-18,yearn-finance,64.0,4689,yearn.finance
+2023-11-18,rif-token,65.0,1046,RIF Token
+2023-11-18,ardor,66.0,211,Ardor
+2023-11-18,biconomy,67.0,13226,Biconomy
+2023-11-18,dkargo,68.0,5112,dKargo
+2023-11-18,frax-ether,69.0,18838,Frax Ether
+2023-11-18,ethereum,70.0,978,Ethereum
+2023-11-18,pendle,71.0,8668,Pendle
+2023-11-18,lido-staked-sol,72.0,10879,Lido Staked SOL
+2023-11-18,just,73.0,3756,JUST
+2023-11-18,icon,74.0,1021,ICON
+2023-11-18,milk-alliance,75.0,8283,MiL.k Alliance
+2023-11-18,neo,76.0,990,NEO
+2023-11-18,bancor,77.0,281,Bancor Network Token
+2023-11-18,casper-network,78.0,9500,Casper Network
+2023-11-18,stp-network,79.0,1169,STP Network
+2023-11-18,tellor,80.0,1259,Tellor
+2023-11-18,ripple,81.0,979,XRP
+2023-11-18,oasis-network,82.0,6150,Oasis Network
+2023-11-18,compound-governance-token,83.0,4340,Compound
+2023-11-18,illuvium,84.0,8054,Illuvium
+2023-11-18,ark,85.0,215,Ark
+2023-11-18,storm,86.0,1147,Storm
+2023-11-18,stratis,87.0,1038,Stratis
+2023-11-18,solana,88.0,3747,Solana
+2023-11-18,cartesi,89.0,3752,Cartesi
+2023-11-18,pundi-x-2,90.0,8224,Pundi X
+2023-11-18,crypto-com-chain,91.0,809,Crypto.com Coin
+2023-11-18,rocket-pool-eth,92.0,13879,Rocket Pool ETH
+2023-11-18,wilder-world,93.0,8826,Wilder World
+2023-11-18,zencash,94.0,1024,Horizen
+2023-11-18,baby-doge-coin,95.0,10910,Baby Doge Coin
+2023-11-18,balancer,96.0,4341,Balancer
+2023-11-18,the-graph,97.0,6569,The Graph
+2023-11-18,origintrail,98.0,1281,OriginTrail
+2023-11-18,axelar,99.0,18821,Axelar
+2023-11-18,orbs,100.0,3144,Orbs
+2023-11-25,kaspa,1.0,18408,Kaspa
+2023-11-25,vega-protocol,2.0,14418,Vega Protocol
+2023-11-25,akash-network,3.0,5923,Akash Network
+2023-11-25,tomochain,4.0,1039,TomoChain
+2023-11-25,wrapped-nxm,5.0,4702,Wrapped NXM
+2023-11-25,render-token,6.0,4469,Render Token
+2023-11-25,mx-token,7.0,2696,MX Token
+2023-11-25,rollbit-coin,8.0,16660,Rollbit Coin
+2023-11-25,conflux-token,9.0,6035,Conflux Token
+2023-11-25,wemix-token,10.0,6098,Wemix Token
+2023-11-25,dydx,11.0,10717,dYdX
+2023-11-25,bitget-token,12.0,18811,Bitget Token
+2023-11-25,hifi-finance,13.0,18840,Hifi Finance
+2023-11-25,xdce-crowd-sale,14.0,3213,XinFin
+2023-11-25,raydium,15.0,7425,Raydium
+2023-11-25,vulcan-forged,16.0,9735,Vulcan Forged
+2023-11-25,whitebit,17.0,18795,WhiteBIT Token
+2023-11-25,maker,18.0,996,Maker
+2023-11-25,aelf,19.0,114,aelf
+2023-11-25,blockstack,20.0,512,Blockstack
+2023-11-25,alchemy-pay,21.0,4829,Alchemy Pay
+2023-11-25,tominet,22.0,19102,tomiNet
+2023-11-25,mask-network,23.0,7426,Mask Network
+2023-11-25,liquity,24.0,8062,Liquity
+2023-11-25,injective-protocol,25.0,5920,Injective Protocol
+2023-11-25,pendle,26.0,8668,Pendle
+2023-11-25,badger-dao,27.0,6445,Badger DAO
+2023-11-25,aragon,28.0,204,Aragon
+2023-11-25,usdd,29.0,16837,USDD
+2023-11-25,tellor,30.0,1259,Tellor
+2023-11-25,tokamak-network,31.0,4927,Tokamak Network
+2023-11-25,insure,32.0,3457,inSure
+2023-11-25,skale,33.0,6350,SKALE
+2023-11-25,yield-guild-games,34.0,9791,Yield Guild Games
+2023-11-25,unifi-protocol-dao,35.0,6184,Unifi Protocol DAO
+2023-11-25,woo-network,36.0,10321,WOO Network
+2023-11-25,casper-network,37.0,9500,Casper Network
+2023-11-25,dodo,38.0,5619,DODO
+2023-11-25,beldex,39.0,309,Beldex
+2023-11-25,bitcoin-avalanche-bridged-btc-b,40.0,18226,Bitcoin Avalanche Bridged (BTC.b)
+2023-11-25,ankr,41.0,188,Ankr
+2023-11-25,ripple,42.0,979,XRP
+2023-11-25,stellar,43.0,983,Stellar
+2023-11-25,dkargo,44.0,5112,dKargo
+2023-11-25,tron,45.0,984,TRON
+2023-11-25,cobak-token,46.0,6691,Cobak Token
+2023-11-25,osmosis,47.0,9792,Osmosis
+2023-11-25,bitcoin,48.0,376,Bitcoin
+2023-11-25,huobi-token,49.0,989,Huobi Token
+2023-11-25,crypto-com-chain,50.0,809,Crypto.com Coin
+2023-11-25,swipe,51.0,1016,Swipe
+2023-11-25,moviebloc,52.0,1187,MovieBloc
+2023-11-25,gmx,53.0,10735,GMX
+2023-11-25,rif-token,54.0,1046,RIF Token
+2023-11-25,okb,55.0,988,OKB
+2023-11-25,bluzelle,56.0,528,Bluzelle
+2023-11-25,ark,57.0,215,Ark
+2023-11-25,ronin,58.0,15732,Ronin
+2023-11-25,safepal,59.0,7173,SafePal
+2023-11-25,immutable-x,60.0,12263,Immutable X
+2023-11-25,frax-ether,61.0,18838,Frax Ether
+2023-11-25,stp-network,62.0,1169,STP Network
+2023-11-25,joe,63.0,10035,JOE
+2023-11-25,staked-ether,64.0,6583,Staked Ether
+2023-11-25,ardor,65.0,211,Ardor
+2023-11-25,ethereum,66.0,978,Ethereum
+2023-11-25,just,67.0,3756,JUST
+2023-11-25,escoin-token,68.0,6790,Escoin Token
+2023-11-25,neo,69.0,990,NEO
+2023-11-25,stratis,70.0,1038,Stratis
+2023-11-25,msol,71.0,10911,Marinade staked SOL
+2023-11-25,milk-alliance,72.0,8283,MiL.k Alliance
+2023-11-25,metal,73.0,1097,Metal
+2023-11-25,solana,74.0,3747,Solana
+2023-11-25,floki,75.0,18797,FLOKI
+2023-11-25,leo-token,76.0,987,LEO Token
+2023-11-25,seedify-fund,77.0,8158,Seedify.fund
+2023-11-25,bancor,78.0,281,Bancor Network Token
+2023-11-25,rocket-pool-eth,79.0,13879,Rocket Pool ETH
+2023-11-25,civic,80.0,687,Civic
+2023-11-25,axelar,81.0,18821,Axelar
+2023-11-25,yearn-finance,82.0,4689,yearn.finance
+2023-11-25,havven,83.0,1005,Synthetix Network Token
+2023-11-25,radix,84.0,13193,Radix
+2023-11-25,illuvium,85.0,8054,Illuvium
+2023-11-25,stargate-finance,86.0,16688,Stargate Finance
+2023-11-25,compound-governance-token,87.0,4340,Compound
+2023-11-25,dexe,88.0,5792,DeXe
+2023-11-25,siacoin,89.0,1025,Siacoin
+2023-11-25,lido-staked-sol,90.0,10879,Lido Staked SOL
+2023-11-25,the-graph,91.0,6569,The Graph
+2023-11-25,baby-doge-coin,92.0,10910,Baby Doge Coin
+2023-11-25,origintrail,93.0,1281,OriginTrail
+2023-11-25,thorchain,94.0,1150,Thorchain
+2023-11-25,oasis-network,95.0,6150,Oasis Network
+2023-11-25,astar,96.0,15776,Astar
+2023-11-25,orbs,97.0,3144,Orbs
+2023-11-25,qtum,98.0,1001,Qtum
+2023-11-25,cartesi,99.0,3752,Cartesi
+2023-11-25,my-neighbor-alice,100.0,7709,My Neighbor Alice
+2023-12-02,kaspa,1.0,18408,Kaspa
+2023-12-02,dynex,2.0,18863,Dynex
+2023-12-02,vega-protocol,3.0,14418,Vega Protocol
+2023-12-02,hifi-finance,4.0,18840,Hifi Finance
+2023-12-02,mx-token,5.0,2696,MX Token
+2023-12-02,rollbit-coin,6.0,16660,Rollbit Coin
+2023-12-02,conflux-token,7.0,6035,Conflux Token
+2023-12-02,wemix-token,8.0,6098,Wemix Token
+2023-12-02,xdce-crowd-sale,9.0,3213,XinFin
+2023-12-02,render-token,10.0,4469,Render Token
+2023-12-02,bonk,11.0,18835,Bonk
+2023-12-02,tellor,12.0,1259,Tellor
+2023-12-02,akash-network,13.0,5923,Akash Network
+2023-12-02,whitebit,14.0,18795,WhiteBIT Token
+2023-12-02,vulcan-forged,15.0,9735,Vulcan Forged
+2023-12-02,insure,16.0,3457,inSure
+2023-12-02,blockstack,17.0,512,Blockstack
+2023-12-02,wrapped-nxm,18.0,4702,Wrapped NXM
+2023-12-02,magic,19.0,11258,Magic
+2023-12-02,maker,20.0,996,Maker
+2023-12-02,rss3,21.0,15990,RSS3
+2023-12-02,moviebloc,22.0,1187,MovieBloc
+2023-12-02,tominet,23.0,19102,tomiNet
+2023-12-02,aragon,24.0,204,Aragon
+2023-12-02,pendle,25.0,8668,Pendle
+2023-12-02,axelar,26.0,18821,Axelar
+2023-12-02,unifi-protocol-dao,27.0,6184,Unifi Protocol DAO
+2023-12-02,seedify-fund,28.0,8158,Seedify.fund
+2023-12-02,usdd,29.0,16837,USDD
+2023-12-02,aelf,30.0,114,aelf
+2023-12-02,bitcoin-avalanche-bridged-btc-b,31.0,18226,Bitcoin Avalanche Bridged (BTC.b)
+2023-12-02,liquity,32.0,8062,Liquity
+2023-12-02,dydx,33.0,10717,dYdX
+2023-12-02,blur,34.0,20752,Blur
+2023-12-02,ripple,35.0,979,XRP
+2023-12-02,yield-guild-games,36.0,9791,Yield Guild Games
+2023-12-02,gala,37.0,5437,Gala
+2023-12-02,bitcoin,38.0,376,Bitcoin
+2023-12-02,swipe,39.0,1016,Swipe
+2023-12-02,beldex,40.0,309,Beldex
+2023-12-02,floki,41.0,18797,FLOKI
+2023-12-02,ribbon-finance,42.0,10897,Ribbon Finance
+2023-12-02,badger-dao,43.0,6445,Badger DAO
+2023-12-02,illuvium,44.0,8054,Illuvium
+2023-12-02,rif-token,45.0,1046,RIF Token
+2023-12-02,stellar,46.0,983,Stellar
+2023-12-02,tron,47.0,984,TRON
+2023-12-02,solana,48.0,3747,Solana
+2023-12-02,injective-protocol,49.0,5920,Injective Protocol
+2023-12-02,joe,50.0,10035,JOE
+2023-12-02,cobak-token,51.0,6691,Cobak Token
+2023-12-02,mask-network,52.0,7426,Mask Network
+2023-12-02,raydium,53.0,7425,Raydium
+2023-12-02,my-neighbor-alice,54.0,7709,My Neighbor Alice
+2023-12-02,rocket-pool-eth,55.0,13879,Rocket Pool ETH
+2023-12-02,frax-ether,56.0,18838,Frax Ether
+2023-12-02,skale,57.0,6350,SKALE
+2023-12-02,tokamak-network,58.0,4927,Tokamak Network
+2023-12-02,staked-ether,59.0,6583,Staked Ether
+2023-12-02,stratis,60.0,1038,Stratis
+2023-12-02,radix,61.0,13193,Radix
+2023-12-02,safepal,62.0,7173,SafePal
+2023-12-02,bitget-token,63.0,18811,Bitget Token
+2023-12-02,leo-token,64.0,987,LEO Token
+2023-12-02,ethereum,65.0,978,Ethereum
+2023-12-02,gmx,66.0,10735,GMX
+2023-12-02,metal,67.0,1097,Metal
+2023-12-02,bitcoin-cash,68.0,382,Bitcoin Cash
+2023-12-02,neo,69.0,990,NEO
+2023-12-02,crypto-com-chain,70.0,809,Crypto.com Coin
+2023-12-02,okb,71.0,988,OKB
+2023-12-02,huobi-token,72.0,989,Huobi Token
+2023-12-02,compound-governance-token,73.0,4340,Compound
+2023-12-02,just,74.0,3756,JUST
+2023-12-02,thorchain,75.0,1150,Thorchain
+2023-12-02,lido-staked-sol,76.0,10879,Lido Staked SOL
+2023-12-02,biconomy,77.0,13226,Biconomy
+2023-12-02,bluzelle,78.0,528,Bluzelle
+2023-12-02,yearn-finance,79.0,4689,yearn.finance
+2023-12-02,woo-network,80.0,10321,WOO Network
+2023-12-02,havven,81.0,1005,Synthetix Network Token
+2023-12-02,kujira,82.0,13198,Kujira
+2023-12-02,escoin-token,83.0,6790,Escoin Token
+2023-12-02,qtum,84.0,1001,Qtum
+2023-12-02,stp-network,85.0,1169,STP Network
+2023-12-02,ethereum-pow-iou,86.0,18773,EthereumPoW
+2023-12-02,helium,87.0,3751,Helium
+2023-12-02,nakamoto-games,88.0,12078,Nakamoto Games
+2023-12-02,dodo,89.0,5619,DODO
+2023-12-02,bancor,90.0,281,Bancor Network Token
+2023-12-02,tokenize-xchange,91.0,1115,Tokenize Xchange
+2023-12-02,ark,92.0,215,Ark
+2023-12-02,hunt-token,93.0,1672,HUNT Platform
+2023-12-02,gnosis,94.0,1103,Gnosis
+2023-12-02,balancer,95.0,4341,Balancer
+2023-12-02,chainlink,96.0,659,ChainLink
+2023-12-02,uquid-coin,97.0,1438,Uquid Coin
+2023-12-02,msol,98.0,10911,Marinade staked SOL
+2023-12-02,maple,99.0,9818,Maple
+2023-12-02,baby-doge-coin,100.0,10910,Baby Doge Coin
+2023-12-09,kaspa,1.0,18408,Kaspa
+2023-12-09,insure,2.0,3457,inSure
+2023-12-09,xdce-crowd-sale,3.0,3213,XinFin
+2023-12-09,dogelon-mars,4.0,8844,Dogelon Mars
+2023-12-09,pocket-network,5.0,15628,Pocket Network
+2023-12-09,tellor,6.0,1259,Tellor
+2023-12-09,moviebloc,7.0,1187,MovieBloc
+2023-12-09,vvs-finance,8.0,12273,VVS Finance
+2023-12-09,akash-network,9.0,5923,Akash Network
+2023-12-09,baby-doge-coin,10.0,10910,Baby Doge Coin
+2023-12-09,maker,11.0,996,Maker
+2023-12-09,syscoin,12.0,1107,Syscoin
+2023-12-09,ecomi,13.0,3159,ECOMI
+2023-12-09,orbs,14.0,3144,Orbs
+2023-12-09,ripple,15.0,979,XRP
+2023-12-09,bitrise-token,16.0,10102,Bitrise Token
+2023-12-09,bora,17.0,550,BORA
+2023-12-09,aragon,18.0,204,Aragon
+2023-12-09,bitcoin-avalanche-bridged-btc-b,19.0,18226,Bitcoin Avalanche Bridged (BTC.b)
+2023-12-09,radicle,20.0,7555,Radicle
+2023-12-09,solana,21.0,3747,Solana
+2023-12-09,stratis,22.0,1038,Stratis
+2023-12-09,escoin-token,23.0,6790,Escoin Token
+2023-12-09,aelf,24.0,114,aelf
+2023-12-09,axie-infinity,25.0,6009,Axie Infinity
+2023-12-09,liquity,26.0,8062,Liquity
+2023-12-09,stp-network,27.0,1169,STP Network
+2023-12-09,dynex,28.0,18863,Dynex
+2023-12-09,kava,29.0,1087,Kava
+2023-12-09,lido-staked-sol,30.0,10879,Lido Staked SOL
+2023-12-09,bitcoin,31.0,376,Bitcoin
+2023-12-09,dent,32.0,929,Dent
+2023-12-09,dao-maker,33.0,7176,DAO Maker
+2023-12-09,the-sandbox,34.0,4708,SAND
+2023-12-09,access-protocol,35.0,21055,Access Protocol
+2023-12-09,ethereum,36.0,978,Ethereum
+2023-12-09,bitcoin-cash,37.0,382,Bitcoin Cash
+2023-12-09,hifi-finance,38.0,18840,Hifi Finance
+2023-12-09,yearn-finance,39.0,4689,yearn.finance
+2023-12-09,fetch-ai,40.0,1094,Fetch.ai
+2023-12-09,staked-ether,41.0,6583,Staked Ether
+2023-12-09,aleph-zero,42.0,17844,Aleph Zero
+2023-12-09,bitcoin-gold,43.0,391,Bitcoin Gold
+2023-12-09,biconomy,44.0,13226,Biconomy
+2023-12-09,ronin,45.0,15732,Ronin
+2023-12-09,stellar,46.0,983,Stellar
+2023-12-09,tomochain,47.0,1039,TomoChain
+2023-12-09,status,48.0,1041,Status
+2023-12-09,mass-vehicle-ledger,49.0,3192,MVL
+2023-12-09,frax-ether,50.0,18838,Frax Ether
+2023-12-09,rif-token,51.0,1046,RIF Token
+2023-12-09,rocket-pool-eth,52.0,13879,Rocket Pool ETH
+2023-12-09,unifi-protocol-dao,53.0,6184,Unifi Protocol DAO
+2023-12-09,spell-token,54.0,8857,Spell Token
+2023-12-09,coin98,55.0,9795,Coin98
+2023-12-09,radiant-capital,56.0,18696,Radiant Capital
+2023-12-09,cobak-token,57.0,6691,Cobak Token
+2023-12-09,gnosis,58.0,1103,Gnosis
+2023-12-09,blur,59.0,20752,Blur
+2023-12-09,qtum,60.0,1001,Qtum
+2023-12-09,origintrail,61.0,1281,OriginTrail
+2023-12-09,ribbon-finance,62.0,10897,Ribbon Finance
+2023-12-09,aioz-network,63.0,8144,AIOZ Network
+2023-12-09,sidus,64.0,14567,Sidus
+2023-12-09,the-open-network,65.0,10418,The Open Network
+2023-12-09,crypto-com-chain,66.0,809,Crypto.com Coin
+2023-12-09,kadena,67.0,3753,Kadena
+2023-12-09,conflux-token,68.0,6035,Conflux Token
+2023-12-09,cartesi,69.0,3752,Cartesi
+2023-12-09,thorchain,70.0,1150,Thorchain
+2023-12-09,superfarm,71.0,7424,SuperFarm
+2023-12-09,goldfinch,72.0,15558,Goldfinch
+2023-12-09,tokamak-network,73.0,4927,Tokamak Network
+2023-12-09,milk-alliance,74.0,8283,MiL.k Alliance
+2023-12-09,nym,75.0,16758,Nym
+2023-12-09,synapse-2,76.0,10909,Synapse
+2023-12-09,compound-governance-token,77.0,4340,Compound
+2023-12-09,badger-dao,78.0,6445,Badger DAO
+2023-12-09,zelcash,79.0,1270,ZelCash
+2023-12-09,leo-token,80.0,987,LEO Token
+2023-12-09,ark,81.0,215,Ark
+2023-12-09,playdapp,82.0,7864,PlayDapp
+2023-12-09,monero,83.0,986,Monero
+2023-12-09,dydx,84.0,10717,dYdX
+2023-12-09,tron,85.0,984,TRON
+2023-12-09,illuvium,86.0,8054,Illuvium
+2023-12-09,wrapped-nxm,87.0,4702,Wrapped NXM
+2023-12-09,theta-token,88.0,1011,Theta Network
+2023-12-09,lido-dao,89.0,6723,Lido DAO
+2023-12-09,woo-network,90.0,10321,WOO Network
+2023-12-09,dkargo,91.0,5112,dKargo
+2023-12-09,band-protocol,92.0,282,Band Protocol
+2023-12-09,my-neighbor-alice,93.0,7709,My Neighbor Alice
+2023-12-09,pendle,94.0,8668,Pendle
+2023-12-09,rollbit-coin,95.0,16660,Rollbit Coin
+2023-12-09,blockstack,96.0,512,Blockstack
+2023-12-09,canto,97.0,18763,CANTO
+2023-12-09,covalent,98.0,776,Covalent
+2023-12-09,neo,99.0,990,NEO
+2023-12-09,loopring,100.0,1067,Loopring
+2023-12-16,kaspa,1.0,18408,Kaspa
+2023-12-16,vvs-finance,2.0,12273,VVS Finance
+2023-12-16,songbird,3.0,11226,Songbird
+2023-12-16,access-protocol,4.0,21055,Access Protocol
+2023-12-16,insure,5.0,3457,inSure
+2023-12-16,loom-network-new,6.0,9753,Loom Network (NEW)
+2023-12-16,tellor,7.0,1259,Tellor
+2023-12-16,xdce-crowd-sale,8.0,3213,XinFin
+2023-12-16,bitrise-token,9.0,10102,Bitrise Token
+2023-12-16,maker,10.0,996,Maker
+2023-12-16,akash-network,11.0,5923,Akash Network
+2023-12-16,syscoin,12.0,1107,Syscoin
+2023-12-16,ecomi,13.0,3159,ECOMI
+2023-12-16,pocket-network,14.0,15628,Pocket Network
+2023-12-16,moviebloc,15.0,1187,MovieBloc
+2023-12-16,ripple,16.0,979,XRP
+2023-12-16,radicle,17.0,7555,Radicle
+2023-12-16,aelf,18.0,114,aelf
+2023-12-16,aragon,19.0,204,Aragon
+2023-12-16,beldex,20.0,309,Beldex
+2023-12-16,solana,21.0,3747,Solana
+2023-12-16,dynex,22.0,18863,Dynex
+2023-12-16,lido-staked-sol,23.0,10879,Lido Staked SOL
+2023-12-16,stratis,24.0,1038,Stratis
+2023-12-16,stp-network,25.0,1169,STP Network
+2023-12-16,dkargo,26.0,5112,dKargo
+2023-12-16,plearn,27.0,17237,PLEARN
+2023-12-16,bitcoin-avalanche-bridged-btc-b,28.0,18226,Bitcoin Avalanche Bridged (BTC.b)
+2023-12-16,bitcoin-cash,29.0,382,Bitcoin Cash
+2023-12-16,bora,30.0,550,BORA
+2023-12-16,the-sandbox,31.0,4708,SAND
+2023-12-16,bitcoin,32.0,376,Bitcoin
+2023-12-16,cobak-token,33.0,6691,Cobak Token
+2023-12-16,kava,34.0,1087,Kava
+2023-12-16,escoin-token,35.0,6790,Escoin Token
+2023-12-16,dogelon-mars,36.0,8844,Dogelon Mars
+2023-12-16,yearn-finance,37.0,4689,yearn.finance
+2023-12-16,ethereum,38.0,978,Ethereum
+2023-12-16,dao-maker,39.0,7176,DAO Maker
+2023-12-16,rif-token,40.0,1046,RIF Token
+2023-12-16,liquity,41.0,8062,Liquity
+2023-12-16,constellation-labs,42.0,755,Constellation
+2023-12-16,staked-ether,43.0,6583,Staked Ether
+2023-12-16,vitadao,44.0,13204,VitaDAO
+2023-12-16,playdapp,45.0,7864,PlayDapp
+2023-12-16,dent,46.0,929,Dent
+2023-12-16,covalent,47.0,776,Covalent
+2023-12-16,stellar,48.0,983,Stellar
+2023-12-16,gnosis,49.0,1103,Gnosis
+2023-12-16,axie-infinity,50.0,6009,Axie Infinity
+2023-12-16,rocket-pool-eth,51.0,13879,Rocket Pool ETH
+2023-12-16,pundi-x-2,52.0,8224,Pundi X
+2023-12-16,oraichain-token,53.0,5927,Oraichain Token
+2023-12-16,marblex,54.0,17973,Marblex
+2023-12-16,band-protocol,55.0,282,Band Protocol
+2023-12-16,aleph-zero,56.0,17844,Aleph Zero
+2023-12-16,gala,57.0,5437,Gala
+2023-12-16,radiant-capital,58.0,18696,Radiant Capital
+2023-12-16,crypto-com-chain,59.0,809,Crypto.com Coin
+2023-12-16,frax-ether,60.0,18838,Frax Ether
+2023-12-16,immutable-x,61.0,12263,Immutable X
+2023-12-16,tomochain,62.0,1039,TomoChain
+2023-12-16,ark,63.0,215,Ark
+2023-12-16,cartesi,64.0,3752,Cartesi
+2023-12-16,conflux-token,65.0,6035,Conflux Token
+2023-12-16,just,66.0,3756,JUST
+2023-12-16,fetch-ai,67.0,1094,Fetch.ai
+2023-12-16,blur,68.0,20752,Blur
+2023-12-16,near,69.0,5900,Near
+2023-12-16,coin98,70.0,9795,Coin98
+2023-12-16,adventure-gold,71.0,10615,Adventure Gold
+2023-12-16,okb,72.0,988,OKB
+2023-12-16,illuvium,73.0,8054,Illuvium
+2023-12-16,decentraland,74.0,907,Decentraland
+2023-12-16,dydx,75.0,10717,dYdX
+2023-12-16,storm,76.0,1147,Storm
+2023-12-16,unifi-protocol-dao,77.0,6184,Unifi Protocol DAO
+2023-12-16,havven,78.0,1005,Synthetix Network Token
+2023-12-16,storj,79.0,1095,Storj
+2023-12-16,filecoin,80.0,3288,Filecoin
+2023-12-16,enjincoin,81.0,1014,Enjin Coin
+2023-12-16,yield-guild-games,82.0,9791,Yield Guild Games
+2023-12-16,bonk,83.0,18835,Bonk
+2023-12-16,compound-governance-token,84.0,4340,Compound
+2023-12-16,iotex,85.0,1090,IoTeX
+2023-12-16,aurora-near,86.0,13169,Aurora
+2023-12-16,siacoin,87.0,1025,Siacoin
+2023-12-16,dogecoin,88.0,998,Dogecoin
+2023-12-16,astar,89.0,15776,Astar
+2023-12-16,tron,90.0,984,TRON
+2023-12-16,aave,91.0,5613,Aave
+2023-12-16,qtum,92.0,1001,Qtum
+2023-12-16,the-open-network,93.0,10418,The Open Network
+2023-12-16,uquid-coin,94.0,1438,Uquid Coin
+2023-12-16,monero,95.0,986,Monero
+2023-12-16,binancecoin,96.0,345,Binance Coin
+2023-12-16,ethereum-classic,97.0,991,Ethereum Classic
+2023-12-16,litecoin,98.0,981,Litecoin
+2023-12-16,ribbon-finance,99.0,10897,Ribbon Finance
+2023-12-16,swipe,100.0,1016,Swipe
+2023-12-23,kaspa,1.0,18408,Kaspa
+2023-12-23,digibyte,2.0,947,DigiByte
+2023-12-23,loom-network-new,3.0,9753,Loom Network (NEW)
+2023-12-23,tellor,4.0,1259,Tellor
+2023-12-23,vvs-finance,5.0,12273,VVS Finance
+2023-12-23,insure,6.0,3457,inSure
+2023-12-23,songbird,7.0,11226,Songbird
+2023-12-23,qanplatform,8.0,5470,QANplatform
+2023-12-23,moviebloc,9.0,1187,MovieBloc
+2023-12-23,xdce-crowd-sale,10.0,3213,XinFin
+2023-12-23,maker,11.0,996,Maker
+2023-12-23,bitcoin-cash,12.0,382,Bitcoin Cash
+2023-12-23,bitrise-token,13.0,10102,Bitrise Token
+2023-12-23,badger-dao,14.0,6445,Badger DAO
+2023-12-23,akash-network,15.0,5923,Akash Network
+2023-12-23,orbs,16.0,3144,Orbs
+2023-12-23,radicle,17.0,7555,Radicle
+2023-12-23,plearn,18.0,17237,PLEARN
+2023-12-23,aragon,19.0,204,Aragon
+2023-12-23,staked-ether,20.0,6583,Staked Ether
+2023-12-23,adventure-gold,21.0,10615,Adventure Gold
+2023-12-23,uquid-coin,22.0,1438,Uquid Coin
+2023-12-23,ecomi,23.0,3159,ECOMI
+2023-12-23,lido-staked-sol,24.0,10879,Lido Staked SOL
+2023-12-23,unifi-protocol-dao,25.0,6184,Unifi Protocol DAO
+2023-12-23,gitcoin,26.0,8846,Gitcoin
+2023-12-23,wrapped-nxm,27.0,4702,Wrapped NXM
+2023-12-23,dent,28.0,929,Dent
+2023-12-23,crypto-com-chain,29.0,809,Crypto.com Coin
+2023-12-23,goldfinch,30.0,15558,Goldfinch
+2023-12-23,yield-guild-games,31.0,9791,Yield Guild Games
+2023-12-23,pocket-network,32.0,15628,Pocket Network
+2023-12-23,stp-network,33.0,1169,STP Network
+2023-12-23,bora,34.0,550,BORA
+2023-12-23,vitadao,35.0,13204,VitaDAO
+2023-12-23,kava,36.0,1087,Kava
+2023-12-23,aelf,37.0,114,aelf
+2023-12-23,marblex,38.0,17973,Marblex
+2023-12-23,aioz-network,39.0,8144,AIOZ Network
+2023-12-23,stratis,40.0,1038,Stratis
+2023-12-23,bitcoin,41.0,376,Bitcoin
+2023-12-23,ripple,42.0,979,XRP
+2023-12-23,constellation-labs,43.0,755,Constellation
+2023-12-23,rif-token,44.0,1046,RIF Token
+2023-12-23,cobak-token,45.0,6691,Cobak Token
+2023-12-23,bitcoin-avalanche-bridged-btc-b,46.0,18226,Bitcoin Avalanche Bridged (BTC.b)
+2023-12-23,escoin-token,47.0,6790,Escoin Token
+2023-12-23,status,48.0,1041,Status
+2023-12-23,access-protocol,49.0,21055,Access Protocol
+2023-12-23,star-atlas,50.0,10704,Star Atlas
+2023-12-23,spell-token,51.0,8857,Spell Token
+2023-12-23,syscoin,52.0,1107,Syscoin
+2023-12-23,covalent,53.0,776,Covalent
+2023-12-23,beldex,54.0,309,Beldex
+2023-12-23,enjincoin,55.0,1014,Enjin Coin
+2023-12-23,dynex,56.0,18863,Dynex
+2023-12-23,ethereum,57.0,978,Ethereum
+2023-12-23,solana,58.0,3747,Solana
+2023-12-23,liquity,59.0,8062,Liquity
+2023-12-23,mass-vehicle-ledger,60.0,3192,MVL
+2023-12-23,victoria-vr,61.0,13247,Victoria VR
+2023-12-23,stellar,62.0,983,Stellar
+2023-12-23,dogelon-mars,63.0,8844,Dogelon Mars
+2023-12-23,rocket-pool-eth,64.0,13879,Rocket Pool ETH
+2023-12-23,yearn-finance,65.0,4689,yearn.finance
+2023-12-23,litecoin,66.0,981,Litecoin
+2023-12-23,avalanche-2,67.0,5518,Avalanche
+2023-12-23,metal,68.0,1097,Metal
+2023-12-23,0x0-ai-ai-smart-contract,69.0,19291,0x0.ai: AI Smart Contract
+2023-12-23,genesysgo-shadow,70.0,15487,GenesysGo Shadow
+2023-12-23,swipe,71.0,1016,Swipe
+2023-12-23,dkargo,72.0,5112,dKargo
+2023-12-23,storj,73.0,1095,Storj
+2023-12-23,tokamak-network,74.0,4927,Tokamak Network
+2023-12-23,the-sandbox,75.0,4708,SAND
+2023-12-23,jasmycoin,76.0,7234,JasmyCoin
+2023-12-23,bone-shibaswap,77.0,11675,Bone ShibaSwap
+2023-12-23,frax-ether,78.0,18838,Frax Ether
+2023-12-23,my-neighbor-alice,79.0,7709,My Neighbor Alice
+2023-12-23,thorchain,80.0,1150,Thorchain
+2023-12-23,alchemy-pay,81.0,4829,Alchemy Pay
+2023-12-23,storm,82.0,1147,Storm
+2023-12-23,near,83.0,5900,Near
+2023-12-23,sidus,84.0,14567,Sidus
+2023-12-23,fetch-ai,85.0,1094,Fetch.ai
+2023-12-23,tron,86.0,984,TRON
+2023-12-23,havven,87.0,1005,Synthetix Network Token
+2023-12-23,alexgo,88.0,21173,ALEX Lab
+2023-12-23,iotex,89.0,1090,IoTeX
+2023-12-23,coinbase-wrapped-staked-eth,90.0,19695,Coinbase Wrapped Staked ETH
+2023-12-23,okb,91.0,988,OKB
+2023-12-23,marinade,92.0,11068,Marinade
+2023-12-23,injective-protocol,93.0,5920,Injective Protocol
+2023-12-23,filecoin,94.0,3288,Filecoin
+2023-12-23,mobox,95.0,8315,Mobox
+2023-12-23,ribbon-finance,96.0,10897,Ribbon Finance
+2023-12-23,monero,97.0,986,Monero
+2023-12-23,radiant-capital,98.0,18696,Radiant Capital
+2023-12-23,dydx,99.0,10717,dYdX
+2023-12-23,tomochain,100.0,1039,TomoChain
+2023-12-30,sidus,1.0,14567,Sidus
+2023-12-30,wrapped-nxm,2.0,4702,Wrapped NXM
+2023-12-30,qanplatform,3.0,5470,QANplatform
+2023-12-30,everscale,4.0,15831,Everscale
+2023-12-30,constellation-labs,5.0,755,Constellation
+2023-12-30,bifrost,6.0,336,Bifrost
+2023-12-30,coti,7.0,770,COTI
+2023-12-30,stp-network,8.0,1169,STP Network
+2023-12-30,gods-unchained,9.0,12182,Gods Unchained
+2023-12-30,fx-coin,10.0,2792,f(x) Coin
+2023-12-30,guildfi,11.0,13228,GuildFi
+2023-12-30,allianceblock-nexera,12.0,21525,AllianceBlock Nexera
+2023-12-30,wax,13.0,1086,WAX
+2023-12-30,tellor,14.0,1259,Tellor
+2023-12-30,plearn,15.0,17237,PLEARN
+2023-12-30,evmos,16.0,17421,Evmos
+2023-12-30,skale,17.0,6350,SKALE
+2023-12-30,status,18.0,1041,Status
+2023-12-30,orbs,19.0,3144,Orbs
+2023-12-30,covalent,20.0,776,Covalent
+2023-12-30,insure,21.0,3457,inSure
+2023-12-30,bitcoin-cash,22.0,382,Bitcoin Cash
+2023-12-30,beldex,23.0,309,Beldex
+2023-12-30,constitutiondao,24.0,13246,ConstitutionDAO
+2023-12-30,pocket-network,25.0,15628,Pocket Network
+2023-12-30,vega-protocol,26.0,14418,Vega Protocol
+2023-12-30,goldfinch,27.0,15558,Goldfinch
+2023-12-30,celsius-degree-token,28.0,649,Celsius Network
+2023-12-30,songbird,29.0,11226,Songbird
+2023-12-30,ardor,30.0,211,Ardor
+2023-12-30,digibyte,31.0,947,DigiByte
+2023-12-30,oasys,32.0,19861,Oasys
+2023-12-30,vvs-finance,33.0,12273,VVS Finance
+2023-12-30,icon,34.0,1021,ICON
+2023-12-30,cornucopias,35.0,13403,Cornucopias
+2023-12-30,cobak-token,36.0,6691,Cobak Token
+2023-12-30,aragon,37.0,204,Aragon
+2023-12-30,hive,38.0,1536,Hiveterminal token
+2023-12-30,maker,39.0,996,Maker
+2023-12-30,radiant-capital,40.0,18696,Radiant Capital
+2023-12-30,monero,41.0,986,Monero
+2023-12-30,staked-ether,42.0,6583,Staked Ether
+2023-12-30,kaspa,43.0,18408,Kaspa
+2023-12-30,lido-staked-sol,44.0,10879,Lido Staked SOL
+2023-12-30,gitcoin,45.0,8846,Gitcoin
+2023-12-30,rollbit-coin,46.0,16660,Rollbit Coin
+2023-12-30,audius,47.0,5921,Audius
+2023-12-30,ripple,48.0,979,XRP
+2023-12-30,radix,49.0,13193,Radix
+2023-12-30,ecomi,50.0,3159,ECOMI
+2023-12-30,just,51.0,3756,JUST
+2023-12-30,baby-doge-coin,52.0,10910,Baby Doge Coin
+2023-12-30,coin98,53.0,9795,Coin98
+2023-12-30,canto,54.0,18763,CANTO
+2023-12-30,dao-maker,55.0,7176,DAO Maker
+2023-12-30,loom-network-new,56.0,9753,Loom Network (NEW)
+2023-12-30,cartesi,57.0,3752,Cartesi
+2023-12-30,mobox,58.0,8315,Mobox
+2023-12-30,ribbon-finance,59.0,10897,Ribbon Finance
+2023-12-30,alexgo,60.0,21173,ALEX Lab
+2023-12-30,dock,61.0,1235,Dock
+2023-12-30,dkargo,62.0,5112,dKargo
+2023-12-30,stratis,63.0,1038,Stratis
+2023-12-30,dusk-network,64.0,1110,DUSK Network
+2023-12-30,boba-network,65.0,13225,Boba Network
+2023-12-30,mina-protocol,66.0,8477,Mina Protocol (IOU)
+2023-12-30,bitcoin-avalanche-bridged-btc-b,67.0,18226,Bitcoin Avalanche Bridged (BTC.b)
+2023-12-30,aioz-network,68.0,8144,AIOZ Network
+2023-12-30,aave,69.0,5613,Aave
+2023-12-30,0x0-ai-ai-smart-contract,70.0,19291,0x0.ai: AI Smart Contract
+2023-12-30,storj,71.0,1095,Storj
+2023-12-30,xdce-crowd-sale,72.0,3213,XinFin
+2023-12-30,star-atlas-dao,73.0,10705,Star Atlas DAO
+2023-12-30,escoin-token,74.0,6790,Escoin Token
+2023-12-30,gnosis,75.0,1103,Gnosis
+2023-12-30,storm,76.0,1147,Storm
+2023-12-30,bluzelle,77.0,528,Bluzelle
+2023-12-30,ankr,78.0,188,Ankr
+2023-12-30,power-ledger,79.0,1088,Power Ledger
+2023-12-30,iostoken,80.0,1020,IOST
+2023-12-30,basic-attention-token,81.0,291,Basic Attention Token
+2023-12-30,badger-dao,82.0,6445,Badger DAO
+2023-12-30,dogelon-mars,83.0,8844,Dogelon Mars
+2023-12-30,bitcoin,84.0,376,Bitcoin
+2023-12-30,akash-network,85.0,5923,Akash Network
+2023-12-30,access-protocol,86.0,21055,Access Protocol
+2023-12-30,solana,87.0,3747,Solana
+2023-12-30,bitrise-token,88.0,10102,Bitrise Token
+2023-12-30,dodo,89.0,5619,DODO
+2023-12-30,stepn,90.0,16387,STEPN
+2023-12-30,magic,91.0,11258,Magic
+2023-12-30,metaplex,92.0,20281,Metaplex
+2023-12-30,radicle,93.0,7555,Radicle
+2023-12-30,jasmycoin,94.0,7234,JasmyCoin
+2023-12-30,biconomy,95.0,13226,Biconomy
+2023-12-30,avalanche-2,96.0,5518,Avalanche
+2023-12-30,dogecoin,97.0,998,Dogecoin
+2023-12-30,sun-token,98.0,5302,Sun Token
+2023-12-30,moviebloc,99.0,1187,MovieBloc
+2023-12-30,star-atlas,100.0,10704,Star Atlas
+2024-01-06,ardor,1.0,211,Ardor
+2024-01-06,cornucopias,2.0,13403,Cornucopias
+2024-01-06,oasys,3.0,19861,Oasys
+2024-01-06,uquid-coin,4.0,1438,Uquid Coin
+2024-01-06,bifrost,5.0,336,Bifrost
+2024-01-06,coti,6.0,770,COTI
+2024-01-06,0x0-ai-ai-smart-contract,7.0,19291,0x0.ai: AI Smart Contract
+2024-01-06,marinade,8.0,11068,Marinade
+2024-01-06,gods-unchained,9.0,12182,Gods Unchained
+2024-01-06,guild-of-guardians,10.0,14665,Guild of Guardians
+2024-01-06,allianceblock-nexera,11.0,21525,AllianceBlock Nexera
+2024-01-06,world-mobile-token,12.0,14891,World Mobile Token
+2024-01-06,evmos,13.0,17421,Evmos
+2024-01-06,synapse-2,14.0,10909,Synapse
+2024-01-06,nym,15.0,16758,Nym
+2024-01-06,pha,16.0,5367,Phala Network
+2024-01-06,civic,17.0,687,Civic
+2024-01-06,everscale,18.0,15831,Everscale
+2024-01-06,dusk-network,19.0,1110,DUSK Network
+2024-01-06,goldfinch,20.0,15558,Goldfinch
+2024-01-06,constellation-labs,21.0,755,Constellation
+2024-01-06,playdapp,22.0,7864,PlayDapp
+2024-01-06,tellor,23.0,1259,Tellor
+2024-01-06,vitadao,24.0,13204,VitaDAO
+2024-01-06,route,25.0,6871,Router Protocol
+2024-01-06,celsius-degree-token,26.0,649,Celsius Network
+2024-01-06,digibyte,27.0,947,DigiByte
+2024-01-06,rif-token,28.0,1046,RIF Token
+2024-01-06,pocket-network,29.0,15628,Pocket Network
+2024-01-06,guildfi,30.0,13228,GuildFi
+2024-01-06,superrare,31.0,10275,SuperRare
+2024-01-06,stp-network,32.0,1169,STP Network
+2024-01-06,gitcoin,33.0,8846,Gitcoin
+2024-01-06,bitcoin-cash,34.0,382,Bitcoin Cash
+2024-01-06,orbs,35.0,3144,Orbs
+2024-01-06,wax,36.0,1086,WAX
+2024-01-06,covalent,37.0,776,Covalent
+2024-01-06,samoyedcoin,38.0,9600,Samoyedcoin
+2024-01-06,bora,39.0,550,BORA
+2024-01-06,beldex,40.0,309,Beldex
+2024-01-06,vega-protocol,41.0,14418,Vega Protocol
+2024-01-06,sidus,42.0,14567,Sidus
+2024-01-06,radicle,43.0,7555,Radicle
+2024-01-06,bitrise-token,44.0,10102,Bitrise Token
+2024-01-06,nem,45.0,997,NEM
+2024-01-06,staked-ether,46.0,6583,Staked Ether
+2024-01-06,icon,47.0,1021,ICON
+2024-01-06,insure,48.0,3457,inSure
+2024-01-06,rss3,49.0,15990,RSS3
+2024-01-06,songbird,50.0,11226,Songbird
+2024-01-06,amp-token,51.0,5313,Amp
+2024-01-06,rollbit-coin,52.0,16660,Rollbit Coin
+2024-01-06,radix,53.0,13193,Radix
+2024-01-06,marcopolo,54.0,2234,Marcopolo
+2024-01-06,aragon,55.0,204,Aragon
+2024-01-06,aioz-network,56.0,8144,AIOZ Network
+2024-01-06,lido-staked-sol,57.0,10879,Lido Staked SOL
+2024-01-06,dock,58.0,1235,Dock
+2024-01-06,dkargo,59.0,5112,dKargo
+2024-01-06,maker,60.0,996,Maker
+2024-01-06,iostoken,61.0,1020,IOST
+2024-01-06,dodo,62.0,5619,DODO
+2024-01-06,just,63.0,3756,JUST
+2024-01-06,ripple,64.0,979,XRP
+2024-01-06,badger-dao,65.0,6445,Badger DAO
+2024-01-06,kaspa,66.0,18408,Kaspa
+2024-01-06,aave,67.0,5613,Aave
+2024-01-06,skale,68.0,6350,SKALE
+2024-01-06,plearn,69.0,17237,PLEARN
+2024-01-06,mina-protocol,70.0,8477,Mina Protocol (IOU)
+2024-01-06,ankr,71.0,188,Ankr
+2024-01-06,akash-network,72.0,5923,Akash Network
+2024-01-06,bitcoin,73.0,376,Bitcoin
+2024-01-06,xdce-crowd-sale,74.0,3213,XinFin
+2024-01-06,audius,75.0,5921,Audius
+2024-01-06,bitcoin-avalanche-bridged-btc-b,76.0,18226,Bitcoin Avalanche Bridged (BTC.b)
+2024-01-06,monero,77.0,986,Monero
+2024-01-06,moviebloc,78.0,1187,MovieBloc
+2024-01-06,basic-attention-token,79.0,291,Basic Attention Token
+2024-01-06,hifi-finance,80.0,18840,Hifi Finance
+2024-01-06,ecomi,81.0,3159,ECOMI
+2024-01-06,dao-maker,82.0,7176,DAO Maker
+2024-01-06,victoria-vr,83.0,13247,Victoria VR
+2024-01-06,alexgo,84.0,21173,ALEX Lab
+2024-01-06,stratis,85.0,1038,Stratis
+2024-01-06,rocket-pool-eth,86.0,13879,Rocket Pool ETH
+2024-01-06,jasmycoin,87.0,7234,JasmyCoin
+2024-01-06,constitutiondao,88.0,13246,ConstitutionDAO
+2024-01-06,radiant-capital,89.0,18696,Radiant Capital
+2024-01-06,ribbon-finance,90.0,10897,Ribbon Finance
+2024-01-06,tokamak-network,91.0,4927,Tokamak Network
+2024-01-06,coin98,92.0,9795,Coin98
+2024-01-06,escoin-token,93.0,6790,Escoin Token
+2024-01-06,cartesi,94.0,3752,Cartesi
+2024-01-06,stepn,95.0,16387,STEPN
+2024-01-06,conflux-token,96.0,6035,Conflux Token
+2024-01-06,oraichain-token,97.0,5927,Oraichain Token
+2024-01-06,cobak-token,98.0,6691,Cobak Token
+2024-01-06,metal,99.0,1097,Metal
+2024-01-06,storm,100.0,1147,Storm
+2024-01-13,marinade,1.0,11068,Marinade
+2024-01-13,cornucopias,2.0,13403,Cornucopias
+2024-01-13,celsius-degree-token,3.0,649,Celsius Network
+2024-01-13,superrare,4.0,10275,SuperRare
+2024-01-13,ardor,5.0,211,Ardor
+2024-01-13,guild-of-guardians,6.0,14665,Guild of Guardians
+2024-01-13,bifrost,7.0,336,Bifrost
+2024-01-13,world-mobile-token,8.0,14891,World Mobile Token
+2024-01-13,dimo,9.0,19439,DIMO
+2024-01-13,evmos,10.0,17421,Evmos
+2024-01-13,tellor,11.0,1259,Tellor
+2024-01-13,guildfi,12.0,13228,GuildFi
+2024-01-13,pha,13.0,5367,Phala Network
+2024-01-13,goldfinch,14.0,15558,Goldfinch
+2024-01-13,cobak-token,15.0,6691,Cobak Token
+2024-01-13,coti,16.0,770,COTI
+2024-01-13,stader-maticx,17.0,16853,Stader MaticX
+2024-01-13,badger-dao,18.0,6445,Badger DAO
+2024-01-13,vitadao,19.0,13204,VitaDAO
+2024-01-13,0x0-ai-ai-smart-contract,20.0,19291,0x0.ai: AI Smart Contract
+2024-01-13,bitcoin-cash,21.0,382,Bitcoin Cash
+2024-01-13,allianceblock-nexera,22.0,21525,AllianceBlock Nexera
+2024-01-13,humanscape,23.0,3166,Humanscape
+2024-01-13,gitcoin,24.0,8846,Gitcoin
+2024-01-13,marcopolo,25.0,2234,Marcopolo
+2024-01-13,lcx,26.0,2268,LCX
+2024-01-13,skale,27.0,6350,SKALE
+2024-01-13,vega-protocol,28.0,14418,Vega Protocol
+2024-01-13,chiliz,29.0,672,Chiliz
+2024-01-13,marblex,30.0,17973,Marblex
+2024-01-13,maker,31.0,996,Maker
+2024-01-13,lido-staked-sol,32.0,10879,Lido Staked SOL
+2024-01-13,aurora-near,33.0,13169,Aurora
+2024-01-13,space-id,34.0,21812,SPACE ID
+2024-01-13,dusk-network,35.0,1110,DUSK Network
+2024-01-13,rollbit-coin,36.0,16660,Rollbit Coin
+2024-01-13,radiant-capital,37.0,18696,Radiant Capital
+2024-01-13,dock,38.0,1235,Dock
+2024-01-13,just,39.0,3756,JUST
+2024-01-13,star-atlas-dao,40.0,10705,Star Atlas DAO
+2024-01-13,staked-ether,41.0,6583,Staked Ether
+2024-01-13,pocket-network,42.0,15628,Pocket Network
+2024-01-13,basic-attention-token,43.0,291,Basic Attention Token
+2024-01-13,gnosis,44.0,1103,Gnosis
+2024-01-13,conflux-token,45.0,6035,Conflux Token
+2024-01-13,monero,46.0,986,Monero
+2024-01-13,solana,47.0,3747,Solana
+2024-01-13,rss3,48.0,15990,RSS3
+2024-01-13,magic,49.0,11258,Magic
+2024-01-13,gamefi,50.0,10852,GameFi
+2024-01-13,wax,51.0,1086,WAX
+2024-01-13,aragon,52.0,204,Aragon
+2024-01-13,mx-token,53.0,2696,MX Token
+2024-01-13,sweatcoin,54.0,18767,Sweatcoin - Sweat Economy
+2024-01-13,kaspa,55.0,18408,Kaspa
+2024-01-13,polymesh,56.0,18510,Polymesh
+2024-01-13,yield-guild-games,57.0,9791,Yield Guild Games
+2024-01-13,constellation-labs,58.0,755,Constellation
+2024-01-13,stepn,59.0,16387,STEPN
+2024-01-13,cartesi,60.0,3752,Cartesi
+2024-01-13,mobox,61.0,8315,Mobox
+2024-01-13,dexe,62.0,5792,DeXe
+2024-01-13,akash-network,63.0,5923,Akash Network
+2024-01-13,quant-network,64.0,1040,Quant
+2024-01-13,coredaoorg,65.0,20753,Core
+2024-01-13,terra-luna-2,66.0,18160,Terra
+2024-01-13,floki,67.0,18797,FLOKI
+2024-01-13,aave,68.0,5613,Aave
+2024-01-13,prometeus,69.0,1443,Prometeus
+2024-01-13,ethereum-pow-iou,70.0,18773,EthereumPoW
+2024-01-13,convex-finance,71.0,8849,Convex Finance
+2024-01-13,huobi-token,72.0,989,Huobi Token
+2024-01-13,orca,73.0,9841,Orca
+2024-01-13,blur,74.0,20752,Blur
+2024-01-13,astroport-fi,75.0,19292,Astroport.fi
+2024-01-13,jasmycoin,76.0,7234,JasmyCoin
+2024-01-13,tokamak-network,77.0,4927,Tokamak Network
+2024-01-13,everscale,78.0,15831,Everscale
+2024-01-13,mask-network,79.0,7426,Mask Network
+2024-01-13,oasis-network,80.0,6150,Oasis Network
+2024-01-13,rocket-pool-eth,81.0,13879,Rocket Pool ETH
+2024-01-13,playdapp,82.0,7864,PlayDapp
+2024-01-13,nem,83.0,997,NEM
+2024-01-13,bonk,84.0,18835,Bonk
+2024-01-13,aleph-zero,85.0,17844,Aleph Zero
+2024-01-13,ssv-network,86.0,13100,SSV Network
+2024-01-13,pendle,87.0,8668,Pendle
+2024-01-13,chromaway,88.0,675,Chromia
+2024-01-13,dodo,89.0,5619,DODO
+2024-01-13,hello-labs,90.0,18820,HELLO
+2024-01-13,hooked-protocol,91.0,19999,Hooked Protocol
+2024-01-13,celo,92.0,7422,Celo
+2024-01-13,apenft,93.0,9195,APENFT
+2024-01-13,bitcoin,94.0,376,Bitcoin
+2024-01-13,milk-alliance,95.0,8283,MiL.k Alliance
+2024-01-13,metal,96.0,1097,Metal
+2024-01-13,bakerytoken,97.0,5541,BakerySwap
+2024-01-13,1inch,98.0,6641,1inch
+2024-01-13,raydium,99.0,7425,Raydium
+2024-01-13,ripple,100.0,979,XRP
+2024-01-20,ardor,1.0,211,Ardor
+2024-01-20,cornucopias,2.0,13403,Cornucopias
+2024-01-20,evmos,3.0,17421,Evmos
+2024-01-20,superrare,4.0,10275,SuperRare
+2024-01-20,marinade,5.0,11068,Marinade
+2024-01-20,celsius-degree-token,6.0,649,Celsius Network
+2024-01-20,fx-coin,7.0,2792,f(x) Coin
+2024-01-20,bifrost,8.0,336,Bifrost
+2024-01-20,tellor,9.0,1259,Tellor
+2024-01-20,guildfi,10.0,13228,GuildFi
+2024-01-20,lcx,11.0,2268,LCX
+2024-01-20,looksrare,12.0,15292,LooksRare
+2024-01-20,guild-of-guardians,13.0,14665,Guild of Guardians
+2024-01-20,star-atlas-dao,14.0,10705,Star Atlas DAO
+2024-01-20,allianceblock-nexera,15.0,21525,AllianceBlock Nexera
+2024-01-20,lido-staked-sol,16.0,10879,Lido Staked SOL
+2024-01-20,coti,17.0,770,COTI
+2024-01-20,pha,18.0,5367,Phala Network
+2024-01-20,0x0-ai-ai-smart-contract,19.0,19291,0x0.ai: AI Smart Contract
+2024-01-20,everscale,20.0,15831,Everscale
+2024-01-20,metaplex,21.0,20281,Metaplex
+2024-01-20,badger-dao,22.0,6445,Badger DAO
+2024-01-20,gods-unchained,23.0,12182,Gods Unchained
+2024-01-20,oasys,24.0,19861,Oasys
+2024-01-20,marblex,25.0,17973,Marblex
+2024-01-20,bitcoin-cash,26.0,382,Bitcoin Cash
+2024-01-20,aave,27.0,5613,Aave
+2024-01-20,constellation-labs,28.0,755,Constellation
+2024-01-20,skale,29.0,6350,SKALE
+2024-01-20,maple,30.0,9818,Maple
+2024-01-20,euler,31.0,18215,Euler
+2024-01-20,hifi-finance,32.0,18840,Hifi Finance
+2024-01-20,vitadao,33.0,13204,VitaDAO
+2024-01-20,maker,34.0,996,Maker
+2024-01-20,chiliz,35.0,672,Chiliz
+2024-01-20,gnosis,36.0,1103,Gnosis
+2024-01-20,hello-labs,37.0,18820,HELLO
+2024-01-20,merit-circle,38.0,12265,Merit Circle
+2024-01-20,quant-network,39.0,1040,Quant
+2024-01-20,monero,40.0,986,Monero
+2024-01-20,kaspa,41.0,18408,Kaspa
+2024-01-20,dusk-network,42.0,1110,DUSK Network
+2024-01-20,just,43.0,3756,JUST
+2024-01-20,vega-protocol,44.0,14418,Vega Protocol
+2024-01-20,dock,45.0,1235,Dock
+2024-01-20,world-mobile-token,46.0,14891,World Mobile Token
+2024-01-20,constitutiondao,47.0,13246,ConstitutionDAO
+2024-01-20,staked-ether,48.0,6583,Staked Ether
+2024-01-20,radiant-capital,49.0,18696,Radiant Capital
+2024-01-20,aragon,50.0,204,Aragon
+2024-01-20,stepn,51.0,16387,STEPN
+2024-01-20,orca,52.0,9841,Orca
+2024-01-20,ethereum-pow-iou,53.0,18773,EthereumPoW
+2024-01-20,oasis-network,54.0,6150,Oasis Network
+2024-01-20,prometeus,55.0,1443,Prometeus
+2024-01-20,bitcoin,56.0,376,Bitcoin
+2024-01-20,mx-token,57.0,2696,MX Token
+2024-01-20,basic-attention-token,58.0,291,Basic Attention Token
+2024-01-20,stader-maticx,59.0,16853,Stader MaticX
+2024-01-20,uquid-coin,60.0,1438,Uquid Coin
+2024-01-20,mobox,61.0,8315,Mobox
+2024-01-20,convex-finance,62.0,8849,Convex Finance
+2024-01-20,solana,63.0,3747,Solana
+2024-01-20,conflux-token,64.0,6035,Conflux Token
+2024-01-20,humanscape,65.0,3166,Humanscape
+2024-01-20,magic,66.0,11258,Magic
+2024-01-20,oraichain-token,67.0,5927,Oraichain Token
+2024-01-20,ethereum-name-service,68.0,12264,Ethereum Name Service
+2024-01-20,ssv-network,69.0,13100,SSV Network
+2024-01-20,coredaoorg,70.0,20753,Core
+2024-01-20,jasmycoin,71.0,7234,JasmyCoin
+2024-01-20,mask-network,72.0,7426,Mask Network
+2024-01-20,compound-governance-token,73.0,4340,Compound
+2024-01-20,pocket-network,74.0,15628,Pocket Network
+2024-01-20,huobi-token,75.0,989,Huobi Token
+2024-01-20,alpha-finance,76.0,5719,Alpha Finance
+2024-01-20,bitcoin-avalanche-bridged-btc-b,77.0,18226,Bitcoin Avalanche Bridged (BTC.b)
+2024-01-20,akash-network,78.0,5923,Akash Network
+2024-01-20,thorchain,79.0,1150,Thorchain
+2024-01-20,echelon-prime,80.0,21262,Echelon Prime
+2024-01-20,kadena,81.0,3753,Kadena
+2024-01-20,xdce-crowd-sale,82.0,3213,XinFin
+2024-01-20,space-id,83.0,21812,SPACE ID
+2024-01-20,goldfinch,84.0,15558,Goldfinch
+2024-01-20,blur,85.0,20752,Blur
+2024-01-20,rocket-pool-eth,86.0,13879,Rocket Pool ETH
+2024-01-20,radix,87.0,13193,Radix
+2024-01-20,dydx,88.0,10717,dYdX
+2024-01-20,kujira,89.0,13198,Kujira
+2024-01-20,rollbit-coin,90.0,16660,Rollbit Coin
+2024-01-20,balancer,91.0,4341,Balancer
+2024-01-20,ripple,92.0,979,XRP
+2024-01-20,beldex,93.0,309,Beldex
+2024-01-20,apenft,94.0,9195,APENFT
+2024-01-20,bitcoin-gold,95.0,391,Bitcoin Gold
+2024-01-20,nem,96.0,997,NEM
+2024-01-20,aleph-zero,97.0,17844,Aleph Zero
+2024-01-20,the-sandbox,98.0,4708,SAND
+2024-01-20,synapse-2,99.0,10909,Synapse
+2024-01-20,floki,100.0,18797,FLOKI
+2024-01-27,0x0-ai-ai-smart-contract,1.0,19291,0x0.ai: AI Smart Contract
+2024-01-27,ardor,2.0,211,Ardor
+2024-01-27,allianceblock-nexera,3.0,21525,AllianceBlock Nexera
+2024-01-27,ecash,4.0,10703,eCash
+2024-01-27,oasis-network,5.0,6150,Oasis Network
+2024-01-27,conflux-token,6.0,6035,Conflux Token
+2024-01-27,guildfi,7.0,13228,GuildFi
+2024-01-27,celsius-degree-token,8.0,649,Celsius Network
+2024-01-27,bonk,9.0,18835,Bonk
+2024-01-27,tellor,10.0,1259,Tellor
+2024-01-27,fx-coin,11.0,2792,f(x) Coin
+2024-01-27,flare-networks,12.0,18837,Flare Network
+2024-01-27,guild-of-guardians,13.0,14665,Guild of Guardians
+2024-01-27,chiliz,14.0,672,Chiliz
+2024-01-27,gala,15.0,5437,Gala
+2024-01-27,oasys,16.0,19861,Oasys
+2024-01-27,star-atlas-dao,17.0,10705,Star Atlas DAO
+2024-01-27,casper-network,18.0,9500,Casper Network
+2024-01-27,vega-protocol,19.0,14418,Vega Protocol
+2024-01-27,tokamak-network,20.0,4927,Tokamak Network
+2024-01-27,pocket-network,21.0,15628,Pocket Network
+2024-01-27,aurora-near,22.0,13169,Aurora
+2024-01-27,radix,23.0,13193,Radix
+2024-01-27,lcx,24.0,2268,LCX
+2024-01-27,aioz-network,25.0,8144,AIOZ Network
+2024-01-27,merit-circle,26.0,12265,Merit Circle
+2024-01-27,lido-staked-sol,27.0,10879,Lido Staked SOL
+2024-01-27,everscale,28.0,15831,Everscale
+2024-01-27,telos,29.0,1066,Telos
+2024-01-27,looksrare,30.0,15292,LooksRare
+2024-01-27,stepn,31.0,16387,STEPN
+2024-01-27,fantom,32.0,1062,Fantom
+2024-01-27,woo-network,33.0,10321,WOO Network
+2024-01-27,cudos,34.0,6963,Cudos
+2024-01-27,oraichain-token,35.0,5927,Oraichain Token
+2024-01-27,bitcoin-cash,36.0,382,Bitcoin Cash
+2024-01-27,euler,37.0,18215,Euler
+2024-01-27,nym,38.0,16758,Nym
+2024-01-27,world-mobile-token,39.0,14891,World Mobile Token
+2024-01-27,ronin,40.0,15732,Ronin
+2024-01-27,aave,41.0,5613,Aave
+2024-01-27,stader-maticx,42.0,16853,Stader MaticX
+2024-01-27,playdapp,43.0,7864,PlayDapp
+2024-01-27,ribbon-finance,44.0,10897,Ribbon Finance
+2024-01-27,constellation-labs,45.0,755,Constellation
+2024-01-27,boba-network,46.0,13225,Boba Network
+2024-01-27,apecoin,47.0,5649,APEcoin
+2024-01-27,maker,48.0,996,Maker
+2024-01-27,helium,49.0,3751,Helium
+2024-01-27,solana,50.0,3747,Solana
+2024-01-27,whitebit,51.0,18795,WhiteBIT Token
+2024-01-27,pha,52.0,5367,Phala Network
+2024-01-27,usdd,53.0,16837,USDD
+2024-01-27,skale,54.0,6350,SKALE
+2024-01-27,wemix-token,55.0,6098,Wemix Token
+2024-01-27,gnosis,56.0,1103,Gnosis
+2024-01-27,kujira,57.0,13198,Kujira
+2024-01-27,certik,58.0,5918,CertiK
+2024-01-27,staked-ether,59.0,6583,Staked Ether
+2024-01-27,apenft,60.0,9195,APENFT
+2024-01-27,crypto-com-chain,61.0,809,Crypto.com Coin
+2024-01-27,monero,62.0,986,Monero
+2024-01-27,dock,63.0,1235,Dock
+2024-01-27,aragon,64.0,204,Aragon
+2024-01-27,bitcoin-cash-sv,65.0,408,Bitcoin SV
+2024-01-27,iexec-rlc,66.0,1059,iExec RLC
+2024-01-27,bitcoin,67.0,376,Bitcoin
+2024-01-27,rif-token,68.0,1046,RIF Token
+2024-01-27,kaspa,69.0,18408,Kaspa
+2024-01-27,rollbit-coin,70.0,16660,Rollbit Coin
+2024-01-27,elrond-erd-2,71.0,4691,Elrond
+2024-01-27,uma,72.0,3750,UMA
+2024-01-27,0x,73.0,3,0x
+2024-01-27,api3,74.0,6298,API3
+2024-01-27,celo,75.0,7422,Celo
+2024-01-27,metaplex,76.0,20281,Metaplex
+2024-01-27,goldfinch,77.0,15558,Goldfinch
+2024-01-27,prometeus,78.0,1443,Prometeus
+2024-01-27,avalanche-2,79.0,5518,Avalanche
+2024-01-27,basic-attention-token,80.0,291,Basic Attention Token
+2024-01-27,tokenize-xchange,81.0,1115,Tokenize Xchange
+2024-01-27,osmosis,82.0,9792,Osmosis
+2024-01-27,just,83.0,3756,JUST
+2024-01-27,bifrost,84.0,336,Bifrost
+2024-01-27,bitcoin-avalanche-bridged-btc-b,85.0,18226,Bitcoin Avalanche Bridged (BTC.b)
+2024-01-27,illuvium,86.0,8054,Illuvium
+2024-01-27,wilder-world,87.0,8826,Wilder World
+2024-01-27,quant-network,88.0,1040,Quant
+2024-01-27,coredaoorg,89.0,20753,Core
+2024-01-27,convex-finance,90.0,8849,Convex Finance
+2024-01-27,hooked-protocol,91.0,19999,Hooked Protocol
+2024-01-27,axelar,92.0,18821,Axelar
+2024-01-27,ethereum-pow-iou,93.0,18773,EthereumPoW
+2024-01-27,akash-network,94.0,5923,Akash Network
+2024-01-27,thorchain,95.0,1150,Thorchain
+2024-01-27,dydx,96.0,10717,dYdX
+2024-01-27,bora,97.0,550,BORA
+2024-01-27,icon,98.0,1021,ICON
+2024-01-27,radicle,99.0,7555,Radicle
+2024-01-27,mx-token,100.0,2696,MX Token
+2024-02-03,0x0-ai-ai-smart-contract,1.0,19291,0x0.ai: AI Smart Contract
+2024-02-03,tellor,2.0,1259,Tellor
+2024-02-03,fasttoken,3.0,21354,Fasttoken
+2024-02-03,osmosis,4.0,9792,Osmosis
+2024-02-03,huobi-token,5.0,989,Huobi Token
+2024-02-03,wemix-token,6.0,6098,Wemix Token
+2024-02-03,blockstack,7.0,512,Blockstack
+2024-02-03,kaspa,8.0,18408,Kaspa
+2024-02-03,bittensor,9.0,21330,Bittensor
+2024-02-03,woo-network,10.0,10321,WOO Network
+2024-02-03,akash-network,11.0,5923,Akash Network
+2024-02-03,axelar,12.0,18821,Axelar
+2024-02-03,kujira,13.0,13198,Kujira
+2024-02-03,render-token,14.0,4469,Render Token
+2024-02-03,staked-ether,15.0,6583,Staked Ether
+2024-02-03,solana,16.0,3747,Solana
+2024-02-03,lido-staked-sol,17.0,10879,Lido Staked SOL
+2024-02-03,route,18.0,6871,Router Protocol
+2024-02-03,thorchain,19.0,1150,Thorchain
+2024-02-03,bitcoin-cash,20.0,382,Bitcoin Cash
+2024-02-03,staked-frax-ether,21.0,18839,Staked Frax Ether
+2024-02-03,cheelee,22.0,21068,Cheelee
+2024-02-03,maker,23.0,996,Maker
+2024-02-03,aragon,24.0,204,Aragon
+2024-02-03,benqi-liquid-staked-avax,25.0,16312,BENQI Liquid Staked AVAX
+2024-02-03,adventure-gold,26.0,10615,Adventure Gold
+2024-02-03,echelon-prime,27.0,21262,Echelon Prime
+2024-02-03,api3,28.0,6298,API3
+2024-02-03,blur,29.0,20752,Blur
+2024-02-03,uma,30.0,3750,UMA
+2024-02-03,trias-token,31.0,7573,Trias Token
+2024-02-03,perpetual-protocol,32.0,5288,Perpetual Protocol
+2024-02-03,conflux-token,33.0,6035,Conflux Token
+2024-02-03,whitebit,34.0,18795,WhiteBIT Token
+2024-02-03,pendle,35.0,8668,Pendle
+2024-02-03,wrapped-centrifuge,36.0,9803,Wrapped Centrifuge
+2024-02-03,iexec-rlc,37.0,1059,iExec RLC
+2024-02-03,maple,38.0,9818,Maple
+2024-02-03,chromaway,39.0,675,Chromia
+2024-02-03,rollbit-coin,40.0,16660,Rollbit Coin
+2024-02-03,centrifuge,41.0,9427,Centrifuge
+2024-02-03,frax-ether,42.0,18838,Frax Ether
+2024-02-03,bluzelle,43.0,528,Bluzelle
+2024-02-03,oasis-network,44.0,6150,Oasis Network
+2024-02-03,fetch-ai,45.0,1094,Fetch.ai
+2024-02-03,crypto-com-chain,46.0,809,Crypto.com Coin
+2024-02-03,ethereum-name-service,47.0,12264,Ethereum Name Service
+2024-02-03,storj,48.0,1095,Storj
+2024-02-03,bonk,49.0,18835,Bonk
+2024-02-03,frax-share,50.0,6597,Frax Share
+2024-02-03,ribbon-finance,51.0,10897,Ribbon Finance
+2024-02-03,tokenize-xchange,52.0,1115,Tokenize Xchange
+2024-02-03,dydx,53.0,10717,dYdX
+2024-02-03,tominet,54.0,19102,tomiNet
+2024-02-03,injective-protocol,55.0,5920,Injective Protocol
+2024-02-03,aelf,56.0,114,aelf
+2024-02-03,mx-token,57.0,2696,MX Token
+2024-02-03,bitcoin,58.0,376,Bitcoin
+2024-02-03,bitget-token,59.0,18811,Bitget Token
+2024-02-03,prometeus,60.0,1443,Prometeus
+2024-02-03,coinbase-wrapped-staked-eth,61.0,19695,Coinbase Wrapped Staked ETH
+2024-02-03,pocket-network,62.0,15628,Pocket Network
+2024-02-03,tron,63.0,984,TRON
+2024-02-03,aave,64.0,5613,Aave
+2024-02-03,gnosis,65.0,1103,Gnosis
+2024-02-03,loom-network-new,66.0,9753,Loom Network (NEW)
+2024-02-03,deso,67.0,18799,Decentralized Social
+2024-02-03,bitcoin-avalanche-bridged-btc-b,68.0,18226,Bitcoin Avalanche Bridged (BTC.b)
+2024-02-03,elastos,69.0,1065,Elastos
+2024-02-03,0x,70.0,3,0x
+2024-02-03,omisego,71.0,1009,OMG Network
+2024-02-03,ark,72.0,215,Ark
+2024-02-03,orca,73.0,9841,Orca
+2024-02-03,flare-networks,74.0,18837,Flare Network
+2024-02-03,chainlink,75.0,659,ChainLink
+2024-02-03,bitcoin-cash-sv,76.0,408,Bitcoin SV
+2024-02-03,illuvium,77.0,8054,Illuvium
+2024-02-03,xdce-crowd-sale,78.0,3213,XinFin
+2024-02-03,dusk-network,79.0,1110,DUSK Network
+2024-02-03,stratis,80.0,1038,Stratis
+2024-02-03,genesysgo-shadow,81.0,15487,GenesysGo Shadow
+2024-02-03,leo-token,82.0,987,LEO Token
+2024-02-03,ripple,83.0,979,XRP
+2024-02-03,rocket-pool-eth,84.0,13879,Rocket Pool ETH
+2024-02-03,bancor,85.0,281,Bancor Network Token
+2024-02-03,jasmycoin,86.0,7234,JasmyCoin
+2024-02-03,auction,87.0,7227,Auction
+2024-02-03,biconomy,88.0,13226,Biconomy
+2024-02-03,metis-token,89.0,9267,Metis Token
+2024-02-03,msol,90.0,10911,Marinade staked SOL
+2024-02-03,okb,91.0,988,OKB
+2024-02-03,radix,92.0,13193,Radix
+2024-02-03,swipe,93.0,1016,Swipe
+2024-02-03,magic,94.0,11258,Magic
+2024-02-03,dimo,95.0,19439,DIMO
+2024-02-03,certik,96.0,5918,CertiK
+2024-02-03,nakamoto-games,97.0,12078,Nakamoto Games
+2024-02-03,helium,98.0,3751,Helium
+2024-02-03,cartesi,99.0,3752,Cartesi
+2024-02-03,bitkub-coin,100.0,9133,Bitkub Coin
+2024-02-10,tellor,1.0,1259,Tellor
+2024-02-10,osmosis,2.0,9792,Osmosis
+2024-02-10,blockstack,3.0,512,Blockstack
+2024-02-10,huobi-token,4.0,989,Huobi Token
+2024-02-10,0x0-ai-ai-smart-contract,5.0,19291,0x0.ai: AI Smart Contract
+2024-02-10,wemix-token,6.0,6098,Wemix Token
+2024-02-10,fasttoken,7.0,21354,Fasttoken
+2024-02-10,bittensor,8.0,21330,Bittensor
+2024-02-10,rollbit-coin,9.0,16660,Rollbit Coin
+2024-02-10,echelon-prime,10.0,21262,Echelon Prime
+2024-02-10,akash-network,11.0,5923,Akash Network
+2024-02-10,lido-staked-sol,12.0,10879,Lido Staked SOL
+2024-02-10,chromaway,13.0,675,Chromia
+2024-02-10,wrapped-centrifuge,14.0,9803,Wrapped Centrifuge
+2024-02-10,kujira,15.0,13198,Kujira
+2024-02-10,solana,16.0,3747,Solana
+2024-02-10,centrifuge,17.0,9427,Centrifuge
+2024-02-10,axelar,18.0,18821,Axelar
+2024-02-10,render-token,19.0,4469,Render Token
+2024-02-10,oasis-network,20.0,6150,Oasis Network
+2024-02-10,conflux-token,21.0,6035,Conflux Token
+2024-02-10,cheelee,22.0,21068,Cheelee
+2024-02-10,kaspa,23.0,18408,Kaspa
+2024-02-10,woo-network,24.0,10321,WOO Network
+2024-02-10,cudos,25.0,6963,Cudos
+2024-02-10,bitcoin-cash,26.0,382,Bitcoin Cash
+2024-02-10,thorchain,27.0,1150,Thorchain
+2024-02-10,staked-ether,28.0,6583,Staked Ether
+2024-02-10,maker,29.0,996,Maker
+2024-02-10,blur,30.0,20752,Blur
+2024-02-10,flare-networks,31.0,18837,Flare Network
+2024-02-10,api3,32.0,6298,API3
+2024-02-10,iexec-rlc,33.0,1059,iExec RLC
+2024-02-10,gnosis,34.0,1103,Gnosis
+2024-02-10,chainlink,35.0,659,ChainLink
+2024-02-10,whitebit,36.0,18795,WhiteBIT Token
+2024-02-10,ribbon-finance,37.0,10897,Ribbon Finance
+2024-02-10,pocket-network,38.0,15628,Pocket Network
+2024-02-10,illuvium,39.0,8054,Illuvium
+2024-02-10,my-neighbor-alice,40.0,7709,My Neighbor Alice
+2024-02-10,genesysgo-shadow,41.0,15487,GenesysGo Shadow
+2024-02-10,trias-token,42.0,7573,Trias Token
+2024-02-10,prometeus,43.0,1443,Prometeus
+2024-02-10,aelf,44.0,114,aelf
+2024-02-10,quant-network,45.0,1040,Quant
+2024-02-10,bitget-token,46.0,18811,Bitget Token
+2024-02-10,apex-token-2,47.0,16945,ApeX
+2024-02-10,aragon,48.0,204,Aragon
+2024-02-10,deso,49.0,18799,Decentralized Social
+2024-02-10,klay-token,50.0,2391,Klaytn
+2024-02-10,storj,51.0,1095,Storj
+2024-02-10,loom-network-new,52.0,9753,Loom Network (NEW)
+2024-02-10,orca,53.0,9841,Orca
+2024-02-10,staked-frax-ether,54.0,18839,Staked Frax Ether
+2024-02-10,adventure-gold,55.0,10615,Adventure Gold
+2024-02-10,fetch-ai,56.0,1094,Fetch.ai
+2024-02-10,victoria-vr,57.0,13247,Victoria VR
+2024-02-10,ripple,58.0,979,XRP
+2024-02-10,audius,59.0,5921,Audius
+2024-02-10,maple,60.0,9818,Maple
+2024-02-10,bitcoin-avalanche-bridged-btc-b,61.0,18226,Bitcoin Avalanche Bridged (BTC.b)
+2024-02-10,bitcoin,62.0,376,Bitcoin
+2024-02-10,nexo,63.0,1028,NEXO
+2024-02-10,coinbase-wrapped-staked-eth,64.0,19695,Coinbase Wrapped Staked ETH
+2024-02-10,tron,65.0,984,TRON
+2024-02-10,lif3,66.0,18286,LIF3
+2024-02-10,apecoin,67.0,5649,APEcoin
+2024-02-10,crypto-com-chain,68.0,809,Crypto.com Coin
+2024-02-10,ark,69.0,215,Ark
+2024-02-10,tokamak-network,70.0,4927,Tokamak Network
+2024-02-10,aave,71.0,5613,Aave
+2024-02-10,frax-ether,72.0,18838,Frax Ether
+2024-02-10,bitcoin-cash-sv,73.0,408,Bitcoin SV
+2024-02-10,ethereum-classic,74.0,991,Ethereum Classic
+2024-02-10,uma,75.0,3750,UMA
+2024-02-10,biconomy,76.0,13226,Biconomy
+2024-02-10,mask-network,77.0,7426,Mask Network
+2024-02-10,dexe,78.0,5792,DeXe
+2024-02-10,bonk,79.0,18835,Bonk
+2024-02-10,bancor,80.0,281,Bancor Network Token
+2024-02-10,tokenize-xchange,81.0,1115,Tokenize Xchange
+2024-02-10,moonriver,82.0,10410,Moonriver
+2024-02-10,constitutiondao,83.0,13246,ConstitutionDAO
+2024-02-10,livepeer,84.0,1137,Livepeer
+2024-02-10,ecash,85.0,10703,eCash
+2024-02-10,smardex,86.0,21706,SmarDex
+2024-02-10,lido-dao,87.0,6723,Lido DAO
+2024-02-10,mx-token,88.0,2696,MX Token
+2024-02-10,pendle,89.0,8668,Pendle
+2024-02-10,immutable-x,90.0,12263,Immutable X
+2024-02-10,elrond-erd-2,91.0,4691,Elrond
+2024-02-10,origintrail,92.0,1281,OriginTrail
+2024-02-10,marlin,93.0,6571,Marlin
+2024-02-10,cortex,94.0,766,Cortex
+2024-02-10,leo-token,95.0,987,LEO Token
+2024-02-10,elastos,96.0,1065,Elastos
+2024-02-10,0x,97.0,3,0x
+2024-02-10,dydx,98.0,10717,dYdX
+2024-02-10,ecomi,99.0,3159,ECOMI
+2024-02-10,rocket-pool-eth,100.0,13879,Rocket Pool ETH
+2024-02-17,agoras-currency-of-tau,1.0,19533,Agoras: Currency of Tau
+2024-02-17,tellor,2.0,1259,Tellor
+2024-02-17,akash-network,3.0,5923,Akash Network
+2024-02-17,0x0-ai-ai-smart-contract,4.0,19291,0x0.ai: AI Smart Contract
+2024-02-17,bittensor,5.0,21330,Bittensor
+2024-02-17,thorchain,6.0,1150,Thorchain
+2024-02-17,wemix-token,7.0,6098,Wemix Token
+2024-02-17,my-neighbor-alice,8.0,7709,My Neighbor Alice
+2024-02-17,kaspa,9.0,18408,Kaspa
+2024-02-17,chromaway,10.0,675,Chromia
+2024-02-17,osmosis,11.0,9792,Osmosis
+2024-02-17,blockstack,12.0,512,Blockstack
+2024-02-17,echelon-prime,13.0,21262,Echelon Prime
+2024-02-17,lido-staked-sol,14.0,10879,Lido Staked SOL
+2024-02-17,cudos,15.0,6963,Cudos
+2024-02-17,loom-network-new,16.0,9753,Loom Network (NEW)
+2024-02-17,gnosis,17.0,1103,Gnosis
+2024-02-17,wrapped-centrifuge,18.0,9803,Wrapped Centrifuge
+2024-02-17,centrifuge,19.0,9427,Centrifuge
+2024-02-17,kujira,20.0,13198,Kujira
+2024-02-17,solana,21.0,3747,Solana
+2024-02-17,bitcoin-cash,22.0,382,Bitcoin Cash
+2024-02-17,fasttoken,23.0,21354,Fasttoken
+2024-02-17,bonk,24.0,18835,Bonk
+2024-02-17,nakamoto-games,25.0,12078,Nakamoto Games
+2024-02-17,render-token,26.0,4469,Render Token
+2024-02-17,ribbon-finance,27.0,10897,Ribbon Finance
+2024-02-17,victoria-vr,28.0,13247,Victoria VR
+2024-02-17,pocket-network,29.0,15628,Pocket Network
+2024-02-17,huobi-token,30.0,989,Huobi Token
+2024-02-17,prometeus,31.0,1443,Prometeus
+2024-02-17,illuvium,32.0,8054,Illuvium
+2024-02-17,allianceblock-nexera,33.0,21525,AllianceBlock Nexera
+2024-02-17,flare-networks,34.0,18837,Flare Network
+2024-02-17,maker,35.0,996,Maker
+2024-02-17,conflux-token,36.0,6035,Conflux Token
+2024-02-17,pepe,37.0,22257,Pepe
+2024-02-17,chainlink,38.0,659,ChainLink
+2024-02-17,oasis-network,39.0,6150,Oasis Network
+2024-02-17,cheelee,40.0,21068,Cheelee
+2024-02-17,axelar,41.0,18821,Axelar
+2024-02-17,just,42.0,3756,JUST
+2024-02-17,ark,43.0,215,Ark
+2024-02-17,orca,44.0,9841,Orca
+2024-02-17,trias-token,45.0,7573,Trias Token
+2024-02-17,adventure-gold,46.0,10615,Adventure Gold
+2024-02-17,deso,47.0,18799,Decentralized Social
+2024-02-17,aave,48.0,5613,Aave
+2024-02-17,storj,49.0,1095,Storj
+2024-02-17,fetch-ai,50.0,1094,Fetch.ai
+2024-02-17,ethereum-classic,51.0,991,Ethereum Classic
+2024-02-17,audius,52.0,5921,Audius
+2024-02-17,mina-protocol,53.0,8477,Mina Protocol (IOU)
+2024-02-17,bitcoin-cash-sv,54.0,408,Bitcoin SV
+2024-02-17,genesysgo-shadow,55.0,15487,GenesysGo Shadow
+2024-02-17,ecash,56.0,10703,eCash
+2024-02-17,lif3,57.0,18286,LIF3
+2024-02-17,aragon,58.0,204,Aragon
+2024-02-17,whitebit,59.0,18795,WhiteBIT Token
+2024-02-17,rocket-pool-eth,60.0,13879,Rocket Pool ETH
+2024-02-17,blur,61.0,20752,Blur
+2024-02-17,pendle,62.0,8668,Pendle
+2024-02-17,aelf,63.0,114,aelf
+2024-02-17,benqi-liquid-staked-avax,64.0,16312,BENQI Liquid Staked AVAX
+2024-02-17,nexo,65.0,1028,NEXO
+2024-02-17,apex-token-2,66.0,16945,ApeX
+2024-02-17,goldfinch,67.0,15558,Goldfinch
+2024-02-17,staked-ether,68.0,6583,Staked Ether
+2024-02-17,quant-network,69.0,1040,Quant
+2024-02-17,origintrail,70.0,1281,OriginTrail
+2024-02-17,iexec-rlc,71.0,1059,iExec RLC
+2024-02-17,staked-frax-ether,72.0,18839,Staked Frax Ether
+2024-02-17,bitcoin,73.0,376,Bitcoin
+2024-02-17,ardor,74.0,211,Ardor
+2024-02-17,merit-circle,75.0,12265,Merit Circle
+2024-02-17,tokenize-xchange,76.0,1115,Tokenize Xchange
+2024-02-17,sun-token,77.0,5302,Sun Token
+2024-02-17,bitget-token,78.0,18811,Bitget Token
+2024-02-17,bitcoin-avalanche-bridged-btc-b,79.0,18226,Bitcoin Avalanche Bridged (BTC.b)
+2024-02-17,ethereum-name-service,80.0,12264,Ethereum Name Service
+2024-02-17,rollbit-coin,81.0,16660,Rollbit Coin
+2024-02-17,ssv-network,82.0,13100,SSV Network
+2024-02-17,biconomy,83.0,13226,Biconomy
+2024-02-17,msol,84.0,10911,Marinade staked SOL
+2024-02-17,bancor,85.0,281,Bancor Network Token
+2024-02-17,avalanche-2,86.0,5518,Avalanche
+2024-02-17,persistence,87.0,8192,Persistence
+2024-02-17,lido-dao,88.0,6723,Lido DAO
+2024-02-17,frax-ether,89.0,18838,Frax Ether
+2024-02-17,dkargo,90.0,5112,dKargo
+2024-02-17,perpetual-protocol,91.0,5288,Perpetual Protocol
+2024-02-17,ripple,92.0,979,XRP
+2024-02-17,aptos,93.0,18796,Aptos
+2024-02-17,tokamak-network,94.0,4927,Tokamak Network
+2024-02-17,immutable-x,95.0,12263,Immutable X
+2024-02-17,guild-of-guardians,96.0,14665,Guild of Guardians
+2024-02-17,threshold-network-token,97.0,15050,Threshold Network Token
+2024-02-17,bitcoin-gold,98.0,391,Bitcoin Gold
+2024-02-17,bluzelle,99.0,528,Bluzelle
+2024-02-17,coinbase-wrapped-staked-eth,100.0,19695,Coinbase Wrapped Staked ETH
