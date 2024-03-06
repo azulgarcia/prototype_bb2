@@ -4,8 +4,6 @@ import json
 from datetime import datetime, timedelta
 import time
 
-api_key = 'CG-1QXc2wiE6NQqxyRCZmN26ypp'
-
 df = pd.read_csv('data/projects_bb2_general.csv')
 
 df['date'] = pd.to_datetime(df['date'])
