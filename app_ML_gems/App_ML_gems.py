@@ -3,13 +3,13 @@ import streamlit as st
 import plotly.express as px
 import plotly.graph_objects as go
 
-df = pd.read_csv("data/bb2_general_performances.csv")
+df = pd.read_csv("app_ML_gems/bb2_gems_performances.csv")
 
 df['date'] = pd.to_datetime(df['date'])
 
 df['date'] = pd.to_datetime(df['date']).dt.date
 
-st.markdown('### Performances projects ML General')
+st.markdown('### Performances projects ML Gems')
 
 #category_filter = st.selectbox('Select category:', df['category'].unique())
 
@@ -69,8 +69,8 @@ fig_performance.update_traces(line_color='green')
 st.markdown("##### Mean performance")
 st.plotly_chart(fig_performance)
 
-default_year = 2024
-default_week = 7
+default_year = df['year'].max()
+default_week = df[df['year'] == default_year]['week'].max()
 
 ### table
 year_filter = st.selectbox('Select year:', df['year'].unique(), index=df['year'].unique().tolist().index(default_year))
@@ -86,3 +86,15 @@ columns_to_display = ['date', 'project_name', 'start_price', 'end_price', 'perfo
 
 st.write(filter_df_final[columns_to_display])
 
+#current week
+st.markdown("##### Projects current week")
+df_actual_week = pd.read_csv('app_ML_gems/bb2_gems_current_week.csv')
+df_actual_week['date'] = pd.to_datetime(df_actual_week['date']).dt.date
+df_actual_week_sort = df_actual_week.sort_values(by='rank', ascending=True)
+num_projects_current = st.slider('Select the number of projects to view:',
+                                min_value=1, max_value=100, value=10)
+df_actual_week_sort_filter = df_actual_week_sort.head(num_projects_current).reset_index()
+
+columns_to_display_actual_week = ['date', 'project_name', 'start_price', 'rank']
+
+st.write(df_actual_week_sort_filter[columns_to_display_actual_week])

@@ -2899,3 +2899,303 @@ date,slug,rank,id_project,name_project
 2024-02-17,bitcoin-gold,98.0,391,Bitcoin Gold
 2024-02-17,bluzelle,99.0,528,Bluzelle
 2024-02-17,coinbase-wrapped-staked-eth,100.0,19695,Coinbase Wrapped Staked ETH
+2024-02-24,agoras-currency-of-tau,1.0,19533,Agoras: Currency of Tau
+2024-02-24,tellor,2.0,1259,Tellor
+2024-02-24,0x0-ai-ai-smart-contract,3.0,19291,0x0.ai: AI Smart Contract
+2024-02-24,akash-network,4.0,5923,Akash Network
+2024-02-24,wemix-token,5.0,6098,Wemix Token
+2024-02-24,bittensor,6.0,21330,Bittensor
+2024-02-24,blockstack,7.0,512,Blockstack
+2024-02-24,thorchain,8.0,1150,Thorchain
+2024-02-24,osmosis,9.0,9792,Osmosis
+2024-02-24,my-neighbor-alice,10.0,7709,My Neighbor Alice
+2024-02-24,lido-staked-sol,11.0,10879,Lido Staked SOL
+2024-02-24,kaspa,12.0,18408,Kaspa
+2024-02-24,render-token,13.0,4469,Render Token
+2024-02-24,echelon-prime,14.0,21262,Echelon Prime
+2024-02-24,cudos,15.0,6963,Cudos
+2024-02-24,cheelee,16.0,21068,Cheelee
+2024-02-24,chromaway,17.0,675,Chromia
+2024-02-24,centrifuge,18.0,9427,Centrifuge
+2024-02-24,wrapped-centrifuge,19.0,9803,Wrapped Centrifuge
+2024-02-24,huobi-token,20.0,989,Huobi Token
+2024-02-24,gnosis,21.0,1103,Gnosis
+2024-02-24,solana,22.0,3747,Solana
+2024-02-24,fasttoken,23.0,21354,Fasttoken
+2024-02-24,loom-network-new,24.0,9753,Loom Network (NEW)
+2024-02-24,pocket-network,25.0,15628,Pocket Network
+2024-02-24,kujira,26.0,13198,Kujira
+2024-02-24,bitcoin-cash,27.0,382,Bitcoin Cash
+2024-02-24,axelar,28.0,18821,Axelar
+2024-02-24,prometeus,29.0,1443,Prometeus
+2024-02-24,nakamoto-games,30.0,12078,Nakamoto Games
+2024-02-24,illuvium,31.0,8054,Illuvium
+2024-02-24,maker,32.0,996,Maker
+2024-02-24,ribbon-finance,33.0,10897,Ribbon Finance
+2024-02-24,goldfinch,34.0,15558,Goldfinch
+2024-02-24,oasis-network,35.0,6150,Oasis Network
+2024-02-24,conflux-token,36.0,6035,Conflux Token
+2024-02-24,audius,37.0,5921,Audius
+2024-02-24,chainlink,38.0,659,ChainLink
+2024-02-24,rollbit-coin,39.0,16660,Rollbit Coin
+2024-02-24,pepe,40.0,22257,Pepe
+2024-02-24,fetch-ai,41.0,1094,Fetch.ai
+2024-02-24,bonk,42.0,18835,Bonk
+2024-02-24,deso,43.0,18799,Decentralized Social
+2024-02-24,genesysgo-shadow,44.0,15487,GenesysGo Shadow
+2024-02-24,staked-ether,45.0,6583,Staked Ether
+2024-02-24,ardor,46.0,211,Ardor
+2024-02-24,staked-frax-ether,47.0,18839,Staked Frax Ether
+2024-02-24,just,48.0,3756,JUST
+2024-02-24,orca,49.0,9841,Orca
+2024-02-24,ethereum-name-service,50.0,12264,Ethereum Name Service
+2024-02-24,storj,51.0,1095,Storj
+2024-02-24,lido-dao,52.0,6723,Lido DAO
+2024-02-24,trias-token,53.0,7573,Trias Token
+2024-02-24,ethereum-classic,54.0,991,Ethereum Classic
+2024-02-24,klay-token,55.0,2391,Klaytn
+2024-02-24,ark,56.0,215,Ark
+2024-02-24,apex-token-2,57.0,16945,ApeX
+2024-02-24,nexo,58.0,1028,NEXO
+2024-02-24,victoria-vr,59.0,13247,Victoria VR
+2024-02-24,frax-ether,60.0,18838,Frax Ether
+2024-02-24,lif3,61.0,18286,LIF3
+2024-02-24,aragon,62.0,204,Aragon
+2024-02-24,quant-network,63.0,1040,Quant
+2024-02-24,aelf,64.0,114,aelf
+2024-02-24,woo-network,65.0,10321,WOO Network
+2024-02-24,ssv-network,66.0,13100,SSV Network
+2024-02-24,mina-protocol,67.0,8477,Mina Protocol (IOU)
+2024-02-24,frax-share,68.0,6597,Frax Share
+2024-02-24,uma,69.0,3750,UMA
+2024-02-24,bitcoin,70.0,376,Bitcoin
+2024-02-24,blur,71.0,20752,Blur
+2024-02-24,merit-circle,72.0,12265,Merit Circle
+2024-02-24,biconomy,73.0,13226,Biconomy
+2024-02-24,immutable-x,74.0,12263,Immutable X
+2024-02-24,msol,75.0,10911,Marinade staked SOL
+2024-02-24,bitcoin-avalanche-bridged-btc-b,76.0,18226,Bitcoin Avalanche Bridged (BTC.b)
+2024-02-24,apecoin,77.0,5649,APEcoin
+2024-02-24,allianceblock-nexera,78.0,21525,AllianceBlock Nexera
+2024-02-24,bitcoin-cash-sv,79.0,408,Bitcoin SV
+2024-02-24,aave,80.0,5613,Aave
+2024-02-24,threshold-network-token,81.0,15050,Threshold Network Token
+2024-02-24,pendle,82.0,8668,Pendle
+2024-02-24,zencash,83.0,1024,Horizen
+2024-02-24,flare-networks,84.0,18837,Flare Network
+2024-02-24,origintrail,85.0,1281,OriginTrail
+2024-02-24,lcx,86.0,2268,LCX
+2024-02-24,ecash,87.0,10703,eCash
+2024-02-24,perpetual-protocol,88.0,5288,Perpetual Protocol
+2024-02-24,tron,89.0,984,TRON
+2024-02-24,avalanche-2,90.0,5518,Avalanche
+2024-02-24,adventure-gold,91.0,10615,Adventure Gold
+2024-02-24,vulcan-forged,92.0,9735,Vulcan Forged
+2024-02-24,request-network,93.0,1142,Request
+2024-02-24,bitget-token,94.0,18811,Bitget Token
+2024-02-24,iexec-rlc,95.0,1059,iExec RLC
+2024-02-24,bancor,96.0,281,Bancor Network Token
+2024-02-24,persistence,97.0,8192,Persistence
+2024-02-24,rocket-pool-eth,98.0,13879,Rocket Pool ETH
+2024-02-24,ripple,99.0,979,XRP
+2024-02-24,livepeer,100.0,1137,Livepeer
+2024-03-02,agoras-currency-of-tau,1.0,19533,Agoras: Currency of Tau
+2024-03-02,certik,2.0,5918,CertiK
+2024-03-02,tellor,3.0,1259,Tellor
+2024-03-02,wemix-token,4.0,6098,Wemix Token
+2024-03-02,audius,5.0,5921,Audius
+2024-03-02,deso,6.0,18799,Decentralized Social
+2024-03-02,akash-network,7.0,5923,Akash Network
+2024-03-02,chromaway,8.0,675,Chromia
+2024-03-02,my-neighbor-alice,9.0,7709,My Neighbor Alice
+2024-03-02,echelon-prime,10.0,21262,Echelon Prime
+2024-03-02,cartesi,11.0,3752,Cartesi
+2024-03-02,fx-coin,12.0,2792,f(x) Coin
+2024-03-02,bittensor,13.0,21330,Bittensor
+2024-03-02,thorchain,14.0,1150,Thorchain
+2024-03-02,blockstack,15.0,512,Blockstack
+2024-03-02,loom-network-new,16.0,9753,Loom Network (NEW)
+2024-03-02,spell-token,17.0,8857,Spell Token
+2024-03-02,osmosis,18.0,9792,Osmosis
+2024-03-02,kaspa,19.0,18408,Kaspa
+2024-03-02,prometeus,20.0,1443,Prometeus
+2024-03-02,solana,21.0,3747,Solana
+2024-03-02,centrifuge,22.0,9427,Centrifuge
+2024-03-02,wrapped-centrifuge,23.0,9803,Wrapped Centrifuge
+2024-03-02,jasmycoin,24.0,7234,JasmyCoin
+2024-03-02,render-token,25.0,4469,Render Token
+2024-03-02,staked-frax-ether,26.0,18839,Staked Frax Ether
+2024-03-02,bitcoin-cash-sv,27.0,408,Bitcoin SV
+2024-03-02,dimo,28.0,19439,DIMO
+2024-03-02,frax-ether,29.0,18838,Frax Ether
+2024-03-02,bitcoin-cash,30.0,382,Bitcoin Cash
+2024-03-02,storj,31.0,1095,Storj
+2024-03-02,cheelee,32.0,21068,Cheelee
+2024-03-02,helium,33.0,3751,Helium
+2024-03-02,ronin,34.0,15732,Ronin
+2024-03-02,maker,35.0,996,Maker
+2024-03-02,illuvium,36.0,8054,Illuvium
+2024-03-02,huobi-token,37.0,989,Huobi Token
+2024-03-02,ribbon-finance,38.0,10897,Ribbon Finance
+2024-03-02,gnosis,39.0,1103,Gnosis
+2024-03-02,dkargo,40.0,5112,dKargo
+2024-03-02,genesysgo-shadow,41.0,15487,GenesysGo Shadow
+2024-03-02,oasis-network,42.0,6150,Oasis Network
+2024-03-02,kujira,43.0,13198,Kujira
+2024-03-02,0x0-ai-ai-smart-contract,44.0,19291,0x0.ai: AI Smart Contract
+2024-03-02,fetch-ai,45.0,1094,Fetch.ai
+2024-03-02,coti,46.0,770,COTI
+2024-03-02,goldfinch,47.0,15558,Goldfinch
+2024-03-02,axelar,48.0,18821,Axelar
+2024-03-02,ark,49.0,215,Ark
+2024-03-02,trias-token,50.0,7573,Trias Token
+2024-03-02,origintrail,51.0,1281,OriginTrail
+2024-03-02,chainlink,52.0,659,ChainLink
+2024-03-02,airtor-protocol,53.0,22234,AirTor Protocol
+2024-03-02,smardex,54.0,21706,SmarDex
+2024-03-02,hashflow,55.0,18805,Hashflow
+2024-03-02,singularitynet,56.0,1101,SingularityNET
+2024-03-02,pepe,57.0,22257,Pepe
+2024-03-02,alephium,58.0,17805,Alephium
+2024-03-02,pocket-network,59.0,15628,Pocket Network
+2024-03-02,staked-ether,60.0,6583,Staked Ether
+2024-03-02,siacoin,61.0,1025,Siacoin
+2024-03-02,lido-staked-sol,62.0,10879,Lido Staked SOL
+2024-03-02,aleph-zero,63.0,17844,Aleph Zero
+2024-03-02,rollbit-coin,64.0,16660,Rollbit Coin
+2024-03-02,aragon,65.0,204,Aragon
+2024-03-02,bitcoin-avalanche-bridged-btc-b,66.0,18226,Bitcoin Avalanche Bridged (BTC.b)
+2024-03-02,klay-token,67.0,2391,Klaytn
+2024-03-02,allianceblock-nexera,68.0,21525,AllianceBlock Nexera
+2024-03-02,livepeer,69.0,1137,Livepeer
+2024-03-02,lido-dao,70.0,6723,Lido DAO
+2024-03-02,gatechain-token,71.0,1015,Gatechain Token
+2024-03-02,aelf,72.0,114,aelf
+2024-03-02,pendle,73.0,8668,Pendle
+2024-03-02,the-graph,74.0,6569,The Graph
+2024-03-02,yearn-finance,75.0,4689,yearn.finance
+2024-03-02,nexo,76.0,1028,NEXO
+2024-03-02,0x,77.0,3,0x
+2024-03-02,compound-governance-token,78.0,4340,Compound
+2024-03-02,ethereum-classic,79.0,991,Ethereum Classic
+2024-03-02,nosana,80.0,17769,Nosana
+2024-03-02,whitebit,81.0,18795,WhiteBIT Token
+2024-03-02,frax-share,82.0,6597,Frax Share
+2024-03-02,tokamak-network,83.0,4927,Tokamak Network
+2024-03-02,crypto-com-chain,84.0,809,Crypto.com Coin
+2024-03-02,uma,85.0,3750,UMA
+2024-03-02,perpetual-protocol,86.0,5288,Perpetual Protocol
+2024-03-02,bitcoin,87.0,376,Bitcoin
+2024-03-02,blur,88.0,20752,Blur
+2024-03-02,sun-token,89.0,5302,Sun Token
+2024-03-02,band-protocol,90.0,282,Band Protocol
+2024-03-02,immutable-x,91.0,12263,Immutable X
+2024-03-02,aave,92.0,5613,Aave
+2024-03-02,merit-circle,93.0,12265,Merit Circle
+2024-03-02,conflux-token,94.0,6035,Conflux Token
+2024-03-02,tron,95.0,984,TRON
+2024-03-02,just,96.0,3756,JUST
+2024-03-02,status,97.0,1041,Status
+2024-03-02,magic,98.0,11258,Magic
+2024-03-02,adventure-gold,99.0,10615,Adventure Gold
+2024-03-02,coinbase-wrapped-staked-eth,100.0,19695,Coinbase Wrapped Staked ETH
+2024-03-09,tellor,1.0,1259,Tellor
+2024-03-09,certik,2.0,5918,CertiK
+2024-03-09,agoras-currency-of-tau,3.0,19533,Agoras: Currency of Tau
+2024-03-09,audius,4.0,5921,Audius
+2024-03-09,hifi-finance,5.0,18840,Hifi Finance
+2024-03-09,fx-coin,6.0,2792,f(x) Coin
+2024-03-09,deso,7.0,18799,Decentralized Social
+2024-03-09,akash-network,8.0,5923,Akash Network
+2024-03-09,alien-worlds,9.0,8313,Alien Worlds
+2024-03-09,wemix-token,10.0,6098,Wemix Token
+2024-03-09,jasmycoin,11.0,7234,JasmyCoin
+2024-03-09,thorchain,12.0,1150,Thorchain
+2024-03-09,chromaway,13.0,675,Chromia
+2024-03-09,my-neighbor-alice,14.0,7709,My Neighbor Alice
+2024-03-09,shiba-inu,15.0,5083,Shiba Inu
+2024-03-09,echelon-prime,16.0,21262,Echelon Prime
+2024-03-09,bittensor,17.0,21330,Bittensor
+2024-03-09,blockstack,18.0,512,Blockstack
+2024-03-09,loom-network-new,19.0,9753,Loom Network (NEW)
+2024-03-09,osmosis,20.0,9792,Osmosis
+2024-03-09,helium,21.0,3751,Helium
+2024-03-09,wrapped-centrifuge,22.0,9803,Wrapped Centrifuge
+2024-03-09,centrifuge,23.0,9427,Centrifuge
+2024-03-09,render-token,24.0,4469,Render Token
+2024-03-09,bonk,25.0,18835,Bonk
+2024-03-09,solana,26.0,3747,Solana
+2024-03-09,huobi-token,27.0,989,Huobi Token
+2024-03-09,cheelee,28.0,21068,Cheelee
+2024-03-09,prometeus,29.0,1443,Prometeus
+2024-03-09,tokenlon,30.0,6643,Tokenlon
+2024-03-09,illuvium,31.0,8054,Illuvium
+2024-03-09,dimo,32.0,19439,DIMO
+2024-03-09,kaspa,33.0,18408,Kaspa
+2024-03-09,bitcoin-cash-sv,34.0,408,Bitcoin SV
+2024-03-09,holotoken,35.0,1004,Holo
+2024-03-09,lido-staked-sol,36.0,10879,Lido Staked SOL
+2024-03-09,dent,37.0,929,Dent
+2024-03-09,link,38.0,3021,LINK
+2024-03-09,bitcoin-cash,39.0,382,Bitcoin Cash
+2024-03-09,whitebit,40.0,18795,WhiteBIT Token
+2024-03-09,uquid-coin,41.0,1438,Uquid Coin
+2024-03-09,goldfinch,42.0,15558,Goldfinch
+2024-03-09,tominet,43.0,19102,tomiNet
+2024-03-09,genesysgo-shadow,44.0,15487,GenesysGo Shadow
+2024-03-09,storj,45.0,1095,Storj
+2024-03-09,gnosis,46.0,1103,Gnosis
+2024-03-09,fetch-ai,47.0,1094,Fetch.ai
+2024-03-09,maker,48.0,996,Maker
+2024-03-09,dkargo,49.0,5112,dKargo
+2024-03-09,trias-token,50.0,7573,Trias Token
+2024-03-09,coinbase-wrapped-staked-eth,51.0,19695,Coinbase Wrapped Staked ETH
+2024-03-09,apex-token-2,52.0,16945,ApeX
+2024-03-09,staked-frax-ether,53.0,18839,Staked Frax Ether
+2024-03-09,cartesi,54.0,3752,Cartesi
+2024-03-09,victoria-vr,55.0,13247,Victoria VR
+2024-03-09,ronin,56.0,15732,Ronin
+2024-03-09,singularitynet,57.0,1101,SingularityNET
+2024-03-09,ark,58.0,215,Ark
+2024-03-09,wrapped-nxm,59.0,4702,Wrapped NXM
+2024-03-09,nosana,60.0,17769,Nosana
+2024-03-09,ribbon-finance,61.0,10897,Ribbon Finance
+2024-03-09,oasis-network,62.0,6150,Oasis Network
+2024-03-09,frax-ether,63.0,18838,Frax Ether
+2024-03-09,frax-share,64.0,6597,Frax Share
+2024-03-09,ethereum-classic,65.0,991,Ethereum Classic
+2024-03-09,arc,66.0,17379,Arc
+2024-03-09,origintrail,67.0,1281,OriginTrail
+2024-03-09,mask-network,68.0,7426,Mask Network
+2024-03-09,chainlink,69.0,659,ChainLink
+2024-03-09,neo,70.0,990,NEO
+2024-03-09,aragon,71.0,204,Aragon
+2024-03-09,pocket-network,72.0,15628,Pocket Network
+2024-03-09,livepeer,73.0,1137,Livepeer
+2024-03-09,tokamak-network,74.0,4927,Tokamak Network
+2024-03-09,allianceblock-nexera,75.0,21525,AllianceBlock Nexera
+2024-03-09,metadium,76.0,3112,Metadium
+2024-03-09,uma,77.0,3750,UMA
+2024-03-09,perpetual-protocol,78.0,5288,Perpetual Protocol
+2024-03-09,compound-governance-token,79.0,4340,Compound
+2024-03-09,aelf,80.0,114,aelf
+2024-03-09,axelar,81.0,18821,Axelar
+2024-03-09,staked-ether,82.0,6583,Staked Ether
+2024-03-09,ripple,83.0,979,XRP
+2024-03-09,ecomi,84.0,3159,ECOMI
+2024-03-09,bitcoin-avalanche-bridged-btc-b,85.0,18226,Bitcoin Avalanche Bridged (BTC.b)
+2024-03-09,conflux-token,86.0,6035,Conflux Token
+2024-03-09,rocket-pool-eth,87.0,13879,Rocket Pool ETH
+2024-03-09,tokenize-xchange,88.0,1115,Tokenize Xchange
+2024-03-09,omisego,89.0,1009,OMG Network
+2024-03-09,aave,90.0,5613,Aave
+2024-03-09,bitcoin,91.0,376,Bitcoin
+2024-03-09,0x,92.0,3,0x
+2024-03-09,floki,93.0,18797,FLOKI
+2024-03-09,basic-attention-token,94.0,291,Basic Attention Token
+2024-03-09,theta-token,95.0,1011,Theta Network
+2024-03-09,bitkub-coin,96.0,9133,Bitkub Coin
+2024-03-09,milk-alliance,97.0,8283,MiL.k Alliance
+2024-03-09,bitcoin-gold,98.0,391,Bitcoin Gold
+2024-03-09,just,99.0,3756,JUST
+2024-03-09,spell-token,100.0,8857,Spell Token

@@ -1,7 +1,7 @@
 import pandas as pd
 from app_ML_general.update.cb_database_connection import open_connection
 
-df = pd.read_csv('data/projects_bb2_gems.csv')
+df = pd.read_csv('../data/projects_bb2_gems.csv')
 
 df['date'] = pd.to_datetime(df['date'])
 df['year'] = df['date'].dt.strftime('%Y')
@@ -50,7 +50,7 @@ for index, row in df.iterrows():
                          'performance': performance,
                          'rank': rank,
                          })
-        print(name, id, year, week, init_price, end_price, performance)
+        print(name, id, year, week, date, init_price, end_price, performance)
     except:
         print(f'{year}, {week}, Project: {name},: has prices problems')
 

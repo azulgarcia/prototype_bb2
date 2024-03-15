@@ -2,7 +2,7 @@ import os
 import pymongo
 from datetime import datetime
 import pandas as pd
-from cb_database_connection import open_connection
+from app_ML_general.update.cb_database_connection import open_connection
 
 user_mongo = os.environ.get('USER')
 pass_mongo = os.environ.get('PASS')
@@ -13,8 +13,8 @@ db = client["BirdBrainDB"]
 
 collection = db["predictionsBBPro2"]
 
-start_date = datetime(2023, 8, 1)
-end_date = datetime(2024, 3, 4)
+start_date = datetime(2024, 2, 18)
+end_date = datetime(2024, 3, 16)
 
 query = {"date": {"$gte": start_date, "$lt": end_date}}
 
@@ -61,4 +61,4 @@ for index, row in df.iterrows():
     finally:
         cursor.close()
 
-df.to_csv('data/projects_bb2_general.csv', sep=',', index=False)
+df.to_csv('data/projects_bb2_general_week_10.csv', sep=',', index=False)

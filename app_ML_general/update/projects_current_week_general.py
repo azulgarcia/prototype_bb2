@@ -1,17 +1,24 @@
 import pandas as pd
 from cb_database_connection import open_connection
 
-df = pd.read_csv('data/projects_bb2_general.csv')
+df = pd.read_csv('../data/projects_bb2_general_week_10.csv')
 
 df['date'] = pd.to_datetime(df['date'])
 df['year'] = df['date'].dt.strftime('%Y')
 df['week'] = df['date'].dt.strftime('%W')
 
+year = '2024'
+current_week = '10'
+
+print(df)
+
+filter_df = df[(df['year'] == year) & (df['week'] == current_week)]
+
 df_performances = []
 
 connection = open_connection()
 
-for index, row in df.iterrows():
+for index, row in filter_df.iterrows():
     id = row['id_project']
     year = int(row['year'])
     week = int(row['week'])
@@ -26,19 +33,6 @@ for index, row in df.iterrows():
         price_init_week = cursor.fetchall()
         init_price = float(price_init_week[0]['price'])
 
-        query_end_price = "select price, created_at from prices " \
-                           "where id_project = %s and year(created_at) = %s and week(b.created_at,3) = %s;"
-
-        if week == 52:
-            cursor.execute(query_init_price, (id, year+1, 1,))
-        else:
-            cursor.execute(query_init_price, (id, year, week + 1,))
-
-        price_end_week = cursor.fetchall()
-        end_price = float(price_end_week[0]['price'])
-
-        performance = (end_price - init_price) / init_price
-
         df_performances.append({
                          'date': date,
                          'year': year,
@@ -46,11 +40,9 @@ for index, row in df.iterrows():
                          'id_project': id,
                          'project_name': name,
                          'start_price': init_price,
-                         'end_price': end_price,
-                         'performance': performance,
                          'rank': rank,
                          })
-        print(name, id, year, week, init_price, end_price, performance)
+        print(name, id, year, week, date, init_price)
     except:
         print(f'{year}, {week}, Project: {name},: has prices problems')
 
@@ -58,4 +50,4 @@ for index, row in df.iterrows():
         cursor.close()
 
 df_performances = pd.DataFrame(df_performances)
-df_performances.to_csv('data/bb2_general_performances.csv', sep=',', index=False)
+df_performances.to_csv('data/bb2_general_current_week.csv', sep=',', index=False)
